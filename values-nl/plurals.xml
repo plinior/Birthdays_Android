@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="daysLeft">
+        <item quantity="zero">vandaag</item>
+        <item quantity="one">morgen</item>
+        <item quantity="other">%d dagen wachten</item>
+    </plurals>
+</resources>

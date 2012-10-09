@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Anniversaires</string>
+    <string name="help">Aide</string>
+    <string name="helpText"><b>Menu d\'options</b>\nDans le menu d\'options vous pouvez trouver plusieurs fonctionnalités supplémentaires de cette application, par exemple, vous pouvez modifier les préférences ou ajouter de nouveaux contacts à votre liste d\'anniversaires.\n\n<b>Appuyant longuement sur un contact:</b>\nLorsque vous appuyez sur un contact dans votre liste d\'anniversaires pendant une longue période, un menu avec des options apparaîtra où vous pouvez choisir de modifier ou supprimer une entrée existante dans votre liste d\'anniversaires.\n\nAJOUTER DES PHOTOS:\nVous ne pouvez ajouter des photos pour les personnes qui ne sont pas dans vos contacts, mais ajoutés manuellement à cette demande. Pour les personnes de votre liste de contacts, s\'il vous plaît modifier l\'entrée dans vos contacts Android.\n\nWIDGET:\nAccédez à votre écran d\'accueil et cliquez sur \"Ajouter\", puis \"Widget\" pour ajouter les anniversaires à venir à votre écran d\'accueil. Votre widget sera rafraîchi toutes les 6 heures!\n\n1970 PROBLÈME:\nSi vous ne pouvez pas saisir les dates antérieures à 1970, vous avez probablement un appareil Motorola. Il existe plusieurs dispositifs de Motorola et d\'autres fabricants qui vous empêchent de saisir une date antérieure à 1970, en raison d\'un bogue. Nous ne pouvons pas changer cela, désolé!\n\nAUCUNE NOTIFICATION:\nLes dernières versions d\'Android, c\'est à dire 4.0 et 4.1, offrent des réglages spéciaux pour les notifications. Par exemple, vous pouvez désactiver toutes les notifications dans la barre d\'état (où 3G, Wi-Fi, GPS et Bluetooth sont situés) ou désactiver les notifications dans \"apps\" Gérer parmi vos paramètres. S\'il vous plaît vérifier ces paramètres si vos notifications ne fonctionnent pas.\n\nPASSAGE AU STOCKAGE EXTERNE:\nVous ne pouvez pas déplacer cette application pour le stockage externe (carte SD) que les notifications pour les anniversaires à venir ne fonctionne pas dans ce cas. Désolé!\n\nFORMATS DE DATE EN CHARGE:\nNous soutenons pleinement les formats de date selon la norme ISO 8601, qui est AAAA-MM-JJ. Pour les autres formats, nous ne pouvons garantir qu\'ils soient lus correctement.\n\nPUIS-JE AIDER LA TRADUCTION APP?\nOui, vous le pouvez. Il suffit d\'utiliser notre application sur Facebook, où vous pouvez facilement modifier toutes les traductions et les améliorer pour tous les utilisateurs. S\'il vous plaît ouvrir le lien suivant sur un ordinateur de bureau pour une meilleure lecture et rédaction: http://birthdays.latein.me/</string>
+    <string name="emptyList">Les anniversaires sont en charge!</string>
+    <string name="goHome">En arrière</string>
+    <string name="telephone">Téléphone</string>
+    <string name="settingsGeneral">Paramètres généraux</string>
+    <string name="showPhotos">Photos des contacts</string>
+    <string name="showPhotos_on">Les photos des contacts sera montré.</string>
+    <string name="showPhotos_off">Les photos des contacts ne sera pas montré.</string>
+    <string name="nextBirthdayOnWeekDay">Le prochain anniversaire est un</string>
+    <string name="nextAnniversaryOnWeekDay">Le prochain anniversaire est un</string>
+    <string name="tipDontEnterYear"><b>Conseil:</b> Vous ne voulez pas saisir un an? Il suffit de taper \"1900\" et l\'année ne sera pas montré.</string>
+    <string name="contactPhoto">Photo du contact</string>
+    <string name="daysLeftUnit">jours</string>
+    <string name="birthdaysFoundSg">anniversaire dans ta liste des contacts!</string>
+    <string name="birthdaysFoundPl">anniversaires dans ta liste des contacts!</string>
+    <string name="noBirthdaysFound">Pas d\'anniversaire dans ta liste des contacts!</string>
+    <string name="turnVerb">aura</string>
+    <string name="onTime">le</string>
+    <string name="pleaseWait">S\'il vous plaît attendre</string>
+    <string name="refreshingList">La liste est mise à jour &#8230;</string>
+    <string name="bornOn">Né le:</string>
+    <string name="anniversaryOn">Anniversaire, le:</string>
+    <string name="age">Âge:</string>
+    <string name="yearsMarried">Depuis:</string>
+    <string name="years">ans</string>
+    <string name="ok">OK</string>
+    <string name="today">aujourd\'hui</string>
+    <string name="in">en</string>
+    <string name="birthday">Anniversaire</string>
+    <string name="yearsOld">années</string>
+    <string name="loading">en charge</string>
+    <string name="fullTextConvinced">Cette application vous a convaincu? Nous serions heureux si vous pouviez évaluer l\'application sur Google Play. Merci pour votre soutien!</string>
+    <string name="rateApp">Évaluer cette application</string>
+    <string name="rateNow">Évaluer maintenant</string>
+    <string name="remindLater">Plus tard</string>
+    <string name="noThanks">Non, merci!</string>
+    <string name="onlyFirstFew">Seuls les 25 premiers contacts sont représentés.</string>
+    <string name="callVerb">Appel</string>
+    <string name="mode_add">Ajoute</string>
+    <string name="mode_edit">Modifier</string>
+    <string name="mode_rate">Évaluer</string>
+    <string name="mode_backup">Sauvegarde</string>
+    <string name="mode_feedback">Commentaires</string>
+    <string name="mode_help">Aide</string>
+    <string name="mode_buy">Cadeaux</string>
+    <string name="birthdayEdited">L\'anniversaire sélectionné a été modifié á la nouvelle date.</string>
+    <string name="cancel">Annuler</string>
+    <string name="save">Mémorise</string>
+    <string name="smsVerb">SMS</string>
+    <string name="congratulationSMS">Joyeux anniversaire!</string>
+    <string name="comingSoon">Bientôt disponible!</string>
+    <string name="nameOfPerson">Nom de la personne</string>
+    <string name="dateOfBirth">Choisir la date</string>
+    <string name="birthdayAdded">Le nouveau anniversaire est ajouté et est affiché lorsque vous ouvrez l\'application la prochaine fois.</string>
+    <string name="delete">Effacer</string>
+    <string name="edit">Changer la date</string>
+    <string name="birthdayDeleted">L\'anniversaire sélectionné a été effacé.</string>
+    <string name="mode_preferences">Paramètres</string>
+    <string name="notification_on">Notifications sont affichées.</string>
+    <string name="notification_off">Pas de notification.</string>
+    <string name="notification_0">à l\'anniversaire</string>
+    <string name="notification_1">1 jour avant</string>
+    <string name="notification_2">2 jours avant</string>
+    <string name="notification_7">1 semaine avant</string>
+    <string name="notification_time">L\'heure de la notification</string>
+    <string name="notification_sound">Sonnerie de la notification</string>
+    <string name="notification_sound_desc">Choisissez une sonnerie ou \"Muet\"</string>
+    <string name="setTime">Réglez votre temps préféré &#8230;</string>
+    <string name="notificationsForBirthdays">Notifications pour l\'anniversaire</string>
+    <string name="caption_adding_mode">Ajouter une entrée</string>
+    <string name="hint_adding_mode">Si possible, vous devriez toujours ajouter des anniversaires à vos contacts. Vous pouvez utiliser plus de fonctionnalités, puis.</string>
+	<string name="adding_mode_contacts">choisir à partir des contacts</string>
+	<string name="adding_mode_newentry">sans contact par téléphone</string>
+	<string name="createBackup">Créer sauvegarde</string>
+	<string name="email_backup">Sauvegarde par courriel</string>
+	<string name="send_backup">Envoyer sauvegarde avec &#8230;</string>
+	<string name="your_email_address">Votre adresse de courriel &#8230;</string>
+	<string name="hint_backup_mode">Ici, vous pouvez envoyer une copie de votre liste à votre adresse e-mail afin que vous ayez une sauvegarde sécurisée. Cela permettra d\'éviter vos données ne soient perdues.</string>
+	<string name="pleaseEnterEmail">S\'il vous plaît entrer une adresse email valide!</string>
+	<string name="mode_search">Rechercher</string>
+	<string name="searchNoResult">Impossible de trouver une personne dans votre liste correspondant à ce nom!</string>
+	<string name="findPerson">Trouver une personne</string>
+	<string name="searchPerson">Recherche personne &#8230;</string>
+	<string name="hint_search_mode">Lors de la recherche d\'une personne dans votre liste d\'anniversaires, en tapant une partie du nom est généralement suffisant.</string>
+	<string name="zodiac">Zodiaque</string>
+	<string name="zodiac_aries">Bélier</string>
+	<string name="zodiac_taurus">Taureau</string>
+	<string name="zodiac_gemini">Gémeaux</string>
+	<string name="zodiac_cancer">Cancer</string>
+	<string name="zodiac_leo">Lion</string>
+	<string name="zodiac_virgo">Vierge</string>
+	<string name="zodiac_libra">Balance</string>
+	<string name="zodiac_scorpio">Scorpion</string>
+	<string name="zodiac_sagittarius">Sagittaire</string>
+	<string name="zodiac_capricornus">Capricorne</string>
+	<string name="zodiac_aquarius">Verseau</string>
+	<string name="zodiac_pisces">Poissons</string>
+	<string name="changePicture">Changer la photo</string>
+	<string name="change_name">Changer le nom</string>
+	<string name="sortBy">Trier par</string>
+	<string name="sortBy_change">Changer la façon dont les éléments de votre liste sont triés</string>
+	<string-array name="sortBy_values_human">
+        <item>Jours restants</item>
+        <item>Nom</item>
+        <item>Âge</item>
+    </string-array>
+	<string-array name="sortBy_values_machine">
+        <item>days_left</item>
+        <item>name</item>
+        <item>age</item>
+    </string-array>
+    <string name="show_phoneButtons">Boutons du téléphone</string>
+    <string name="show_phoneButtons_on">Boutons pour appel et SMS seront affichés.</string>
+    <string name="show_phoneButtons_off">Boutons pour appel et SMS ne seront pas montré.</string>
+    <string name="choose_type">Choisir le type</string>
+    <string name="type_birthday">Anniversaire de naissance</string>
+    <string name="type_anniversary">Anniversaire d\'événement</string>
+    <string name="open_contact">Ouvrez de contact</string>
+    <string name="buyVerb">Acheter un cadeau</string>
+    <string name="donate_link">http://bit.ly/M7308C</string>
+    <string name="buy_link">http://www.amazon.fr/?_encoding=UTF8&#38;tag=cumplean01-21&#38;linkCode=ur2&#38;camp=1642&#38;creative=6746</string>
+    <string name="doExport">Exporter / Enregistrer</string>
+    <string name="doImport">Importer / Charger</string>
+    <string name="importVerb">Importer</string>
+	<string name="loadBackup">Charger</string>
+	<string name="pleaseEnterImportData">Désolé, l\'importation n\'a pas pu être terminé!</string>
+    <string name="hint_import_mode">S\'il vous plaît regardez pour l\'e-mail de sauvegarde que vous avez exporté ici, dans votre boîte e-mail et de copier le texte intégral de cet e-mail. Lorsque vous êtes prêt, s\'il vous plaît cliquer \"Charger\" ci-dessous.</string>
+    <string name="sendErrorReport">Rapport de bogue</string>
+    <string name="send">Envoyer</string>
+    <string name="invalidDate">Date invalide.</string>
+    <string name="pleaseCorrect">S\'il vous plaît corriger cela!</string>
+    <string name="tryOpeningInvalid">Il s\'agit d\'une entrée non valide. S\'il vous plaît il à long appuyez sur et sélectionnez \"Changer la date\".</string>
+    <string name="bugReportHint">S\'il vous plaît décrire le problème ou l\'erreur qui se produit. Soyez aussi précis que possible.</string>
+    <string name="chineseZodiac">Chinois</string>
+	<string name="chinese_rat">Rat</string>
+	<string name="chinese_ox">Bœuf</string>
+	<string name="chinese_tiger">Tigre</string>
+	<string name="chinese_rabbit">Lapin</string>
+	<string name="chinese_dragon">Dragon</string>
+	<string name="chinese_snake">Serpent</string>
+	<string name="chinese_horse">Cheval</string>
+	<string name="chinese_goat">Mouton</string>
+	<string name="chinese_monkey">Singe</string>
+	<string name="chinese_rooster">Coq</string>
+	<string name="chinese_dog">Chien</string>
+	<string name="chinese_pig">Porc</string>
+	<string name="show_zodiac">Signes du zodiaque</string>
+	<string name="show_zodiac_description">Voulez-vous que les signes du zodiaque sont montrés?</string>
+	<string-array name="show_zodiac_values_human">
+        <item>Occidental</item>
+        <item>Chinois</item>
+        <item>Occidental + Chinois</item>
+        <item>Aucun</item>
+    </string-array>
+	<string-array name="show_zodiac_values_machine">
+        <item>western</item>
+        <item>chinese</item>
+        <item>both</item>
+        <item>none</item>
+    </string-array>
+	<string name="do_repeatsound">Répéter sonnerie</string>
+	<string name="do_repeatsound_on">La sonnerie de notification sera répétée jusqu\'à ce que vous fermez la notification.</string>
+	<string name="do_repeatsound_off">La sonnerie de notification ne sera joué qu\'une fois.</string>
+	<string name="facebookImport">Importer de Facebook</string>
+	<string name="facebook_import_app">https://apps.facebook.com/birthdays_android/</string>
+	<string name="hint_facebookImport">Vous pouvez utiliser notre application \"Birthdays for Android\" sur Facebook afin d\'exporter tous les anniversaires de vos amis Facebook à ce soft. Si vous continuez, nous allons ouvrir l\'application sur le site Facebook pour vous. Il vous guidera à travers 5 étapes faciles - juste essayer it.\nComme alternatif, vous pouvez ouvrir \"bit.ly/birthdays_export\" dans votre navigateur de bureau.</string>
+	<string name="proceed">Continuer</string>
+	<string name="install">Installer maintenant</string>
+	<string name="missing_addon_title">Installez l\'Add-on</string>
+	<string name="missing_addon_explain">Cette fonction requiert des autorisations pour l\'accès Internet et carte SD! Pour cette raison, il est uniquement disponible avec notre add-on gratuit (via Google Play). Vous pouvez choisir: Utilisez cette application sans ces autorisations étendues ou télécharger gratuitement le logiciel add-on pour profiter de fonctions supplémentaires. L\'add-on vous permet de créer et charger des sauvegardes sur carte SD, anniversaires d\'importation à partir de Facebook facilement et ainsi de suite. Essayez-le! C\'est gratuit.</string>
+    <string name="permission_birthdays">Anniversaires</string>
+    <string name="permission_access_birthdays">Permis d\'échange de données entre l\'application Anniversaires et son add-on.</string>
+    <string name="show_help">Afficher l\'aide</string>
+    <string name="rate_app">Évaluez l\'app</string>
+    <string name="addon_market">Add-on sur Google Play</string>
+    <string name="export_fail">Désolé, l\'exportation de vos données n\'ont pas pu être démarré!</string>
+    <string name="loading_facebook">Chargement des données de Facebook &#8230;</string>
+    <string name="notification_close">Fermer</string>
+    <string name="notification_remind1">Rappelez à nouveau en 15min</string>
+    <string name="notification_remind2">Rappelez à nouveau en 1h</string>
+    <string name="notification_remind3">Rappelez à nouveau en 6h</string>
+    <string name="importing_entries">Importation des entrées sélectionnées &#8230;</string>
+    <string name="open_app">Ouvrir app</string>
+    <string-array name="default_images">
+        <item>Anniversaire (1)</item>
+        <item>Anniversaire (2)</item>
+        <item>Jubilé</item>
+        <item>Amour</item>
+        <item>Mariage</item>
+        <item>Décès (1)</item>
+        <item>Décès (2)</item>
+    </string-array>
+    <string-array name="default_images_copyright">
+        <item>Africa Studio</item>
+        <item>bluedesign</item>
+        <item>shoot4u</item>
+        <item>Konstiantyn</item>
+        <item>artikularis</item>
+        <item>Pixel Embargo</item>
+        <item>Benjamin Haas</item>
+    </string-array>
+    <string name="pick_from_gallery">Choisissez parmi galerie</string>
+    <string name="pick_predefined_image">Sélectionnez image commune</string>
+    <string name="image_provided_by">Cette image a été fourni par</string>
+    <string name="helpTranslating">Aider à traduire</string>
+    <string name="translationHelpHowto">S\'il vous plaît ouvrir dans votre navigateur sur votre ordinateur (pour une meilleure lisibilité et l\'édition):\nhttp://birthdays.latein.me/</string>
+    <string name="menu_main">Menu principal</string>
+	<string name="update_addon_title">Mise à jour le Add-on</string>
+	<string name="update_addon_explain">Votre add-on n\'est pas up-to-date de plus! S\'il vous plaît appuyez sur le bouton ci-dessous pour consulter Google Play et le mettre à jour à la dernière version gratuitement. Toutes les fonctions seront ensuite travailler à nouveau parfaitement.</string>
+	<string name="mode_translate">Traduire</string>
+	<string name="days_abbreviation">d</string>
+	<string name="sure_to_delete">Are you sure you want to delete this entry?</string>
+	<string name="yes">Oui</string>
+	<string name="no">Non</string>
+	<string name="merge_with_contact">Fusionner avec contact</string>
+	<string name="merge_explanation">Voulez-vous fusionner cette entrée avec un contact téléphonique existante?</string>
+	<string name="entry_merged">L\'entrée a été correctement fusionné avec le contact sélectionné.</string>
+	<string name="contacts_app_not_found">Le soft contacts n\'ont pas pu être trouvés sur votre appareil!</string>
+</resources>

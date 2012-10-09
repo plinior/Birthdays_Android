@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="daysLeft">
+        <item quantity="zero">сегодня</item>
+        <item quantity="one">завтра</item>
+        <item quantity="other">%d дн. осталось</item>
+    </plurals>
+</resources>

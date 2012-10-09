@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Geburtstage</string>
+    <string name="help">Hilfe</string>
+    <string name="helpText">OPTIONSMENÜ:\nIm Optionsmenü findest du zusätzliche Funktionen dieser App, wie z.B. das Ändern der Einstellungen oder das Hinzufügen von neuen Geburtstagen.\n\nEINTRAG LANGE DRÜCKEN:\nWenn du den Eintrag eines Kontakts in der Liste der Geburtstage lange gedrückt hältst, öffnet sich ein Menü, in dem du einen bestehenden Eintrag ändern oder löschen kannst.\n\nFOTOS HINZUFÜGEN:\nDu kannst nur Fotos für Leute hinzufügen, die nicht in deinen Kontakten sind, sondern manuell hinzugefügt zu dieser App hinzugefügt wurden. Für Leute aus deiner Kontaktliste bearbeitest du bitte den Eintrag in deinen Android-Kontakten.\n\nWIDGET:\nGehe zu deinem Homescreen und wähle \"Hinzufügen\", dann \"Widget\", um die bevorstehenden Geburtstage zu deinem Homescreen hinzuzufügen. Dein Widget aktualisiert sich automatisch alle 6 Stunden!\n\n1970-PROBLEM:\nWenn Du keine Daten vor 1970 eingeben kannst, hast Du wahrscheinlich ein Motorola-Gerät. Es gibt einige Geräte von Motorola und anderen Herstellern, die Dich aufgrund eines Fehlers daran hindern, Daten vor 1970 einzugeben. Wir können das nicht ändern, sorry!\n\nKEINE BENACHRICHTIGUNGEN:\nDie neuesten Versionen von Android, d.h. 4.0 und 4.1, bieten spezielle Einstellungen für Benachrichtigungen an. So kannst Du beispielsweise alle Benachrichtigungen in der Statusbar (wo auch 3G, Wi-Fi, GPS und Bluetooth zu finden sind) abschalten oder die Benachrichtigungen für einzelne Apps unter \"Anwendungen verwalten\" in den Einstellungen deaktivieren. Bitte überprüfe diese Einstellungen, wenn Deine Benachrichtigungen nicht funktionieren.\n\nAUF SD-KARTE VERSCHIEBEN:\nDiese App kann nicht auf die SD-Karte verschoben werden, da die Benachrichtigungen für bevorstehende Geburtstage in diesem Fall nicht mehr funktionieren würden. Sorry!\n\nUNTERSTÜTZTE DATUMSFORMATE:\nWir unterstützen Daten gemäß ISO 8601 vollständig, das bedeutet JJJJ-MM-TT. Für andere Formate können wir leider keine Garantie übernehmen, dass diese korrekt gelesen werden.\n\nKANN ICH BEIM ÜBERSETZEN DER APP HELFEN?\nJa, sehr gerne. Benutze einfach unsere Anwendung auf Facebook, wo Du ganz leicht alle Übersetzungen bearbeiten und für alle Nutzer verbessern kannst. Bitte öffne den folgenden Link auf einem Desktop-PC für bessere Lesbarkeit und Bearbeitung: http://birthdays.latein.me/</string>
+    <string name="emptyList">Geburtstage werden geladen!</string>
+    <string name="goHome">Zur Startseite</string>
+    <string name="telephone">Telefon</string>
+    <string name="settingsGeneral">Allgemeine Einstellungen</string>
+    <string name="showPhotos">Kontaktfotos</string>
+    <string name="showPhotos_on">Fotos der Kontakte werden angezeigt.</string>
+    <string name="showPhotos_off">Fotos der Kontakte werden nicht angezeigt.</string>
+    <string name="nextBirthdayOnWeekDay">Der nächste Geburtstag ist an einem</string>
+    <string name="nextAnniversaryOnWeekDay">Der nächste Jahrestag ist an einem</string>
+    <string name="tipDontEnterYear"><b>Tipp:</b> Du möchtest kein Jahr angeben? Tippe einfach \"1900\" ein - so wird später kein Jahr angezeigt.</string>
+    <string name="contactPhoto">Foto des Kontakts</string>
+    <string name="daysLeftUnit">Tage</string>
+    <string name="birthdaysFoundSg">Geburtstag in deiner Kontaktliste gefunden!</string>
+    <string name="birthdaysFoundPl">Geburtstage in deiner Kontaktliste gefunden!</string>
+    <string name="noBirthdaysFound">Keine Geburtstage in deiner Kontaktliste gefunden!</string>
+    <string name="turnVerb">wird</string>
+    <string name="onTime">am</string>
+    <string name="pleaseWait">Bitte warten</string>
+    <string name="refreshingList">Liste wird aktualisiert &#8230;</string>
+    <string name="bornOn">Geboren am:</string>
+    <string name="anniversaryOn">Jahrestag am:</string>
+    <string name="age">Alter:</string>
+    <string name="yearsMarried">Seit:</string>
+    <string name="years">Jahre</string>
+    <string name="ok">OK</string>
+    <string name="today">heute</string>
+    <string name="in">in</string>
+    <string name="birthday">Geburtstag</string>
+    <string name="yearsOld">Jahre alt</string>
+    <string name="loading">lädt</string>
+    <string name="fullTextConvinced">Hat diese App dich überzeugt? Wir würden uns freuen, wenn Du die Anwendung bei Google Play bewerten würdest. Danke für Deine Unterstützung!</string>
+    <string name="rateApp">App bewerten</string>
+    <string name="rateNow">Jetzt bewerten</string>
+    <string name="remindLater">Später erinnern</string>
+    <string name="noThanks">Nein, danke</string>
+    <string name="onlyFirstFew">Es werden nur die ersten 25 Kontakte angezeigt!</string>
+    <string name="callVerb">Anrufen</string>
+    <string name="mode_add">Hinzufügen</string>
+    <string name="mode_edit">Ändern</string>
+    <string name="mode_rate">Bewerten</string>
+    <string name="mode_backup">Backup</string>
+    <string name="mode_feedback">Feedback</string>
+    <string name="mode_help">Hilfe</string>
+    <string name="mode_buy">Geschenke</string>
+    <string name="birthdayEdited">Der ausgewählte Geburtstag wurde auf das neue Datum aktualisiert.</string>
+    <string name="cancel">Abbrechen</string>
+    <string name="save">Speichern</string>
+    <string name="smsVerb">SMS</string>
+    <string name="congratulationSMS">Alles Gute zum Geburtstag!</string>
+    <string name="comingSoon">Bald verfügbar!</string>
+    <string name="nameOfPerson">Name der Person</string>
+    <string name="dateOfBirth">Datum wählen</string>
+    <string name="birthdayAdded">Der neue Geburtstag wurde hinzugefügt und wird angezeigt, wenn du die App das nächste Mal öffnest.</string>
+    <string name="delete">Löschen</string>
+    <string name="edit">Datum ändern</string>
+    <string name="birthdayDeleted">Der ausgewählte Geburtstag wurde gelöscht.</string>
+    <string name="mode_preferences">Einstellungen</string>
+    <string name="notification_on">Erinnerungen werden angezeigt.</string>
+    <string name="notification_off">Keine Erinnerung.</string>
+    <string name="notification_0">am Geburtstag</string>
+    <string name="notification_1">1 Tag vorher</string>
+    <string name="notification_2">2 Tage vorher</string>
+    <string name="notification_7">1 Woche vorher</string>
+    <string name="notification_time">Uhrzeit für Erinnerungen</string>
+    <string name="notification_sound">Sound für Erinnerungen</string>
+    <string name="notification_sound_desc">Bitte wähle einen Ton oder \"Stumm\"</string>
+    <string name="setTime">Bitte wähle die gewünschte Zeit &#8230;</string>
+    <string name="notificationsForBirthdays">Erinnerungen für Geburtstage</string>
+    <string name="caption_adding_mode">Eintrag hinzufügen</string>
+    <string name="hint_adding_mode">Wenn möglich solltest du Geburtstage immer zu den Kontakten hinzufügen - dann kannst du mehr Funktionen nutzen.</string>
+	<string name="adding_mode_contacts">von Kontakten wählen</string>
+	<string name="adding_mode_newentry">ohne Telefonkontakt</string>
+	<string name="createBackup">Backup erstellen</string>
+	<string name="email_backup">Sicherung per E-Mail</string>
+	<string name="send_backup">Backup senden mit &#8230;</string>
+	<string name="your_email_address">Deine E-Mail-Adresse &#8230;</string>
+	<string name="hint_backup_mode">Hier kannst du eine Kopie deiner Liste an deine E-Mail-Adresse schicken, sodass du ein sicheres Backup hast. Dies schützt deine Daten davor verlorenzugehen.</string>
+	<string name="pleaseEnterEmail">Bitte gib eine gültige E-Mail-Adresse ein!</string>
+	<string name="mode_search">Suchen</string>
+	<string name="searchNoResult">Es konnte keine Person mit diesem Namen gefunden werden!</string>
+	<string name="findPerson">Finde eine Person</string>
+	<string name="searchPerson">Person suchen &#8230;</string>
+	<string name="hint_search_mode">Wenn du eine Person in deiner Liste suchst, reicht es meistens schon, einen Teil des Namens einzugeben.</string>
+	<string name="zodiac">Sternzeichen</string>
+	<string name="zodiac_aries">Widder</string>
+	<string name="zodiac_taurus">Stier</string>
+	<string name="zodiac_gemini">Zwillinge</string>
+	<string name="zodiac_cancer">Krebs</string>
+	<string name="zodiac_leo">Löwe</string>
+	<string name="zodiac_virgo">Jungfrau</string>
+	<string name="zodiac_libra">Waage</string>
+	<string name="zodiac_scorpio">Skorpion</string>
+	<string name="zodiac_sagittarius">Schütze</string>
+	<string name="zodiac_capricornus">Steinbock</string>
+	<string name="zodiac_aquarius">Wassermann</string>
+	<string name="zodiac_pisces">Fische</string>
+	<string name="changePicture">Bild ändern</string>
+	<string name="change_name">Namen ändern</string>
+	<string name="sortBy">Reihenfolge der Einträge</string>
+	<string name="sortBy_change">Wonach soll die Liste sortiert werden?</string>
+	<string-array name="sortBy_values_human">
+        <item>Verbleibende Tage</item>
+        <item>Name</item>
+        <item>Alter</item>
+    </string-array>
+	<string-array name="sortBy_values_machine">
+        <item>days_left</item>
+        <item>name</item>
+        <item>age</item>
+    </string-array>
+    <string name="show_phoneButtons">Telefon-Buttons</string>
+    <string name="show_phoneButtons_on">Buttons für Anruf und SMS werden angezeigt.</string>
+    <string name="show_phoneButtons_off">Buttons für Anruf und SMS werden nicht angezeigt.</string>
+    <string name="choose_type">Typ wählen</string>
+    <string name="type_birthday">Geburtstag</string>
+    <string name="type_anniversary">Jahrestag</string>
+    <string name="open_contact">Kontakt öffnen</string>
+    <string name="buyVerb">Geschenk kaufen</string>
+    <string name="donate_link">http://bit.ly/LkxF1d</string>
+    <string name="buy_link">http://www.amazon.de/?_encoding=UTF8&#38;site-redirect=de&#38;tag=lateinme-21&#38;linkCode=ur2&#38;camp=1638&#38;creative=6742</string>
+    <string name="doExport">Exportieren / Speichern</string>
+    <string name="doImport">Importieren / Laden</string>
+    <string name="importVerb">Importieren</string>
+	<string name="loadBackup">Backup laden</string>
+	<string name="pleaseEnterImportData">Sorry, der Import konnte nicht abgeschlossen werden!</string>
+    <string name="hint_import_mode">Bitte suche die Backup-Mail, die Du hier exportiert hast, in Deinem E-Mail-Postfach. Kopiere dann den kompletten Text dieser E-Mail. Wenn Du damit fertig bist, klicke bitte unten auf \"Backup laden\".</string>
+    <string name="sendErrorReport">Fehlerbericht</string>
+    <string name="send">Senden</string>
+    <string name="invalidDate">Ungültiges Datum.</string>
+    <string name="pleaseCorrect">Bitte korrigieren!</string>
+    <string name="tryOpeningInvalid">Dies ist ein ungültiger Eintrag. Bitte drücke den Eintrag lange und wähle im Menü \"Datum ändern\".</string>
+    <string name="bugReportHint">Bitte beschreibe das Problem oder den Fehler, der auftritt, so genau wie möglich.</string>
+    <string name="chineseZodiac">Chinesisch</string>
+	<string name="chinese_rat">Ratte</string>
+	<string name="chinese_ox">Rind</string>
+	<string name="chinese_tiger">Tiger</string>
+	<string name="chinese_rabbit">Hase</string>
+	<string name="chinese_dragon">Drache</string>
+	<string name="chinese_snake">Schlange</string>
+	<string name="chinese_horse">Pferd</string>
+	<string name="chinese_goat">Schaf</string>
+	<string name="chinese_monkey">Affe</string>
+	<string name="chinese_rooster">Hahn</string>
+	<string name="chinese_dog">Hund</string>
+	<string name="chinese_pig">Schwein</string>
+	<string name="show_zodiac">Sternzeichen</string>
+	<string name="show_zodiac_description">Sollen Sternzeichen angezeigt werden?</string>
+	<string-array name="show_zodiac_values_human">
+        <item>Westlich</item>
+        <item>Chinesisch</item>
+        <item>Westlich + Chinesisch</item>
+        <item>Keine</item>
+    </string-array>
+	<string-array name="show_zodiac_values_machine">
+        <item>western</item>
+        <item>chinese</item>
+        <item>both</item>
+        <item>none</item>
+    </string-array>
+	<string name="do_repeatsound">Sound wiederholen</string>
+	<string name="do_repeatsound_on">Der Ton wird abgespielt, bis Du die Erinnerung schließt.</string>
+	<string name="do_repeatsound_off">Der Ton wird nur ein Mal abgespielt.</string>
+	<string name="facebookImport">Importieren von Facebook</string>
+	<string name="facebook_import_app">https://apps.facebook.com/birthdays_android/</string>
+	<string name="hint_facebookImport">Du kannst unsere Anwendung \"Birthdays for Android\" auf Facebook nutzen, um alle Geburtstage Deiner Freunde von Facebook in diese App hier zu exportieren. Wenn Du fortfährst, öffnen wir die Anwendung auf der Facebook-Website für Dich. Sie wird Dich durch 5 einfache Schritte führen - probier es einfach aus.\nAlternativ kannst Du auch \"bit.ly/birthdays_export\" im Browser auf Deinem Computer öffnen.</string>
+	<string name="proceed">Fortfahren</string>
+	<string name="install">Jetzt installieren</string>
+	<string name="missing_addon_title">Add-on installieren</string>
+	<string name="missing_addon_explain">Diese Funktion erfordert Berechtigungen für Internet- und SD-Karten-Zugriff! Deshalb ist sie nur über unser kostenloses Add-on (via Google Play) verfügbar. Du hast die Wahl: Benutze diese App ohne erweiterte Berechtigungen oder lade das kostenlose Add-on herunter, um zusätzliche Funktionen zu genießen. Das Add-on erlaubt es Dir, Backups auf der SD-Karte zu erstellen und von dort zu laden - und natürlich Geburtstage von Facebook zu importieren. Probier es einfach aus! Es ist kostenlos.</string>
+    <string name="permission_birthdays">Geburtstage</string>
+    <string name="permission_access_birthdays">Erlaubt Datenaustausch zwischen der Geburtstage-App und ihrem Add-on.</string>
+    <string name="show_help">Hilfe anzeigen</string>
+    <string name="rate_app">App bewerten</string>
+    <string name="addon_market">Add-on auf Google Play</string>
+    <string name="export_fail">Sorry, der Export Deiner Daten konnte nicht gestartet werden!</string>
+    <string name="loading_facebook">Lädt Daten von Facebook &#8230;</string>
+    <string name="notification_close">Schließen</string>
+    <string name="notification_remind1">Wieder erinnern in 15min</string>
+    <string name="notification_remind2">Wieder erinnern in 1h</string>
+    <string name="notification_remind3">Wieder erinnern in 6h</string>
+    <string name="importing_entries">Ausgewählte Einträge werden importiert &#8230;</string>
+    <string name="open_app">App öffnen</string>
+    <string-array name="default_images">
+        <item>Geburtstag (1)</item>
+        <item>Geburtstag (2)</item>
+        <item>Jubiläum</item>
+        <item>Liebe</item>
+        <item>Hochzeit</item>
+        <item>Tod (1)</item>
+        <item>Tod (2)</item>
+    </string-array>
+    <string-array name="default_images_copyright">
+        <item>Africa Studio</item>
+        <item>bluedesign</item>
+        <item>shoot4u</item>
+        <item>Konstiantyn</item>
+        <item>artikularis</item>
+        <item>Pixel Embargo</item>
+        <item>Benjamin Haas</item>
+    </string-array>
+    <string name="pick_from_gallery">Wähle aus Galerie</string>
+    <string name="pick_predefined_image">Benutze Standard-Bild</string>
+    <string name="image_provided_by">Dieses Bild wurde bereitgestellt von</string>
+    <string name="helpTranslating">Beim Übersetzen helfen</string>
+    <string name="translationHelpHowto">Bitte öffne im Browser auf deinem Desktop-PC (für bessere Lesbarkeit und Bearbeitung):\nhttp://birthdays.latein.me/</string>
+    <string name="menu_main">Hauptmenü</string>
+	<string name="update_addon_title">Add-on aktualisieren</string>
+	<string name="update_addon_explain">Das Add-on ist nicht mehr aktuell! Bitte tippe unten auf den Button, um Google Play zu öffnen und das Add-on kostenlos auf die neueste Version zu aktualisieren. Alles wird dann wieder wie gewohnt funktionieren.</string>
+	<string name="mode_translate">Übersetzen</string>
+	<string name="days_abbreviation">d</string>
+	<string name="sure_to_delete">Möchtest Du diesen Eintrag wirklich löschen?</string>
+	<string name="yes">Ja</string>
+	<string name="no">Nein</string>
+	<string name="merge_with_contact">Verbinden mit Kontakt</string>
+	<string name="merge_explanation">Möchtest Du diesen Eintrag mit einem bestehenden Telefon-Kontakt verbinden?</string>
+	<string name="entry_merged">Der Eintrag wurde erfolgreich mit dem ausgewählten Kontakt verbunden.</string>
+	<string name="contacts_app_not_found">Die Kontakte-App konnte nicht auf Deinem Gerät gefunden werden!</string>
+</resources>

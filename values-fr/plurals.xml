@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="daysLeft">
+        <item quantity="zero">aujourd\'hui</item>
+        <item quantity="one">demain</item>
+        <item quantity="other">encore %d jours</item>
+    </plurals>
+</resources>

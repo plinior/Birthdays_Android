@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Narodeniny</string>
+    <string name="help">Nápoveda</string>
+    <string name="helpText">DOSTUPNE MOŽNOSTI:\nV nastaveniach môžete nájsť niekoľko ďalších funkcií tejto aplikácie, napr . Zmenu nastavenia alebo pridanie nových kontaktov do zoznamu narodenín.\n\nDLHÉ STLAČENIE NA KONTAKT:\nPri dlhom stlačení na kontakt v zozname narodenín, sa Vám zobrazí ponuka možností, kde si môžete vybrať požadovanú úpravu alebo odstránenie existujúcich položiek v zozname narodenín\n\nPRIDANIE FOTKY\nMôžete pridať fotky iba pre ľudí, ktorých ste do zoznamu pridali ručne. Ak chcete zmeniť fotku pre ľudí pridaných z kontaktov, musíte ju zmeniť priamo v kontaktoch.\n\nWIDGET:\nPrejdite na dom. obrazovku a vyberte \"Pridať\" - \"Widget\" a pridajte Narodeniny na Vašu dom. obrazovku. Tento widget sa bude aktualizovať každých 6 hodín!\n\n1970 PROBLEM:\nIf you cannot enter dates prior to 1970, you probably have a Motorola device. There are several devices by Motorola and other manufacturers which prevent you from typing a date before 1970 due to a bug. We cannot change this, sorry!\n\nNO NOTIFICATIONS:\nThe latest versions of Android, i.e. 4.0 and 4.1, offer special settings for notifications. For example, you can switch off all notifications in the status bar (where 3G, Wi-Fi, GPS and Bluetooth are located) or disable notifications in \"Manage apps\" among your settings. Please check these settings if your notifications don\'t work.\n\nMOVING TO EXTERNAL STORAGE:\nYou cannot move this app to the external storage (SD card) as notifications for upcoming birthdays wouldn\'t work in that case. Sorry!\n\nSUPPORTED DATE FORMATS:\nWe fully support date formats according to ISO 8601, that is YYYY-MM-DD. For other formats, we cannot guarantee that they are read correctly.\n\nCAN I HELP TRANSLATING THE APP?\nYes, you can. Just use our application on Facebook, where you can easily edit all translations and improve them for all users. Please open the following link on a desktop computer for better reading and editing: http://birthdays.latein.me/</string>
+    <string name="emptyList">Nahrávam narodeniny Vašich kontaktov!</string>
+    <string name="goHome">Prejsť domov</string>
+    <string name="telephone">Telefón</string>
+    <string name="settingsGeneral">Všeobecné nastavenia</string>
+    <string name="showPhotos">Fotky kontaktov</string>
+    <string name="showPhotos_on">Fotky kontaktov sa budú zobrazovať</string>
+    <string name="showPhotos_off">Fotky kontaktov sa nebudú zobrazovať</string>
+    <string name="nextBirthdayOnWeekDay">Ďalšie narodeniny budú v</string>
+    <string name="nextAnniversaryOnWeekDay">Ďalšie výročie bude v</string>
+    <string name="tipDontEnterYear"><b>Tip:</b>Nechcete zobrazovať žiadny rok? Zadajte hodnotu \"1900\" a rok sa nebude zobrazovať.</string>
+    <string name="contactPhoto">Fotka kontaktu</string>
+    <string name="daysLeftUnit">dní</string>
+    <string name="birthdaysFoundSg">narodeniny nájdené v zozname kontaktov!</string>
+    <string name="birthdaysFoundPl">narodeniny(-ín) nájdené v zozname kontaktov!</string>
+    <string name="noBirthdaysFound">Nepodarilo sa nájsť žiadne narodeniny vo Vašom zozname kontaktov!</string>
+    <string name="turnVerb">oslávi</string>
+    <string name="onTime">na</string>
+    <string name="pleaseWait">Prosím, čakajte</string>
+    <string name="refreshingList">Aktualizácia zoznamu &#8230;</string>
+    <string name="bornOn">Dátum narodenia:</string>
+    <string name="anniversaryOn">Výročie:</string>
+    <string name="age">Vek:</string>
+    <string name="yearsMarried">Spolu:</string>
+    <string name="years">rokov</string>
+    <string name="ok">OK</string>
+    <string name="today">dnes</string>
+    <string name="in">v</string>
+    <string name="birthday">Narodeniny</string>
+    <string name="yearsOld">ročný</string>
+    <string name="loading">načítavanie</string>
+    <string name="fullTextConvinced">Páči sa Vám táto aplikácia? Boli by sme radi ak by ste ju ohodnotili v obchode Google Play. Ďakujeme za Vašu podporu!</string>
+    <string name="rateApp">Hodnotiť aplikáciu</string>
+    <string name="rateNow">Hodnotiť teraz</string>
+    <string name="remindLater">Pripomenúť neskôr</string>
+    <string name="noThanks">Nie, ďakujem</string>
+    <string name="onlyFirstFew">Tento zoznam obsahuje iba prvých 25 kontaktov!</string>
+    <string name="callVerb">Hovor</string>
+    <string name="mode_add">Pridať</string>
+    <string name="mode_edit">Zmeniť</string>
+    <string name="mode_rate">Hodnotiť</string>
+    <string name="mode_backup">Zálohovať</string>
+    <string name="mode_feedback">Sp. väzba</string>
+    <string name="mode_help">Nápoveda</string>
+    <string name="mode_buy">Darčeky</string>
+    <string name="birthdayEdited">Vybrané narodeniny boli aktualizované na nový dátum.</string>
+    <string name="cancel">Zrušiť</string>
+    <string name="save">Uložiť</string>
+    <string name="smsVerb">SMS</string>
+    <string name="congratulationSMS">Všetko najlepšie!</string>
+    <string name="comingSoon">Už čoskoro!</string>
+    <string name="nameOfPerson">Meno osoby</string>
+    <string name="dateOfBirth">Zvoľte dátum</string>
+    <string name="birthdayAdded">Nové narodeniny boli pridané a budú viditeľné po ďalšom spustení aplikácie.</string>
+    <string name="delete">Odstrániť</string>
+    <string name="edit">Zmeniť dátum</string>
+    <string name="birthdayDeleted">Vybrané narodeniny boli odstránené.</string>
+    <string name="mode_preferences">Nastavenia</string>
+    <string name="notification_on">Oznámenia sa budú zobrazovať.</string>
+    <string name="notification_off">Žiadne oznámenia</string>
+    <string name="notification_0">v deň narodenín</string>
+    <string name="notification_1">1 deň pred</string>
+    <string name="notification_2">2 dni pred</string>
+    <string name="notification_7">1 týždeň pred</string>
+    <string name="notification_time">Čas oznámenia</string>
+    <string name="notification_sound">Zvuk oznámenia</string>
+    <string name="notification_sound_desc">Prosím, vyberte tón oznámenia alebo \"Tichý\"</string>
+    <string name="setTime">Prosím, nastavte Vami preferovaný čas &#8230;</string>
+    <string name="notificationsForBirthdays">Oznámenie pre narodeniny</string>
+    <string name="caption_adding_mode">Pridanie novej položky</string>
+    <string name="hint_adding_mode">Ak je to možné, mali by ste vždy pridať narodeniny Vašich kontaktov. Potom môžete použiť viac funkcií.</string>
+	<string name="adding_mode_contacts">vybrať z kontaktov</string>
+	<string name="adding_mode_newentry">mimo kontaktov</string>
+	<string name="createBackup">Vytvoriť zálohu</string>
+	<string name="email_backup">Záloha na e-mail</string>
+	<string name="send_backup">Odoslať zálohu s &#8230;</string>
+	<string name="your_email_address">Vaša e-mailová adresa &#8230;</string>
+	<string name="hint_backup_mode">Tu môžete odoslať kópiu zoznamu na Vašu e-mailovú adresu, aby ste ju mali bezpečne uloženú. Týmto predídete jej strate.</string>
+	<string name="pleaseEnterEmail">Zadajte platnú e-mailovú adresu!</string>
+	<string name="mode_search">Hľadať</string>
+	<string name="searchNoResult">Nenašla sa žiadna osoba v zozname s týmto menom!</string>
+	<string name="findPerson">Nájsť osobu</string>
+	<string name="searchPerson">Vyhľadávaná osoba &#8230;</string>
+	<string name="hint_search_mode">Pri hľadaní osoby v zozname narodenín, stačí zadať iba časť mena na jej vyhľadanie.</string>
+	<string name="zodiac">Znamenie zverokruhu</string>
+	<string name="zodiac_aries">Baran</string>
+	<string name="zodiac_taurus">Býk</string>
+	<string name="zodiac_gemini">Blíženci</string>
+	<string name="zodiac_cancer">Rak</string>
+	<string name="zodiac_leo">Lev</string>
+	<string name="zodiac_virgo">Panna</string>
+	<string name="zodiac_libra">Váhy</string>
+	<string name="zodiac_scorpio">Škorpión</string>
+	<string name="zodiac_sagittarius">Strelec</string>
+	<string name="zodiac_capricornus">Kozorožec</string>
+	<string name="zodiac_aquarius">Vodnár</string>
+	<string name="zodiac_pisces">Ryby</string>
+	<string name="changePicture">Zmeniť obrázok</string>
+	<string name="change_name">Zmeniť meno</string>
+	<string name="sortBy">Poradie záznamov</string>
+	<string name="sortBy_change">Vyberte, podľa čoho bude zoznam zoradený</string>
+	<string-array name="sortBy_values_human">
+        <item>Zostávajúce dni</item>
+        <item>Meno</item>
+        <item>Vek</item>
+    </string-array>
+	<string-array name="sortBy_values_machine">
+        <item>days_left</item>
+        <item>name</item>
+        <item>age</item>
+    </string-array>
+    <string name="show_phoneButtons">Tlačidlo hovoru</string>
+    <string name="show_phoneButtons_on">Tlačidlo hovoru sa bude zobrazovať.</string>
+    <string name="show_phoneButtons_off">Tlačidlo hovoru sa nebude zobrazovať.</string>
+    <string name="choose_type">Vyberte typ</string>
+    <string name="type_birthday">Narodeniny</string>
+    <string name="type_anniversary">Výročie</string>
+    <string name="open_contact">Otvoriť kontakt</string>
+    <string name="buyVerb">Kúpiť darček</string>
+    <string name="donate_link">http://bit.ly/MrIcHs</string>
+    <string name="buy_link">http://www.amazon.com/?_encoding=UTF8&#38;tag=lateinme-20&#38;linkCode=ur2&#38;camp=1789&#38;creative=9325</string>
+    <string name="doExport">Exportovať / Uložiť</string>
+    <string name="doImport">Importovať / Načítať</string>
+    <string name="importVerb">Importovať</string>
+	<string name="loadBackup">Načítať zálohu</string>
+	<string name="pleaseEnterImportData">Je nám ľúto, import zlyhal!</string>
+    <string name="hint_import_mode">Prosím, vyhľadajte e-mail so zálohou, bol odoslaný do Vašej e-mailovej schránky a skopírujte z neho celý text. Ak ste pripravení, kliknite nižšie na \"Načítať zálohu\".</string>
+    <string name="sendErrorReport">Hlásenie o chybe</string>
+    <string name="send">Odoslať</string>
+    <string name="invalidDate">Neplatný dátum.</string>
+    <string name="pleaseCorrect">Prosím, opravte ho!</string>
+    <string name="tryOpeningInvalid">Toto je neplatná hodnota. Prosím, po dlhom stlačení vyberte \"Zmeniť dátum\".</string>
+    <string name="bugReportHint">Popíšte prosím problém alebo chybu, ku ktorej došlo. Buďte čo najpodrobnejší.</string>
+    <string name="chineseZodiac">Čínsky</string>
+	<string name="chinese_rat">Potkan</string>
+	<string name="chinese_ox">Byvol</string>
+	<string name="chinese_tiger">Tiger</string>
+	<string name="chinese_rabbit">Zajac</string>
+	<string name="chinese_dragon">Drak</string>
+	<string name="chinese_snake">Had</string>
+	<string name="chinese_horse">Kôň</string>
+	<string name="chinese_goat">Koza</string>
+	<string name="chinese_monkey">Opica</string>
+	<string name="chinese_rooster">Kohút</string>
+	<string name="chinese_dog">Pes</string>
+	<string name="chinese_pig">Prasa</string>
+	<string name="show_zodiac">Znamenia zverokruhu</string>
+	<string name="show_zodiac_description">Chcete zobrazovať znamenia zverokruhu?</string>
+	<string-array name="show_zodiac_values_human">
+        <item>Západné</item>
+        <item>Čínske</item>
+        <item>Západné + Čínske</item>
+        <item>Žiadne</item>
+    </string-array>
+	<string-array name="show_zodiac_values_machine">
+        <item>western</item>
+        <item>chinese</item>
+        <item>both</item>
+        <item>none</item>
+    </string-array>
+	<string name="do_repeatsound">Opakovať zvuk</string>
+	<string name="do_repeatsound_on">Zvukové oznámenie sa bude opakovať, kým nezatvoríte oznámenie.</string>
+	<string name="do_repeatsound_off">Zvukové oznámenie sa prehraje iba raz.</string>
+	<string name="facebookImport">Importovať z Facebooku</string>
+	<string name="facebook_import_app">https://apps.facebook.com/birthdays_android/</string>
+	<string name="hint_facebookImport">Môžete použiť našu aplikáciu \"Narodeniny pre Android\" na Facebooku, aby ste mohli importovať narodeniny Vašich priateľov na Facebooku do tejto aplikácie. Ak budete pokračovať, dôjde k otvoreniu webovej stránky s aplikáciou na Facebooku. Prevedieme Vás piatimi jednoduchými krokmi k úspešnému importu.\nPoprípade, môžete otvoriť stránku \"bit.ly/birthdays_export\" na Vašom počítači.</string>
+	<string name="proceed">Pokračovať</string>
+	<string name="install">Inštalovať teraz</string>
+	<string name="missing_addon_title">Inštalovať doplnok</string>
+	<string name="missing_addon_explain">Táto funkcia vyžaduje oprávnenia pre prístup k internetu a k SD karte! Z tohto dôvodu, je k dispozícii len s našim bezplatným doplnkom  (v obchode Google Play). Môžete si vybrať: Používať túto aplikáciu toho aby aplikácia vyžadovala tieto oprávnenia alebo si zdarma stiahnuť doplnok pre získanie nových funkcií. Doplnok umožňuje vytvoriť a načítať zálohu z SD karty, jednoducho importovať narodeniny z Facebooku a iné. Vyskúšajte to! Je to zadarmo.</string>
+    <string name="permission_birthdays">Narodeniny</string>
+    <string name="permission_access_birthdays">Povoľte výmenu dát medzi aplikáciou Narodeniny a jej doplnkom.</string>
+    <string name="show_help">Zobraziť nápovedu</string>
+    <string name="rate_app">Hodnotiť apl.</string>
+    <string name="addon_market">Doplnok na Google Play</string>
+    <string name="export_fail">Ľutujeme, export dát sa nepodarilo spustiť!</string>
+    <string name="loading_facebook">Načítanie dát z Facebooku  &#8230;</string>
+    <string name="notification_close">Zatvoriť oznámenie</string>
+    <string name="notification_remind1">Pripomenúť znova o 15min</string>
+    <string name="notification_remind2">Pripomenúť znova o 1hod</string>
+    <string name="notification_remind3">Pripomenúť znova o 6hod</string>
+    <string name="importing_entries">Import vybraných položiek &#8230;</string>
+    <string name="open_app">Otvoriť apl.</string>
+    <string-array name="default_images">
+        <item>Narodeniny (1)</item>
+        <item>Narodeniny (2)</item>
+        <item>Jubileum</item>
+        <item>Láska</item>
+        <item>Svadba</item>
+        <item>Smrť (1)</item>
+        <item>Smrť (2)</item>
+    </string-array>
+    <string-array name="default_images_copyright">
+        <item>Africa Studio</item>
+        <item>bluedesign</item>
+        <item>shoot4u</item>
+        <item>Konstiantyn</item>
+        <item>artikularis</item>
+        <item>Pixel Embargo</item>
+        <item>Benjamin Haas</item>
+    </string-array>
+    <string name="pick_from_gallery">Vyberte z galérie</string>
+    <string name="pick_predefined_image">Vybrať spoločný obrázok</string>
+    <string name="image_provided_by">Tento obrázok bol poskytované</string>
+    <string name="helpTranslating">Help translating</string>
+    <string name="translationHelpHowto">Please open in your browser on your desktop computer for better readability and editing:\nhttp://birthdays.latein.me/</string>
+    <string name="menu_main">Hlavné menu</string>
+	<string name="update_addon_title">Aktualizácia Add-on</string>
+	<string name="update_addon_explain">Váš add-on nie je up-to-date už! Prosím, kliknite na tlačidlo nižšie k návšteve Google Play a aktualizovať na najnovšiu verziu zadarmo. Všetky funkcie potom budú dokonale znova.</string>
+	<string name="mode_translate">Preložiť</string>
+	<string name="days_abbreviation">d</string>
+	<string name="sure_to_delete">Are you sure you want to delete this entry?</string>
+	<string name="yes">Yes</string>
+	<string name="no">No</string>
+	<string name="merge_with_contact">Merge with contact</string>
+	<string name="merge_explanation">Do you want to merge this entry with an existing phone contact?</string>
+	<string name="entry_merged">The entry has been successfully merged with the selected contact.</string>
+	<string name="contacts_app_not_found">The contacts app could not be found on your device!</string>
+</resources>

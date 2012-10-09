@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Дни рождения</string>
+    <string name="help">Справка</string>
+    <string name="helpText">МЕНЮ НАСТРОЕК:\nВ меню настроек Вы можете добавлять или изменять функции, например добавить новый контакт.\n\nДОЛГИЙ НАЖИМ НА КОНТАКТ:\nВыберете контакт в списке и долго на него нажмите, для появления дополнительного меню и выполните необходимые действия для этого контакта.\n\nДОБАВЛЕНИЕ ФОТО:\nВы можете добавить фото только на контакт, которого нет в контактной книге самого телефона. Иначе назначьте фото в контактной книге самого телефона.\n\nВИДЖЕТ:\nДобавьте виджет стандартными средствами андройд на рабочий стол.Виджет обновляется каждые 6 часов!\n\nПРОБЛЕМА 1970:\nВ некоторых моделях Motorola, Вы не сможете установить дату меньше 1970 года.Извините, но это проблема самого устройства!\n\nБЕЗ УВЕДОМЛЕНИЙ:\nВ последних версиях андройд, начиная с 4.0, добавлено специальное меню дополнительных настроек. Не забудьте в него зайти и сделать дополнительные настройки для правильного отображения уведомлений.\n\nПЕРЕМЕЩЕНИЕ НА ВНЕШНЕЕ ХРАНИЛИЩЕ:\nВы можете переместить приложение на внешнее хранилище (SD катру), но уведомления в этом случае работать не будут. Извините!\n\nПОДДЕРЖИВАЕМЫЙ ФОРТМАТ ДАТЫ:\nМы полностью поддерживаем формат даты согласно ISO 8601, которая является ГГГГ-ММ-ДД. Для других форматов мы не можем гарантировать правильную работу приложения.\n\nХОТИТЕ ПОМОЧЬ ПЕРЕВЕСТИ ПРИЛОЖЕНИЕ?\nДа, Вы можете. Просто используйте наше приложение на Facebook, где Вы можете отредактировать перевод и помочь всем пользователей. Откройте на домашнем компьютере ссылку http://birthdays.latein.me/</string>
+    <string name="emptyList">Загрузка дней рождения из контактов!</string>
+    <string name="goHome">Домой</string>
+    <string name="telephone">Телефон</string>
+    <string name="settingsGeneral">Основные настройки</string>
+    <string name="showPhotos">Показать фото</string>
+    <string name="showPhotos_on">Фото на контакте установлено</string>
+    <string name="showPhotos_off">Фото на контакте скрыто.</string>
+    <string name="nextBirthdayOnWeekDay">Следующий день рождения</string>
+    <string name="nextAnniversaryOnWeekDay">Следующая годовщина</string>
+    <string name="tipDontEnterYear"><b>Подсказка:</b> Не хотите вводить год? Введите \"1900\" и год не будет показан.</string>
+    <string name="contactPhoto">Фото контакта</string>
+    <string name="daysLeftUnit">Дней</string>
+    <string name="birthdaysFoundSg">День рождения найден в контактах!</string>
+    <string name="birthdaysFoundPl">Дни рождения найдены в контактах!</string>
+    <string name="noBirthdaysFound">Дни рождения не найдены в контактах!</string>
+    <string name="turnVerb">возраст</string>
+    <string name="onTime">в</string>
+    <string name="pleaseWait">Пожалуйста подождите</string>
+    <string name="refreshingList">Обновление списка &#8230;</string>
+    <string name="bornOn">Дата рождения:</string>
+    <string name="anniversaryOn">Годовщина:</string>
+    <string name="age">Возраст:</string>
+    <string name="yearsMarried">С тех пор:</string>
+    <string name="years">лет</string>
+    <string name="ok">OK</string>
+    <string name="today">сегодня</string>
+    <string name="in">в</string>
+    <string name="birthday">День рождения</string>
+    <string name="yearsOld">лет назад</string>
+    <string name="loading">загрузка</string>
+    <string name="fullTextConvinced">Это приложение понравилось Вам? Мы были бы очень признательны, если Вы оцените наше приложение на Google Play. Спасибо за Вашу поддержку!</string>
+    <string name="rateApp">Оцените это приложение</string>
+    <string name="rateNow">Оценить сейчас</string>
+    <string name="remindLater">Напомнить позже</string>
+    <string name="noThanks">Нет, спасибо</string>
+    <string name="onlyFirstFew">Этот список показывает только первые 25 контактов!</string>
+    <string name="callVerb">Позвонить</string>
+    <string name="mode_add">Добавить</string>
+    <string name="mode_edit">Изменить</string>
+    <string name="mode_rate">Оценить</string>
+    <string name="mode_backup">Копия</string>
+    <string name="mode_feedback">Обратная связь</string>
+    <string name="mode_help">Справка</string>
+    <string name="mode_buy">Подарки</string>
+    <string name="birthdayEdited">Дата дня рождения обновлена.</string>
+    <string name="cancel">Отменить</string>
+    <string name="save">Сохранить</string>
+    <string name="smsVerb">СМС</string>
+    <string name="congratulationSMS">С Днем Рождения!</string>
+    <string name="comingSoon">Скоро ожидается!</string>
+    <string name="nameOfPerson">Имя контакта</string>
+    <string name="dateOfBirth">Выберите дату</string>
+    <string name="birthdayAdded">День рождения добавлен, перезапустите приложение.</string>
+    <string name="delete">Удалить</string>
+    <string name="edit">Изменить дату</string>
+    <string name="birthdayDeleted">День рождения удален.</string>
+    <string name="mode_preferences">Настройки</string>
+    <string name="notification_on">Показывать уведомления.</string>
+    <string name="notification_off">Без уведомлений.</string>
+    <string name="notification_0">в день рождения</string>
+    <string name="notification_1">за 1 день</string>
+    <string name="notification_2">за 2 дня</string>
+    <string name="notification_7">за 1 неделю</string>
+    <string name="notification_time">Время для уведомления</string>
+    <string name="notification_sound">Сигнал для уведомления</string>
+    <string name="notification_sound_desc">Выберите рингтон или \"беззвучный\"</string>
+    <string name="setTime">Установите время &#8230;</string>
+    <string name="notificationsForBirthdays">Уведомление для дня рождения</string>
+    <string name="caption_adding_mode">Добавить новый</string>
+    <string name="hint_adding_mode">Если возможно, Вы должны всегда добавлять дни рождения к своим контактам, тогда вы можете использовать больше функций.</string>
+	<string name="adding_mode_contacts">выберите из контактов</string>
+	<string name="adding_mode_newentry">создать контакт</string>
+	<string name="createBackup">Создать копию</string>
+	<string name="email_backup">Копию на эл. почту</string>
+	<string name="send_backup">Отправить копию с &#8230;</string>
+	<string name="your_email_address">Адрес эл. почты &#8230;</string>
+	<string name="hint_backup_mode">Вы можете отправить копию своего списка на адрес электронной почты, чтобы у Вас была резервная копия.</string>
+	<string name="pleaseEnterEmail">Введите правильный адрес эл. почты!</string>
+	<string name="mode_search">Поиск</string>
+	<string name="searchNoResult">Не возможно найти контакт с этим именем!</string>
+	<string name="findPerson">Найти контакт</string>
+	<string name="searchPerson">Поиск контакта &#8230;</string>
+	<string name="hint_search_mode">Для поиска введите несколько букв из имени контакта.</string>
+	<string name="zodiac">Зодиак</string>
+	<string name="zodiac_aries">Овен</string>
+	<string name="zodiac_taurus">Телец</string>
+	<string name="zodiac_gemini">Близнецы</string>
+	<string name="zodiac_cancer">Рак</string>
+	<string name="zodiac_leo">Лев</string>
+	<string name="zodiac_virgo">Дева</string>
+	<string name="zodiac_libra">Весы</string>
+	<string name="zodiac_scorpio">Скорпион</string>
+	<string name="zodiac_sagittarius">Стрелец</string>
+	<string name="zodiac_capricornus">Козерог</string>
+	<string name="zodiac_aquarius">Водолей</string>
+	<string name="zodiac_pisces">Рыбы</string>
+	<string name="changePicture">Изменить фото</string>
+	<string name="change_name">Изменить имя</string>
+	<string name="sortBy">Сортировка</string>
+	<string name="sortBy_change">Выберите тип сортировки записей</string>
+	<string-array name="sortBy_values_human">
+        <item>По дням</item>
+        <item>По имени</item>
+        <item>По возрасту</item>
+    </string-array>
+	<string-array name="sortBy_values_machine">
+        <item>days_left</item>
+        <item>name</item>
+        <item>age</item>
+    </string-array>
+    <string name="show_phoneButtons">Кнопки набора номера</string>
+    <string name="show_phoneButtons_on">Показать кнопки для набора номера или отправки СМС.</string>
+    <string name="show_phoneButtons_off">Скрыть кнопки для набора номера или отправки СМС.</string>
+    <string name="choose_type">Выберете тип</string>
+    <string name="type_birthday">День рождения</string>
+    <string name="type_anniversary">Годовщина</string>
+    <string name="open_contact">Открыть контакт</string>
+    <string name="buyVerb">Купить подарок</string>
+    <string name="donate_link">http://bit.ly/MrIcHs</string>
+    <string name="buy_link">http://www.amazon.com/?_encoding=UTF8&#38;tag=lateinme-20&#38;linkCode=ur2&#38;camp=1789&#38;creative=9325</string>
+    <string name="doExport">Экспорт</string>
+    <string name="doImport">Импорт</string>
+    <string name="importVerb">Импорт</string>
+	<string name="loadBackup">Загрузить копию</string>
+	<string name="pleaseEnterImportData">Извините, импорт не закончен!</string>
+    <string name="hint_import_mode">Копируйте сюда текст из ранее сохраненной копии на эл. почте и потом нажмите \"Загрузить копию\" ниже.</string>
+    <string name="sendErrorReport">Отчет об ошибках</string>
+    <string name="send">Отправить</string>
+    <string name="invalidDate">Дата не верна.</string>
+    <string name="pleaseCorrect">Пожалуйста исправьте!</string>
+    <string name="tryOpeningInvalid">Не правильный ввод.Нажмите долго и выберете \"Изменить дату\".</string>
+    <string name="bugReportHint">Пожалуйста, опишите проблему или ошибку, которая происходит.</string>
+    <string name="chineseZodiac">Китайский</string>
+	<string name="chinese_rat">Крыса</string>
+	<string name="chinese_ox">Бык</string>
+	<string name="chinese_tiger">Тигр</string>
+	<string name="chinese_rabbit">Кролик</string>
+	<string name="chinese_dragon">Дракон</string>
+	<string name="chinese_snake">Змея</string>
+	<string name="chinese_horse">Лошадь</string>
+	<string name="chinese_goat">Овца</string>
+	<string name="chinese_monkey">Обезьяна</string>
+	<string name="chinese_rooster">Петух</string>
+	<string name="chinese_dog">Собака</string>
+	<string name="chinese_pig">Свинья</string>
+	<string name="show_zodiac">Знаки Зодиака</string>
+	<string name="show_zodiac_description">Вы хотите, чтобы знаки Зодиака отображались?</string>
+	<string-array name="show_zodiac_values_human">
+        <item>Зодиак</item>
+        <item>Китайский</item>
+        <item>Зодиак + Китайский</item>
+        <item>Никакие</item>
+    </string-array>
+	<string-array name="show_zodiac_values_machine">
+        <item>western</item>
+        <item>chinese</item>
+        <item>both</item>
+        <item>none</item>
+    </string-array>
+	<string name="do_repeatsound">Повторить сигнал</string>
+	<string name="do_repeatsound_on">Сигнал уведомления будет повторяться до закрытия уведомления.</string>
+	<string name="do_repeatsound_off">Сигнал уведомления прозвучит один раз.</string>
+	<string name="facebookImport">Импорт из Facebook</string>
+	<string name="facebook_import_app">https://apps.facebook.com/birthdays_android/</string>
+	<string name="hint_facebookImport">Вы можете использовать наше приложение \"Дни рождения для Андроид\" на Facebook, чтобы экспортировать дни рождения всех Ваших друзей из Facebook в это приложение. Если Вы захотите, то мы откроем эту возможность на веб-сайте Facebook. Это будет 5 легких шагов для Вас - просто попробуйте, откройте \"bit.ly/birthdays_export \" на Вашем настольном компьютере в браузере.</string>
+	<string name="proceed">Продолжить</string>
+	<string name="install">Установить</string>
+	<string name="missing_addon_title">Установить дополнение</string>
+	<string name="missing_addon_explain">Это требует разрешений для доступа к SD-карте и в Интернет! Это возможно через дополнение доступное на Google Play. Вы можете выбрать: использовать это приложение как есть, или загрузить дополнительный пакет, с дополнительными функциями. Это позволит Вам создавать и загружать резервные копии с SD-карты, импортировать дни рождения из Facebook и другое. Попробуйте это бесплатно!</string>
+    <string name="permission_birthdays">Дни рождения</string>
+    <string name="permission_access_birthdays">Разрешить обмен данными между приложением и его дополнением.</string>
+    <string name="show_help">Показать справку</string>
+    <string name="rate_app">Оценить приложение</string>
+    <string name="addon_market">Дополнение на Google Play</string>
+    <string name="export_fail">Извините, экспорт данных не стартовал!</string>
+    <string name="loading_facebook">Загрузка данных из Facebook &#8230;</string>
+    <string name="notification_close">Закрыть уведомление</string>
+    <string name="notification_remind1">Напомнить еще через 15 мин.</string>
+    <string name="notification_remind2">Напомнить еще через 1 ч.</string>
+    <string name="notification_remind3">Напомнить еще через 6 ч.</string>
+    <string name="importing_entries">Импорт выбранных значений &#8230;</string>
+    <string name="open_app">Открыть приложение</string>
+    <string-array name="default_images">
+        <item>Birthday (1)</item>
+        <item>Birthday (2)</item>
+        <item>Jubilee</item>
+        <item>Love</item>
+        <item>Wedding</item>
+        <item>Death (1)</item>
+        <item>Death (2)</item>
+    </string-array>
+    <string-array name="default_images_copyright">
+        <item>Africa Studio</item>
+        <item>bluedesign</item>
+        <item>shoot4u</item>
+        <item>Konstiantyn</item>
+        <item>artikularis</item>
+        <item>Pixel Embargo</item>
+        <item>Benjamin Haas</item>
+    </string-array>
+    <string name="pick_from_gallery">Выберите из галереи</string>
+    <string name="pick_predefined_image">Выберите изображение</string>
+    <string name="image_provided_by">Это изображение предоставлено</string>
+    <string name="helpTranslating">Помощь в переводе</string>
+    <string name="translationHelpHowto">Откройте в браузере на домашнем компьютере:\nhttp://birthdays.latein.me/</string>
+    <string name="menu_main">Главное меню</string>
+	<string name="update_addon_title">Обновить дополнение</string>
+	<string name="update_addon_explain">Ваше дополнение больше не работает! Кликните на кнопку ниже и закачайте бесплатно новое обновление с Google Play.</string>
+	<string name="mode_translate">Перевести</string>
+	<string name="days_abbreviation">д.</string>
+	<string name="sure_to_delete">Are you sure you want to delete this entry?</string>
+	<string name="yes">Yes</string>
+	<string name="no">No</string>
+	<string name="merge_with_contact">Merge with contact</string>
+	<string name="merge_explanation">Do you want to merge this entry with an existing phone contact?</string>
+	<string name="entry_merged">The entry has been successfully merged with the selected contact.</string>
+	<string name="contacts_app_not_found">The contacts app could not be found on your device!</string>
+</resources>

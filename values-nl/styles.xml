@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <style name="MyTheme" parent="@android:style/Theme.Light.NoTitleBar" />
-    <style name="MyTheme.Android" parent="@android:style/Theme" />
-    <style name="MyTheme.Dialog" parent="@android:style/Theme.Dialog" />
-    <style name="MyTheme.OldCustomTitleBar">
-        <item name="android:visibility">visible</item>
-    </style>
-</resources>

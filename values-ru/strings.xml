@@ -14,11 +14,11 @@
     <string name="nextAnniversaryOnWeekDay">Следующая годовщина</string>
     <string name="tipDontEnterYear"><b>Подсказка:</b> Не хотите вводить год? Введите \"1900\" и год не будет показан.</string>
     <string name="contactPhoto">Фото контакта</string>
-    <string name="daysLeftUnit">Дней</string>
+    <string name="daysLeftUnit">Дн.</string>
     <string name="birthdaysFoundSg">День рождения найден в контактах!</string>
     <string name="birthdaysFoundPl">Дни рождения найдены в контактах!</string>
     <string name="noBirthdaysFound">Дни рождения не найдены в контактах!</string>
-    <string name="turnVerb">возраст</string>
+    <string name="turnVerb">скоро</string>
     <string name="onTime">в</string>
     <string name="pleaseWait">Пожалуйста подождите</string>
     <string name="refreshingList">Обновление списка &#8230;</string>
@@ -213,11 +213,11 @@
 	<string name="update_addon_explain">Ваше дополнение больше не работает! Кликните на кнопку ниже и закачайте бесплатно новое обновление с Google Play.</string>
 	<string name="mode_translate">Перевести</string>
 	<string name="days_abbreviation">д.</string>
-	<string name="sure_to_delete">Are you sure you want to delete this entry?</string>
-	<string name="yes">Yes</string>
-	<string name="no">No</string>
-	<string name="merge_with_contact">Merge with contact</string>
-	<string name="merge_explanation">Do you want to merge this entry with an existing phone contact?</string>
-	<string name="entry_merged">The entry has been successfully merged with the selected contact.</string>
-	<string name="contacts_app_not_found">The contacts app could not be found on your device!</string>
+	<string name="sure_to_delete">Вы уверенны, что хотите это удалить?</string>
+	<string name="yes">Да</string>
+	<string name="no">Нет</string>
+	<string name="merge_with_contact">Слияние с контактом</string>
+	<string name="merge_explanation">Сделать слияние с существующим контактом в телефоне?</string>
+	<string name="entry_merged">Слияние выполнено полностью с выбранным контактом.</string>
+	<string name="contacts_app_not_found">Программа контактов не найдена на Вашем устройстве!</string>
 </resources>

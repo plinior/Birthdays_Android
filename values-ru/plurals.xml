@@ -2,7 +2,7 @@
 <resources>
     <plurals name="daysLeft">
         <item quantity="zero">сегодня</item>
-        <item quantity="one">скоро</item>
+        <item quantity="one">завтра</item>
         <item quantity="other">%d дн. осталось</item>
     </plurals>
 </resources>

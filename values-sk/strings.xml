@@ -213,11 +213,15 @@
 	<string name="update_addon_explain">Váš add-on nie je up-to-date už! Prosím, kliknite na tlačidlo nižšie k návšteve Google Play a aktualizovať na najnovšiu verziu zadarmo. Všetky funkcie potom budú dokonale znova.</string>
 	<string name="mode_translate">Preložiť</string>
 	<string name="days_abbreviation">d</string>
-	<string name="sure_to_delete">Are you sure you want to delete this entry?</string>
-	<string name="yes">Yes</string>
-	<string name="no">No</string>
-	<string name="merge_with_contact">Merge with contact</string>
-	<string name="merge_explanation">Do you want to merge this entry with an existing phone contact?</string>
-	<string name="entry_merged">The entry has been successfully merged with the selected contact.</string>
-	<string name="contacts_app_not_found">The contacts app could not be found on your device!</string>
+	<string name="sure_to_delete">Ste si istí, že chcete zmazať tento záznam?</string>
+	<string name="yes">Ano</string>
+	<string name="no">Nie</string>
+	<string name="merge_with_contact">Zlúčiť s kontaktom</string>
+	<string name="merge_explanation">Chcete zlúčiť túto položku s existujúcim telefónnym kontaktu?</string>
+	<string name="entry_merged">Položka bola úspešne spojila s vybraným kontaktom.</string>
+	<string name="contacts_app_not_found">Kontakty app nemohol byť nájdený na vašom zariadení!</string>
+	<string name="defaultDateFormat">YYYY-MM-DD</string>
+	<string name="show_datepicker">Easy výber dátumu</string>
+	<string name="show_datepicker_on">Pohodlný spôsob výber dátumu, ktorá vám umožní vybrať deň, mesiac a rok zo zoznamu.</string>
+	<string name="show_datepicker_off">Jednoduchý textový poľa sa vám ukáže. Môžete zadať dátum ručne. To je užitočné, ak váš prístroj neprijme rokov pred 1970 inak.</string>
 </resources>

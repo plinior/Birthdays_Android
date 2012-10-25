@@ -14,11 +14,11 @@
     <string name="nextAnniversaryOnWeekDay">Следующая годовщина</string>
     <string name="tipDontEnterYear"><b>Подсказка:</b> Не хотите вводить год? Введите \"1900\" и год не будет показан.</string>
     <string name="contactPhoto">Фото контакта</string>
-    <string name="daysLeftUnit">Дн.</string>
+    <string name="daysLeftUnit">Дней</string>
     <string name="birthdaysFoundSg">День рождения найден в контактах!</string>
     <string name="birthdaysFoundPl">Дни рождения найдены в контактах!</string>
     <string name="noBirthdaysFound">Дни рождения не найдены в контактах!</string>
-    <string name="turnVerb">скоро</string>
+    <string name="turnVerb">возраст</string>
     <string name="onTime">в</string>
     <string name="pleaseWait">Пожалуйста подождите</string>
     <string name="refreshingList">Обновление списка &#8230;</string>
@@ -213,11 +213,15 @@
 	<string name="update_addon_explain">Ваше дополнение больше не работает! Кликните на кнопку ниже и закачайте бесплатно новое обновление с Google Play.</string>
 	<string name="mode_translate">Перевести</string>
 	<string name="days_abbreviation">д.</string>
-	<string name="sure_to_delete">Вы уверенны, что хотите это удалить?</string>
-	<string name="yes">Да</string>
-	<string name="no">Нет</string>
-	<string name="merge_with_contact">Слияние с контактом</string>
-	<string name="merge_explanation">Сделать слияние с существующим контактом в телефоне?</string>
-	<string name="entry_merged">Слияние выполнено полностью с выбранным контактом.</string>
-	<string name="contacts_app_not_found">Программа контактов не найдена на Вашем устройстве!</string>
+	<string name="sure_to_delete">Вы уверены, что хотите удалить эту запись?</string>
+	<string name="yes">да</string>
+	<string name="no">нет</string>
+	<string name="merge_with_contact">Слияние с контактными</string>
+	<string name="merge_explanation">Вы хотите, чтобы объединить эту запись с существующим контактный телефон?</string>
+	<string name="entry_merged">Запись была успешно объединены с выбранным контактом.</string>
+	<string name="contacts_app_not_found">Контакты приложение не может быть найдено на вашем устройстве!</string>
+	<string name="defaultDateFormat">YYYY-MM-DD</string>
+	<string name="show_datepicker">Легкий выбор даты</string>
+	<string name="show_datepicker_on">Удобный способ выбора даты, что позволяет выбрать день, месяц и год из списка.</string>
+	<string name="show_datepicker_off">Простое текстовое поле будет показано. Вы можете ввести дату вручную. Это полезно, если ваше устройство не принимает года до 1970 года в противном случае.</string>
 </resources>

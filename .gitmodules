@@ -1,0 +1,3 @@
+[submodule "PusherClient"]
+	path = PusherClient
+	url = git://github.com/jmschultz/JavaPusherClient.git

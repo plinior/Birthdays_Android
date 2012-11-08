@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Doğum Günleri</string>
+    <string name="help">Yardım</string>
+    <string name="helpText">YARDIM MENUSU:\nYardım menüsünde bu uygulamanın bir çok ekstra özelliğini bulabilirsiniz, örneğin tercihlerinizi değiştirmek ya da doğum günleri listenize yeni kişiler eklemek gibi.\n\nKİŞİYE BASILI TUTMAK:\nDoğum günü listenizdeki bir kişiye basılı tuttuğunuz zaman, listenizde varolan bir kişiyi düzenlemenizi ya da silmenizi sağlayacak bir seçenekler menüsü açılır.\n\nFOTOĞRAF EKLEMEK:\nSadece elle eklediğiniz kişiler (rehberinizde olmayan) için fotoğraf ekleyebilirsiniz. Rehberinizdeki kişiler için, lütfen rehberinizdeki kişi listenizde düzenleme yapınız. \n\nWIDGET:\nTelefonunuzun ana ekranına gidin ve yaklaşan doğum günlerini ekrana basılı tutun \”Ekle \”, ve \”Widget\” seçenekleriyle ekleyin. Widget 6 saatte bir kendini yenileyecektir! \n\n1970 YIL SORUNU:\nEğer 1970 öncesi yılları giriş yapamıyorsanız, muhtemelen Motorola marka bir cihazınız vardır. Motorola ve bazı diğer üreticilerin bazı telefonlarında 1970 ve öncesine giriş yapmanızı engelleyen bir sistem hatası bulunmakta. Bunu değiştiremiyoruz, üzgünüz! \n\nBİLDİRİM YOK:\n Androidin son sürümleri, örneğin 4.0 and 4.1, bildirimler için özel seçenekler sunuyor. Örneğin,durum çubuğundaki (3G, Wi-Fi, GPS ve Bluetooth’un bulunduğu) bütün  bildirimleri kapatabilir ya da Ayarlar altındaki \”Uygulamaları yönet\” kısmından bildirimleri etkisizleştirebilirsiniz. Bildirimleriniz çalışmazsa lütfen bu ayarları kontrol ediniz. \n\nHARİCİ KARTA TAŞIMA:\nBu uygulamayı yaklaşan doğum günlerinin bildirimleri çalışmayacağı için harici karta (SD kart) taşıyamazsınız. Üzgünüz! \n\nDESTEKLENEN TARİH BİÇİMLERİ:\nISO 8601’e uygun YYYY-AA-GG şeklindeki tarih biçimlerini tamamen destekliyoruz. Diğer tarih biçimlerinin düzgün okunup okunmayacağını garanti edemiyoruz. \n\nUYGULAMANIN TERCÜME EDİLMESİNE YARDIM EDEBİLİR MİYİM?\nEvet, edebilirsiniz. Bütün çevirileri düzenleyebileceğiniz ve diğer kullanıcılar için geliştirebileceğiniz Facebook uygulamamızı kullanabilirsiniz. Lütfen aşağıdaki linki okuma ve düzenlemeye daha uygun olması açısından bir bilgisayarda açınız : http://birthdays.latein.me/</string>
+    <string name="emptyList">Kişiler listenizin doğum günleri yükleniyor!</string>
+    <string name="goHome">Ana Menü\'ye git</string>
+    <string name="telephone">Telefon</string>
+    <string name="settingsGeneral">Genel Ayarlar</string>
+    <string name="showPhotos">Kişilerin fotoğrafları</string>
+    <string name="showPhotos_on">Kişilerin fotoğrafları gösterilecek.</string>
+    <string name="showPhotos_off">Kişilerin fotoğrafları gösterilmeyecek</string>
+    <string name="nextBirthdayOnWeekDay">Gelecek doğum günü</string>
+    <string name="nextAnniversaryOnWeekDay">Gelecek yıl dönümü</string>
+    <string name="tipDontEnterYear"><b>Tavsiye:</b> Yıl girmek istemiyor musunuz? Sadece \"1900\" girin ve yıl bölümü görünmesin.</string>
+    <string name="contactPhoto">Kişi fotoğrafı</string>
+    <string name="daysLeftUnit">gün</string>
+    <string name="birthdaysFoundSg">Kişi listenizde doğum günü kaydı bulundu!</string>
+    <string name="birthdaysFoundPl">Kişi listenizde doğum günü kayıtları bulundu!</string>
+    <string name="noBirthdaysFound">Listenizde hiç doğum günü kaydı bulunamadı!</string>
+    <string name="turnVerb">olacak</string>
+    <string name="onTime">\'da</string>
+    <string name="pleaseWait">Lütfen bekleyiniz</string>
+    <string name="refreshingList">Liste güncelleniyor &#8230;</string>
+    <string name="bornOn">Doğum günü:</string>
+    <string name="anniversaryOn">Yıl dönümü:</string>
+    <string name="age">Yaş:</string>
+    <string name="yearsMarried">Kaç yıldır:</string>
+    <string name="years">yıl</string>
+    <string name="ok">Tamam</string>
+    <string name="today">bugün</string>
+    <string name="in">in</string>
+    <string name="birthday">Doğum günü</string>
+    <string name="yearsOld">yaşında</string>
+    <string name="loading">bekleyiniz</string>
+    <string name="fullTextConvinced">Uygulamadan memnun musunuz? Uygulamamızı Google Play\'de oylarsanız çok seviniriz. Desteğiniz için teşekkürler!</string>
+    <string name="rateApp">Bu uygulamayı oylayın</string>
+    <string name="rateNow">Şimdi oylayın</string>
+    <string name="remindLater">Daha sonra hatırlat</string>
+    <string name="noThanks">Hayır, teşekkürler</string>
+    <string name="onlyFirstFew">Bu listede sadece ilk 25 kişi bulunmakta!</string>
+    <string name="callVerb">Ara</string>
+    <string name="mode_add">Ekle</string>
+    <string name="mode_edit">Değiştir</string>
+    <string name="mode_rate">Oyla</string>
+    <string name="mode_backup">Yedekle</string>
+    <string name="mode_feedback">Geri bildirim</string>
+    <string name="mode_help">Yardım</string>
+    <string name="mode_buy">Hediyeler</string>
+    <string name="birthdayEdited">Düzenlenen doğum günü yeni tarihe güncellendi.</string>
+    <string name="cancel">İptal</string>
+    <string name="save">Kaydet</string>
+    <string name="smsVerb">SMS</string>
+    <string name="congratulationSMS">Mutlu yıllar!</string>
+    <string name="comingSoon">Çok yakında!</string>
+    <string name="nameOfPerson">Kişi ismi</string>
+    <string name="dateOfBirth">Gün seçiniz</string>
+    <string name="birthdayAdded">Yeni doğum günü eklendi ve uygulamayı tekrar açtığınızda görünür olacak.</string>
+    <string name="delete">Sil</string>
+    <string name="edit">Tarihi değiştir</string>
+    <string name="birthdayDeleted">Seçilen doğum günü silindi.</string>
+    <string name="mode_preferences">Tercihler</string>
+    <string name="notification_on">Bildirimler gösterilecek.</string>
+    <string name="notification_off">Bildirim yok.</string>
+    <string name="notification_0">Doğumgününde</string>
+    <string name="notification_1">1 gün önce</string>
+    <string name="notification_2">2 gün önce</string>
+    <string name="notification_7">1 hafta önce</string>
+    <string name="notification_time">Bildirimler için zaman</string>
+    <string name="notification_sound">Bildirimler için zil sesi</string>
+    <string name="notification_sound_desc">Lütfen bir zil sesi ya da \"Sessiz\"i seçiniz.</string>
+    <string name="setTime">İstediğiniz zamanı seçiniz &#8230;</string>
+    <string name="notificationsForBirthdays">Doğum günleri için bildirimler</string>
+    <string name="caption_adding_mode">Yeni kayıt ekleme</string>
+    <string name="hint_adding_mode">Mümkünse, her zaman rehberinizdeki kişilere doğum günü kaydı ekleyiniz. Böylece daha fazla özellikten yararlanabilirsiniz.</string>
+	<string name="adding_mode_contacts">Rehberden seç</string>
+	<string name="adding_mode_newentry">Rehber dışı kayıt</string>
+	<string name="createBackup">Yedek Oluştur</string>
+	<string name="email_backup">Email\'e yedekle</string>
+	<string name="send_backup">Yedeği gönder: &#8230;</string>
+	<string name="your_email_address">Email adresiniz &#8230;</string>
+	<string name="hint_backup_mode">Güvenli bir yedek alabilmek için listenizin bir kopyasını email adresinize gönderebilirsiniz. Böylece bilgilerinizin kaybolmasını 
+engellemiş olacaksınız.</string>
+	<string name="pleaseEnterEmail">Lütfen geçerli bir email adresi giriniz!</string>
+	<string name="mode_search">Ara</string>
+	<string name="searchNoResult">Listenizde bu aramaya uygun bir eşleşme bulunamadı!</string>
+	<string name="findPerson">Kişi bul</string>
+	<string name="searchPerson">Kişi ara &#8230;</string>
+	<string name="hint_search_mode">Doğum günleri listenizde bir kişi araması yaparken, ismin bir kısmını yazmanız genellikle yeterlidir.</string>
+	<string name="zodiac">Burç</string>
+	<string name="zodiac_aries">Koç</string>
+	<string name="zodiac_taurus">Boğa</string>
+	<string name="zodiac_gemini">İkizler</string>
+	<string name="zodiac_cancer">Yengeç</string>
+	<string name="zodiac_leo">Aslan</string>
+	<string name="zodiac_virgo">Başak</string>
+	<string name="zodiac_libra">Terazi</string>
+	<string name="zodiac_scorpio">Akrep</string>
+	<string name="zodiac_sagittarius">Yay</string>
+	<string name="zodiac_capricornus">Oğlak</string>
+	<string name="zodiac_aquarius">Kova</string>
+	<string name="zodiac_pisces">Balık</string>
+	<string name="changePicture">Resmi değiştir</string>
+	<string name="change_name">İsmi değiştir</string>
+	<string name="sortBy">Sıralama</string>
+	<string name="sortBy_change">Sıralama kriteri seçiniz</string>
+	<string-array name="sortBy_values_human">
+        <item>Kalan gün</item>
+        <item>İsim</item>
+        <item>Yaş</item>
+    </string-array>
+	<string-array name="sortBy_values_machine">
+        <item>days_left</item>
+        <item>name</item>
+        <item>age</item>
+    </string-array>
+    <string name="show_phoneButtons">İletişim tuşları</string>
+    <string name="show_phoneButtons_on">Kişiye tıkladığınızda arama ve SMS tuşları gösterilir.</string>
+    <string name="show_phoneButtons_off">Kişiye tıkladığınızda arama ve SMS tuşları gösterilmez.</string>
+    <string name="choose_type">Seçiniz</string>
+    <string name="type_birthday">Doğum günü</string>
+    <string name="type_anniversary">Yıl dönümü</string>
+    <string name="open_contact">Kişiyi aç</string>
+    <string name="buyVerb">Hediye al</string>
+    <string name="donate_link">http://bit.ly/MrIcHs</string>
+    <string name="buy_link">http://www.amazon.com/?_encoding=UTF8&#38;tag=lateinme-20&#38;linkCode=ur2&#38;camp=1789&#38;creative=9325</string>
+    <string name="doExport">Dışa çıkart / Kaydet</string>
+    <string name="doImport">İçe aktar / Yükle</string>
+    <string name="importVerb">İçe aktar</string>
+	<string name="loadBackup">Yedekten yükle</string>
+	<string name="pleaseEnterImportData">Üzgünüz, yükleme kaydı bitirilemedi!</string>
+    <string name="hint_import_mode">Lütfen, buradan gönderdiğiniz postayı e-posta adresinizde bulunuz ve postanın tamamını kopyalayınız. Hazır olduğunuzda, aşağıdan 
+\"Yedekten yükle\"\'ye tıklayınız.</string>
+    <string name="sendErrorReport">Hata raporu</string>
+    <string name="send">Gönder</string>
+    <string name="invalidDate">Geçersiz tarih.</string>
+    <string name="pleaseCorrect">Lütfen bunu düzeltin!</string>
+    <string name="tryOpeningInvalid">Geçersiz bir giriş yaptınız. Lütfen uzun basın ve \"Tarihi değiştir\" seçin.</string>
+    <string name="bugReportHint">Lütfen oluşan hata ya da problemi açıklayınız. Olabildiğiniz kadar açıklayıcı olunuz.</string>
+    <string name="chineseZodiac">Çin Burçları</string>
+	<string name="chinese_rat">Fare</string>
+	<string name="chinese_ox">Öküz</string>
+	<string name="chinese_tiger">Kaplan</string>
+	<string name="chinese_rabbit">Tavşan</string>
+	<string name="chinese_dragon">Ejderha</string>
+	<string name="chinese_snake">Yılan</string>
+	<string name="chinese_horse">At</string>
+	<string name="chinese_goat">Keçi</string>
+	<string name="chinese_monkey">Maymun</string>
+	<string name="chinese_rooster">Horoz</string>
+	<string name="chinese_dog">Köpek</string>
+	<string name="chinese_pig">Domuz</string>
+	<string name="show_zodiac">Burçlar</string>
+	<string name="show_zodiac_description">Burçların gösterilmesini istiyor musunuz?</string>
+	<string-array name="show_zodiac_values_human">
+        <item>Batı burçları</item>
+        <item>Çin burçları</item>
+        <item>Batı + Çin burçları</item>
+        <item>Hiçbiri</item>
+    </string-array>
+	<string-array name="show_zodiac_values_machine">
+        <item>western</item>
+        <item>chinese</item>
+        <item>both</item>
+        <item>none</item>
+    </string-array>
+	<string name="do_repeatsound">Sesi tekrarla</string>
+	<string name="do_repeatsound_on">Bildirim sesi siz bildirimi kapatana dek çalacak.</string>
+	<string name="do_repeatsound_off">Bildirim sesi sadece bir kere çalacak.</string>
+	<string name="facebookImport">Facebook\'tan yükle</string>
+	<string name="facebook_import_app">https://apps.facebook.com/birthdays_android/</string>
+	<string name="hint_facebookImport">Facebook arkadaşlarınızın doğumgünlerini bu uygulamaya aktarabilmek için Facebook’taki \"Birthdays for Android\" uygulamamızı 
+kullanabilirsiniz. Devam ederseniz, uygulamayı Facebook sayfasında sizin için açacağız. Uygulama size 5 kolay adımda yönlendirecek – sadece deneyin! \nAlternatif 
+olarak \"bit.ly/birthdays_export\" adresini masaüstü bilgisayarınızda açabilirsiniz.</string>
+	<string name="proceed">Devam et</string>
+	<string name="install">Şimdi yükle</string>
+	<string name="missing_addon_title">Eklentiyi yükle</string>
+	<string name="missing_addon_explain">Bu özellik İnternet ve SD kart erişimi için izinler gerektiriyor. Bu yüzden, bu özellik sadece ücretsiz eklentimizle (Google 
+Play aracılığıyla) mümkün. Siz seçin : Bu uygulamayı genişletilmiş izinler olmadan kullanın ya da ek özelliklerden yararlanmak için bedava eklentimizi indirin. 
+Eklenti sayesinde SD kart üzerinde yedek oluşturabilir ve bu yedeklerden geri yükleme yapabilirsiniz, Facebook arkadaşlarınızın doğum günlerini kolayca 
+alabilirsiniz. Sadece deneyin! Eklenti de ücretsizdir.</string>
+    <string name="permission_birthdays">Doğum günleri</string>
+    <string name="permission_access_birthdays">Doğum günleri uygulaması ve eklentisi arasında veri akışına izin verir.</string>
+    <string name="show_help">Yardım</string>
+    <string name="rate_app">Uygulamayı oylayın</string>
+    <string name="addon_market">Eklentimiz[Google Play\'de]</string>
+    <string name="export_fail">Üzgünüz, bilgilerinizin dışarı aktarımı başlatılamadı!</string>
+    <string name="loading_facebook">Facebook\'tan bilgilerinizi yüklüyor &#8230;</string>
+    <string name="notification_close">Bildirimi kapat</string>
+    <string name="notification_remind1">15dk içerisinde hatırlat</string>
+    <string name="notification_remind2">1sa içerisinde hatırlat</string>
+    <string name="notification_remind3">6sa içerisinde hatırlat</string>
+    <string name="importing_entries">Seçili kayıtları aktar &#8230;</string>
+    <string name="open_app">Uygulamayı aç</string>
+    <string-array name="default_images">
+        <item>Doğum günü (1)</item>
+        <item>Doğum günü (2)</item>
+        <item>Jübile</item>
+        <item>Aşk</item>
+        <item>Düğün</item>
+        <item>Ölüm (1)</item>
+        <item>Ölüm (2)</item>
+    </string-array>
+    <string-array name="default_images_copyright">
+        <item>Africa Studio</item>
+        <item>bluedesign</item>
+        <item>shoot4u</item>
+        <item>Konstiantyn</item>
+        <item>artikularis</item>
+        <item>Pixel Embargo</item>
+        <item>Benjamin Haas</item>
+    </string-array>
+    <string name="pick_from_gallery">Galeriden seç</string>
+    <string name="pick_predefined_image">Hazır resim seç</string>
+    <string name="image_provided_by">Bu görüntüyü sağlayan kişi:</string>
+    <string name="helpTranslating">Çeviri</string>
+    <string name="translationHelpHowto">Okuma ve düzenlemeye daha uygun olması açısından lütfen bir bilgisayarda açınız:\nhttp://birthdays.latein.me/</string>
+    <string name="menu_main">Ana menü</string>
+	<string name="update_addon_title">Eklentiyi güncelle</string>
+	<string name="update_addon_explain">Eklentiniz artık güncel değil! Lütfen eklentinizi ücretsiz olarak son versiyona güncellemek aşağıdaki butona dokunun ve Google 
+Play\'i ziyaret edin. Daha sonra bütün özellikler tekrar düzgün çalışmaya devam edecektir.</string>
+	<string name="mode_translate">Çeviri</string>
+	<string name="days_abbreviation">g</string>
+	<string name="sure_to_delete">Bu kaydı silmek istediğinize emin misiniz?</string>
+	<string name="yes">Evet</string>
+	<string name="no">Hayır</string>
+	<string name="merge_with_contact">Rehber kaydıyla birleştir</string>
+	<string name="merge_explanation">Bu kaydı varolan bir rehber kişisiyle birleştirmek istiyor musun?</string>
+	<string name="entry_merged">Kayıt başarılı bir şekilde seçilen kişiyle birleştirildi.</string>
+	<string name="contacts_app_not_found">Cihazınızda kişiler uygulaması bulunamadı!</string>
+	<string name="defaultDateFormat">YYYY-AA-GG</string>
+	<string name="show_datepicker">Kolay gün seçimi</string>
+	<string name="show_datepicker_on">Gün, ay ve yılı bir listeden seçmenize izin veren, tarih seçiminin pratik bir yolu.</string>
+	<string name="show_datepicker_off">Basit bir yazı alanı gösterilecek. Tarihi elle girebilirsiniz. Bu seçim, cihazınız 1970 öncesi girişleri kabul etmiyorsa oldukça 
+kullanışlıdır.</string>
+</resources>

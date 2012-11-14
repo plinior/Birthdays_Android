@@ -18,7 +18,7 @@
     <string name="birthdaysFoundSg">se encontró un cumpleaños en su lista de contactos!</string>
     <string name="birthdaysFoundPl">se encontraron cumpleaños en su lista de contactos!</string>
     <string name="noBirthdaysFound">No se pudo encontrar ningún cumpleaños en su lista de contactos!</string>
-    <string name="turnVerb">cumplirá</string>
+    <string name="turnVerb">luego</string>
     <string name="onTime">el</string>
     <string name="pleaseWait">Por favor, espere</string>
     <string name="refreshingList">Actualizando la lista &#8230;</string>
@@ -224,4 +224,7 @@
 	<string name="show_datepicker">Fácil selección de fecha</string>
 	<string name="show_datepicker_on">Una manera conveniente de selección de fechas que le permite elegir el día, mes y año de una lista.</string>
 	<string name="show_datepicker_off">Un campo de texto simple se muestra. Puede escribir la fecha manualmente. Esto es útil si el dispositivo no acepta año antes de 1970 lo contrario.</string>
+	<string name="settings_other">Otros ajustes</string>
+	<string name="congratulationText_title">Enhorabuena texto</string>
+	<string name="congratulationText_summary">Ponga su texto predefinido para mensajes de felicitación aquí.</string>
 </resources>

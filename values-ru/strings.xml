@@ -224,4 +224,7 @@
 	<string name="show_datepicker">Легкий выбор даты</string>
 	<string name="show_datepicker_on">Удобный способ выбора даты, что позволяет выбрать день, месяц и год из списка.</string>
 	<string name="show_datepicker_off">Простое текстовое поле будет показано. Вы можете ввести дату вручную. Это полезно, если ваше устройство не принимает года до 1970 года в противном случае.</string>
+	<string name="settings_other">Другие настройки</string>
+	<string name="congratulationText_title">Поздравление текст</string>
+	<string name="congratulationText_summary">Установить предопределенный текст поздравления сообщений здесь.</string>
 </resources>

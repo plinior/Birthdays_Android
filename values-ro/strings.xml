@@ -224,4 +224,7 @@
 	<string name="show_datepicker">Ușor data de selecție</string>
 	<string name="show_datepicker_on">O modalitate convenabilă de selectare a datei care vă permite să alegeți ziua, luna și anul dintr-o listă.</string>
 	<string name="show_datepicker_off">Un câmp de text simplu va fi indicat. Aveți posibilitatea să tastați data manual. Acest lucru este util în cazul în care dispozitivul dvs. nu acceptă ani înainte de 1970 altfel.</string>
+	<string name="settings_other">Alte setări</string>
+	<string name="congratulationText_title">Felicitare de text</string>
+	<string name="congratulationText_summary">Setați textul predefinit pentru mesaje de felicitare aici.</string>
 </resources>

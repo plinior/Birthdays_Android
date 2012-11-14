@@ -224,4 +224,7 @@
 	<string name="show_datepicker">Sélection de la date facile</string>
 	<string name="show_datepicker_on">Un moyen pratique de sélection de date qui vous permet de choisir jour, le mois et l\'année dans une liste.</string>
 	<string name="show_datepicker_off">Un simple champ texte sera affiché. Vous pouvez saisir la date manuellement. Ceci est utile si votre appareil n\'accepte pas les années antérieures à 1970 autrement.</string>
+	<string name="settings_other">Les autres paramètres</string>
+	<string name="congratulationText_title">Félicitations texte</string>
+	<string name="congratulationText_summary">Réglez votre texte prédéfini pour les messages de félicitations ici.</string>
 </resources>

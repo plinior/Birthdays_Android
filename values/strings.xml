@@ -224,4 +224,7 @@
 	<string name="show_datepicker">Easy date selection</string>
 	<string name="show_datepicker_on">A convenient way of date selection that lets you pick day, month and year from a list.</string>
 	<string name="show_datepicker_off">A simple text field will be shown. You can type the date manually. This is useful if your device does not accept years prior to 1970 otherwise.</string>
+	<string name="settings_other">Other settings</string>
+	<string name="congratulationText_title">Congratulation text</string>
+	<string name="congratulationText_summary">Set your predefined text for congratulation messages here.</string>
 </resources>

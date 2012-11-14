@@ -224,4 +224,7 @@
 	<string name="show_datepicker">Gemakkelijk datum selectie</string>
 	<string name="show_datepicker_on">Een handige manier om datum selectie waarmee u dag, maand en jaar kiezen uit een lijst.</string>
 	<string name="show_datepicker_off">Een eenvoudige tekstveld getoond. U kunt de datum handmatig. Dit is handig als uw apparaat niet accepteert jaar voorafgaand aan 1970 op een andere manier.</string>
+	<string name="settings_other">Andere instellingen</string>
+	<string name="congratulationText_title">Gefeliciteerd tekst</string>
+	<string name="congratulationText_summary">Stel hier uw vooraf gedefinieerde tekst voor felicitatie berichten.</string>
 </resources>

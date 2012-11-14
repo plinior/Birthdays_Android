@@ -224,4 +224,7 @@
 	<string name="show_datepicker">Einfache Datumsauswahl</string>
 	<string name="show_datepicker_on">Eine bequeme Art der Datumsauswahl, bei der Du Jahr, Monat und Tag aus einer Liste wählen kannst.</string>
 	<string name="show_datepicker_off">Ein einfaches Textfeld wird angezeigt. Du kannst das Datum von Hand eintragen. Das ist nützlich, wenn Dein Gerät sonst keine Jahre vor 1970 annimmt.</string>
+	<string name="settings_other">Sonstige Einstellungen</string>
+	<string name="congratulationText_title">Glückwunsch-Text</string>
+	<string name="congratulationText_summary">Lege hier Deinen voreingestellten Text für Glückwunsch-Nachrichten fest.</string>
 </resources>

@@ -123,7 +123,7 @@ engellemiş olacaksınız.</string>
     <string name="open_contact">Kişiyi aç</string>
     <string name="buyVerb">Hediye al</string>
     <string name="donate_link">http://bit.ly/MrIcHs</string>
-    <string name="buy_link">http://www.amazon.com/?_encoding=UTF8&#38;tag=lateinme-20&#38;linkCode=ur2&#38;camp=1789&#38;creative=9325</string>
+    <string name="buy_link">http://www.gittigidiyor.com/</string>
     <string name="doExport">Dışa çıkart / Kaydet</string>
     <string name="doImport">İçe aktar / Yükle</string>
     <string name="importVerb">İçe aktar</string>
@@ -233,4 +233,7 @@ Play\'i ziyaret edin. Daha sonra bütün özellikler tekrar düzgün çalışmay
 	<string name="show_datepicker_on">Gün, ay ve yılı bir listeden seçmenize izin veren, tarih seçiminin pratik bir yolu.</string>
 	<string name="show_datepicker_off">Basit bir yazı alanı gösterilecek. Tarihi elle girebilirsiniz. Bu seçim, cihazınız 1970 öncesi girişleri kabul etmiyorsa oldukça 
 kullanışlıdır.</string>
+	<string name="settings_other">Diğer ayarlar</string>
+	<string name="congratulationText_title">Tebrik metni</string>
+	<string name="congratulationText_summary">Burada kutlama mesajları için önceden tanımlanmış bir metin ayarlayın.</string>
 </resources>

@@ -224,4 +224,7 @@
 	<string name="show_datepicker">Easy výber dátumu</string>
 	<string name="show_datepicker_on">Pohodlný spôsob výber dátumu, ktorá vám umožní vybrať deň, mesiac a rok zo zoznamu.</string>
 	<string name="show_datepicker_off">Jednoduchý textový poľa sa vám ukáže. Môžete zadať dátum ručne. To je užitočné, ak váš prístroj neprijme rokov pred 1970 inak.</string>
+	<string name="settings_other">Ďalšie nastavenia</string>
+	<string name="congratulationText_title">Gratulujeme texte</string>
+	<string name="congratulationText_summary">Nastavte si preddefinovaný text blahoželania správ tu.</string>
 </resources>

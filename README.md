@@ -1,8 +1,9 @@
 ## Getting started
 
-+ Just open the files for your language (specified by country code) and edit what you think you can improve. Thank you!
++ Just open the files for your language (specified by country code) and edit what you think you can improve. If your language is not listed yet, you can just open the English files and translate them. Thank you!
 + You only have to change the phrases between &gt; and &lt; in each line. Example: &lt;string name="..."&gt;CHANGE THIS&lt;/string&gt;
 + Don't worry, you cannot make any mistakes. If something is not so good, we will correct that.
++ Send your translations to <a href="mailto:info@latein.me">info@latein.me</a> so that we can add them to the application
 
 ## Language codes
 

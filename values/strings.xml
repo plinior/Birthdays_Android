@@ -227,4 +227,6 @@
 	<string name="settings_other">Other settings</string>
 	<string name="congratulationText_title">Congratulation text</string>
 	<string name="congratulationText_summary">Set your predefined text for congratulation messages here.</string>
+	<string name="widet_4x2">Birthdays (4x2)</string>
+	<string name="widet_4x4">Birthdays (4x4)</string>
 </resources>

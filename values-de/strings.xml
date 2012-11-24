@@ -227,4 +227,6 @@
 	<string name="settings_other">Sonstige Einstellungen</string>
 	<string name="congratulationText_title">Glückwunsch-Text</string>
 	<string name="congratulationText_summary">Lege hier Deinen voreingestellten Text für Glückwunsch-Nachrichten fest.</string>
+	<string name="widet_4x2">Geburtstage (4x2)</string>
+	<string name="widet_4x4">Geburtstage (4x4)</string>
 </resources>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Zile de na?tere</string>
+    <string name="app_name">Zile de naștere</string>
     <string name="help">Ajutor</string>
     <string name="helpText">OPTIONS MENU:\nIn the options menu you can find several additional features of this app, e.g. changing the preferences or adding new contacts to your list of birthdays.\n\nLONG-PRESSING A CONTACT:\nWhen you long-press a contact in your list of birthdays, a menu with options will pop up where you can choose to edit or delete an existing entry in your list of birthdays.\n\nADDING A PHOTO:\nYou can only add photos for people who are not in your contacts but manually added to this application. For people from your contacts list, please edit the entry in your Android contacts.\n\nWIDGET:\nGo to your homescreen and hit \"Add\", then \"Widget\" to add the upcoming birthdays to your homescreen. Your widget will be refreshed every 6 hours!\n\n1970 PROBLEM:\nIf you cannot enter dates prior to 1970, you probably have a Motorola device. There are several devices by Motorola and other manufacturers which prevent you from typing a date before 1970 due to a bug. We cannot change this, sorry!\n\nNO NOTIFICATIONS:\nThe latest versions of Android, i.e. 4.0 and 4.1, offer special settings for notifications. For example, you can switch off all notifications in the status bar (where 3G, Wi-Fi, GPS and Bluetooth are located) or disable notifications in \"Manage apps\" among your settings. Please check these settings if your notifications don\'t work.\n\nMOVING TO EXTERNAL STORAGE:\nYou cannot move this app to the external storage (SD card) as notifications for upcoming birthdays wouldn\'t work in that case. Sorry!\n\nSUPPORTED DATE FORMATS:\nWe fully support date formats according to ISO 8601, that is YYYY-MM-DD. For other formats, we cannot guarantee that they are read correctly.\n\nCAN I HELP TRANSLATING THE APP?\nYes, you can. Just use our application on Facebook, where you can easily edit all translations and improve them for all users. Please open the following link on a desktop computer for better reading and editing: http://birthdays.latein.me/</string>
     <string name="emptyList">Loading your contacts\' birthdays!</string>
@@ -227,4 +227,6 @@
 	<string name="settings_other">Alte setări</string>
 	<string name="congratulationText_title">Felicitare de text</string>
 	<string name="congratulationText_summary">Setați textul predefinit pentru mesaje de felicitare aici.</string>
+	<string name="widet_4x2">Zile de naștere (4x2)</string>
+	<string name="widet_4x4">Zile de naștere (4x4)</string>
 </resources>

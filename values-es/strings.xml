@@ -18,7 +18,7 @@
     <string name="birthdaysFoundSg">¡Se encontró un cumpleaños en tu lista de contactos!</string>
     <string name="birthdaysFoundPl">¡Se encontraron cumpleaños en tu lista de contactos!</string>
     <string name="noBirthdaysFound">¡No se pudo encontrar ningún cumpleaños en tu lista de contactos!</string>
-    <string name="turnVerb">luego</string>
+    <string name="turnVerb">cumplirá</string>
     <string name="onTime">el</string>
     <string name="pleaseWait">Por favor, espera</string>
     <string name="refreshingList">Actualizando la lista &#8230;</string>
@@ -33,7 +33,7 @@
     <string name="birthday">Cumpleaños</string>
     <string name="yearsOld">años</string>
     <string name="loading">cargando</string>
-    <string name="fullTextConvinced">¿Te convenció esta aplicación? Estaríamos muy agradecidos si votaras nuestra aplicación en Google Play. ¡Gracias por tu apoyo!</string>
+    <string name="fullTextConvinced">¿Te gusta la aplicación? Estaríamos muy agradecidos si votaras nuestra aplicación en Google Play. ¡Gracias por tu apoyo!</string>
     <string name="rateApp">Valora esta aplicación</string>
     <string name="rateNow">Votar ahora</string>
     <string name="remindLater">Más tarde</string>
@@ -52,7 +52,7 @@
     <string name="save">Guardar</string>
     <string name="smsVerb">SMS</string>
     <string name="congratulationSMS">¡Feliz cumpleaños!</string>
-    <string name="comingSoon">Próximamente!</string>
+    <string name="comingSoon">¡Próximamente!</string>
     <string name="nameOfPerson">Nombre de la persona</string>
     <string name="dateOfBirth">Elegir la fecha</string>
     <string name="birthdayAdded">El nuevo cumpleaños se ha agregado y será visible la próxima vez que abras esta aplicación.</string>
@@ -94,7 +94,7 @@
 	<string name="zodiac_leo">Leo</string>
 	<string name="zodiac_virgo">Virgo</string>
 	<string name="zodiac_libra">Libra</string>
-	<string name="zodiac_scorpio">Escorpión</string>
+	<string name="zodiac_scorpio">Escorpio</string>
 	<string name="zodiac_sagittarius">Sagitario</string>
 	<string name="zodiac_capricornus">Capricornio</string>
 	<string name="zodiac_aquarius">Acuario</string>
@@ -132,7 +132,7 @@
     <string name="sendErrorReport">Informe de error</string>
     <string name="send">Enviar</string>
     <string name="invalidDate">Fecha no válida.</string>
-    <string name="pleaseCorrect">Por favor, corrige esto!</string>
+    <string name="pleaseCorrect">Por favor, ¡corrige esto!</string>
     <string name="tryOpeningInvalid">Entrada inválida. Presionar durante un tiempo y elege la opción \"Editar la fecha\".</string>
     <string name="bugReportHint">Por favor, describe el problema o el error que se produce. Sé tan específico como sea posible.</string>
     <string name="chineseZodiac">Chino</string>
@@ -227,4 +227,6 @@
 	<string name="settings_other">Otros ajustes</string>
 	<string name="congratulationText_title">Enhorabuena texto</string>
 	<string name="congratulationText_summary">Ponga su texto predefinido para mensajes de felicitación aquí.</string>
+	<string name="widet_4x2">Cumpleaños (4x2)</string>
+	<string name="widet_4x4">Cumpleaños (4x4)</string>
 </resources>

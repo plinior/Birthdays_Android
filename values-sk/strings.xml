@@ -227,4 +227,6 @@
 	<string name="settings_other">Ďalšie nastavenia</string>
 	<string name="congratulationText_title">Gratulujeme texte</string>
 	<string name="congratulationText_summary">Nastavte si preddefinovaný text blahoželania správ tu.</string>
+	<string name="widet_4x2">Narodeniny (4x2)</string>
+	<string name="widet_4x4">Narodeniny (4x4)</string>
 </resources>

@@ -227,4 +227,6 @@
 	<string name="settings_other">Другие настройки</string>
 	<string name="congratulationText_title">Поздравление текст</string>
 	<string name="congratulationText_summary">Установить предопределенный текст поздравления сообщений здесь.</string>
+	<string name="widet_4x2">Дни рождения (4x2)</string>
+	<string name="widet_4x4">Дни рождения (4x4)</string>
 </resources>

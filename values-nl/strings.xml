@@ -227,4 +227,6 @@
 	<string name="settings_other">Andere instellingen</string>
 	<string name="congratulationText_title">Gefeliciteerd tekst</string>
 	<string name="congratulationText_summary">Stel hier uw vooraf gedefinieerde tekst voor felicitatie berichten.</string>
+	<string name="widet_4x2">Verjaardagen (4x2)</string>
+	<string name="widet_4x4">Verjaardagen (4x4)</string>
 </resources>

@@ -1,0 +1,37 @@
+Kostenlos, einfach, schnell - und ohne Werbung!
+
+Der beste Geburtstagskalender für Android, mit dem Du über die nächsten Geburtstage Deiner Freunde oder Verwandten informiert bleibst!
+
+Öffne einfach diese kleine App (nur 656 KB) und schaue nach, wem du als nächstes gratulieren musst und wie alt diese Person wird.
+
+Du musst keine zusätzlichen Informationen eingeben, trage die Geburtstage einfach in der Kontaktliste deines Telefons ein und vergiss sie nie wieder! Auch Geburtstage ohne Telefonkontakt sind kein Problem: Einfach den Namen und das Datum eintragen - und wenn Du möchtest, kannst Du auch noch ein Bild hinzufügen.
+
+Natürlich wirst du auch immer pünktlich erinnert, wenn einer deiner Kontakte Geburtstag hat. So kannst du wirklich keinen mehr vergessen!
+
+BERECHTIGUNGEN:
+• Kontaktdaten lesen: Diese Berechtigung wird gebraucht, damit die Geburtstage angezeigt werden können. Aber deine Daten sind sicher - es gibt keine Internet-Berechtigung.
+• Kontaktdaten schreiben: Du kannst innerhalb der App Geburtstage hinzufügen, ändern und löschen. Dafür wird diese Berechtigung benötigt.
+• Automatisch nach dem Booten starten: Nur so können die Erinnerungen des Geburtstagskalenders wieder eingestellt werden, nachdem dein Telefon neugestartet wurde.
+
+GIBT ES AUCH EIN WIDGET?
+Natürlich ;) Den Geburtstagskalender gibts auch direkt für Deinen Homescreen!
+
+KANN ICH GEBURTSTAGE VON FACEBOOK IMPORTIEREN?
+Ja, das ist möglich. Aber wir wollten eine App anbieten, die im Gegensatz zu anderen "Birthday Remindern" ohne Internet-Berechtigung funktioniert, damit Du sicher sein kannst: Deine privaten Daten sind geschützt! Der Facebook-Import ist trotzdem möglich, Du benötigst nur noch das kostenlose Add-on zu unserer App. Das findest Du, wenn Du in der App auf "Backup" tippst.
+
+KANN ICH BEIM ÜBERSETZEN DER APP HELFEN?
+Ja, sehr gerne! Auf der folgenden Seite findest Du alle Informationen dazu, wie Du die App übersetzen und so für alle Nutzer verbessern kannst:
+http://birthdays.latein.me/
+
+WEITERE FRAGEN:
+Einen ausführlichen Hilfe-Bereich findest Du nach dem Download der App im Hauptmenü. Dort werden die wichtigsten Fragen zum "Birthday Reminder" beantwortet und Du kannst nachlesen, wie Du bestimmte Probleme mit diesem Geburtstagskalender lösen kannst.
+
+UNTERSTÜTZTE SPRACHEN:
+English, Deutsch, Français, Nederlandse, Português, Român, русский, Slovenčina, Español, Türk
+
+DANKE AN:
+• Bruno Machado (PT), Marta Loureiro (PT), Volkan Karabulut (TR), Melvin E. (NL), Martin Jurík (SK) und Andrew Sachkov (RU) für das Übersetzen der App
+• http://www.latein.me/static/gp_attr_birthdays.txt
+
+SCHLAGWORTE:
+geburtstage erinnerung freunde kontakte birthday calendar kalender geburtstag geburtstagskalender birthdays reminder

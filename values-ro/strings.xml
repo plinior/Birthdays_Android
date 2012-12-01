@@ -227,6 +227,6 @@
 	<string name="settings_other">Alte setări</string>
 	<string name="congratulationText_title">Felicitare de text</string>
 	<string name="congratulationText_summary">Setați textul predefinit pentru mesaje de felicitare aici.</string>
+	<string name="widet_4x1">Zile de naștere (4x1)</string>
 	<string name="widet_4x2">Zile de naștere (4x2)</string>
-	<string name="widet_4x4">Zile de naștere (4x4)</string>
 </resources>

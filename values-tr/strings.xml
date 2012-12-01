@@ -236,6 +236,6 @@ kullanışlıdır.</string>
 	<string name="settings_other">Diğer ayarlar</string>
 	<string name="congratulationText_title">Tebrik metni</string>
 	<string name="congratulationText_summary">Burada kutlama mesajları için önceden tanımlanmış bir metin ayarlayın.</string>
+	<string name="widet_4x1">Doğum Günleri (4x1)</string>
 	<string name="widet_4x2">Doğum Günleri (4x2)</string>
-	<string name="widet_4x4">Doğum Günleri (4x4)</string>
 </resources>

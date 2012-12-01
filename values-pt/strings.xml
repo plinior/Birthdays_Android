@@ -227,6 +227,6 @@
 	<string name="settings_other">Outras configurações</string>
 	<string name="congratulationText_title">Texto de congratulações</string>
 	<string name="congratulationText_summary">Predefina a sua mensagem de congratulações aqui.</string>
+	<string name="widet_4x1">Aniversários (4x1)</string>
 	<string name="widet_4x2">Aniversários (4x2)</string>
-	<string name="widet_4x4">Aniversários (4x4)</string>
 </resources>

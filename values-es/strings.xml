@@ -227,6 +227,6 @@
 	<string name="settings_other">Otros ajustes</string>
 	<string name="congratulationText_title">Enhorabuena texto</string>
 	<string name="congratulationText_summary">Ponga su texto predefinido para mensajes de felicitación aquí.</string>
+	<string name="widet_4x1">Cumpleaños (4x1)</string>
 	<string name="widet_4x2">Cumpleaños (4x2)</string>
-	<string name="widet_4x4">Cumpleaños (4x4)</string>
 </resources>

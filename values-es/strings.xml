@@ -204,7 +204,7 @@
         <item>Benjamin Haas</item>
     </string-array>
     <string name="pick_from_gallery">Seleccionar desde la galería</string>
-    <string name="pick_predefined_image">Seleccionar imagenes predefinidas</string>
+    <string name="pick_predefined_image">Seleccionar imágenes predefinidas</string>
     <string name="image_provided_by">Esta imagen ha sido proporcionada por</string>
     <string name="helpTranslating">Ayuda a traducir</string>
     <string name="translationHelpHowto">Por favor, abre el navegador en el PC, para una mejor lectura y edición:\nhttp://birthdays.latein.me/</string>

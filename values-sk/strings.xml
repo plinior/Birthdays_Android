@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Narodeniny</string>
     <string name="help">Nápoveda</string>
-    <string name="helpText">DOSTUPNE MOŽNOSTI:\nV nastaveniach môžete nájsť niekoľko ďalších funkcií tejto aplikácie, napr . Zmenu nastavenia alebo pridanie nových kontaktov do zoznamu narodenín.\n\nDLHÉ STLAČENIE NA KONTAKT:\nPri dlhom stlačení na kontakt v zozname narodenín, sa Vám zobrazí ponuka možností, kde si môžete vybrať požadovanú úpravu alebo odstránenie existujúcich položiek v zozname narodenín\n\nPRIDANIE FOTKY\nMôžete pridať fotky iba pre ľudí, ktorých ste do zoznamu pridali ručne. Ak chcete zmeniť fotku pre ľudí pridaných z kontaktov, musíte ju zmeniť priamo v kontaktoch.\n\nWIDGET:\nPrejdite na dom. obrazovku a vyberte \"Pridať\" - \"Widget\" a pridajte Narodeniny na Vašu dom. obrazovku. Tento widget sa bude aktualizovať každých 6 hodín!\n\n1970 PROBLEM:\nIf you cannot enter dates prior to 1970, you probably have a Motorola device. There are several devices by Motorola and other manufacturers which prevent you from typing a date before 1970 due to a bug. We cannot change this, sorry!\n\nNO NOTIFICATIONS:\nThe latest versions of Android, i.e. 4.0 and 4.1, offer special settings for notifications. For example, you can switch off all notifications in the status bar (where 3G, Wi-Fi, GPS and Bluetooth are located) or disable notifications in \"Manage apps\" among your settings. Please check these settings if your notifications don\'t work.\n\nMOVING TO EXTERNAL STORAGE:\nYou cannot move this app to the external storage (SD card) as notifications for upcoming birthdays wouldn\'t work in that case. Sorry!\n\nSUPPORTED DATE FORMATS:\nWe fully support date formats according to ISO 8601, that is YYYY-MM-DD. For other formats, we cannot guarantee that they are read correctly.\n\nCAN I HELP TRANSLATING THE APP?\nYes, you can. Just use our application on Facebook, where you can easily edit all translations and improve them for all users. Please open the following link on a desktop computer for better reading and editing: http://birthdays.latein.me/</string>
-    <string name="emptyList">Nahrávam narodeniny Vašich kontaktov!</string>
+    <string name="helpText">DOSTUPNE MOŽNOSTI:\nV nastaveniach môžete nájsť niekoľko ďalších funkcií tejto aplikácie, napr . Zmenu nastavenia alebo pridanie nových kontaktov do zoznamu narodenín.\n\nDLHÉ STLAČENIE NA KONTAKT:\nPri dlhom stlačení na kontakt v zozname narodenín, sa Vám zobrazí ponuka možností, kde si môžete vybrať požadovanú úpravu alebo odstránenie existujúcich položiek v zozname narodenín\n\nPRIDANIE FOTKY\nMôžete pridať fotky iba pre ľudí, ktorých ste do zoznamu pridali ručne. Ak chcete zmeniť fotku pre ľudí pridaných z kontaktov, musíte ju zmeniť priamo v kontaktoch.\n\nWIDGET:\nPrejdite na dom. obrazovku a vyberte \"Pridať\" - \"Widget\" a pridajte Narodeniny na Vašu dom. obrazovku. Tento widget sa bude aktualizovať každých 6 hodín!\n\n1970 PROBLÉM:\nAk nemôžete zadať dáta pred 1970, je to bežný problém pre váš prístroj (často s Motorola zariadeniami). Prosím, choďte na nastavenie aplikácie a zakázať \"jednoduchý výber dáta\". Po tejto zmene, budete musieť zadať dáta v textovom poli - ale môžete aspoň zadajte dáta pred rokom 1970.\n\nNO NOTIFICATIONS:\nThe latest versions of Android (4.0+) offer special settings for notifications. For example, you can switch off all notifications in the status bar (where 3G, Wi-Fi, GPS and Bluetooth are located) or disable notifications in \"Manage apps\" among your settings. Please check these settings if your notifications don\'t work.\n\nMOVING TO EXTERNAL STORAGE:\nYou cannot move this app to the external storage (SD card) as notifications for upcoming birthdays wouldn\'t work in that case. Sorry!\n\nSUPPORTED DATE FORMATS:\nWe fully support date formats according to ISO 8601, that is YYYY-MM-DD. For other formats, we cannot guarantee that they are read correctly.\n\nCAN I HELP TRANSLATING THE APP?\nYes, you can. Just use our application on Facebook, where you can easily edit all translations and improve them for all users. Please open the following link on a desktop computer for better reading and editing:\nhttp://birthdays.latein.me/</string>
     <string name="goHome">Prejsť domov</string>
-    <string name="telephone">Telefón</string>
     <string name="settingsGeneral">Všeobecné nastavenia</string>
     <string name="showPhotos">Fotky kontaktov</string>
     <string name="showPhotos_on">Fotky kontaktov sa budú zobrazovať</string>
@@ -15,8 +12,6 @@
     <string name="tipDontEnterYear"><b>Tip:</b>Nechcete zobrazovať žiadny rok? Zadajte hodnotu \"1900\" a rok sa nebude zobrazovať.</string>
     <string name="contactPhoto">Fotka kontaktu</string>
     <string name="daysLeftUnit">dní</string>
-    <string name="birthdaysFoundSg">narodeniny nájdené v zozname kontaktov!</string>
-    <string name="birthdaysFoundPl">narodeniny(-ín) nájdené v zozname kontaktov!</string>
     <string name="noBirthdaysFound">Nepodarilo sa nájsť žiadne narodeniny vo Vašom zozname kontaktov!</string>
     <string name="turnVerb">oslávi</string>
     <string name="onTime">na</string>
@@ -38,13 +33,10 @@
     <string name="rateNow">Hodnotiť teraz</string>
     <string name="remindLater">Pripomenúť neskôr</string>
     <string name="noThanks">Nie, ďakujem</string>
-    <string name="onlyFirstFew">Tento zoznam obsahuje iba prvých 25 kontaktov!</string>
     <string name="callVerb">Hovor</string>
     <string name="mode_add">Pridať</string>
     <string name="mode_edit">Zmeniť</string>
-    <string name="mode_rate">Hodnotiť</string>
     <string name="mode_backup">Zálohovať</string>
-    <string name="mode_feedback">Sp. väzba</string>
     <string name="mode_help">Nápoveda</string>
     <string name="mode_buy">Darčeky</string>
     <string name="birthdayEdited">Vybrané narodeniny boli aktualizované na nový dátum.</string>
@@ -55,7 +47,6 @@
     <string name="comingSoon">Už čoskoro!</string>
     <string name="nameOfPerson">Meno osoby</string>
     <string name="dateOfBirth">Zvoľte dátum</string>
-    <string name="birthdayAdded">Nové narodeniny boli pridané a budú viditeľné po ďalšom spustení aplikácie.</string>
     <string name="delete">Odstrániť</string>
     <string name="edit">Zmeniť dátum</string>
     <string name="birthdayDeleted">Vybrané narodeniny boli odstránené.</string>
@@ -75,12 +66,6 @@
     <string name="hint_adding_mode">Ak je to možné, mali by ste vždy pridať narodeniny Vašich kontaktov. Potom môžete použiť viac funkcií.</string>
 	<string name="adding_mode_contacts">vybrať z kontaktov</string>
 	<string name="adding_mode_newentry">mimo kontaktov</string>
-	<string name="createBackup">Vytvoriť zálohu</string>
-	<string name="email_backup">Záloha na e-mail</string>
-	<string name="send_backup">Odoslať zálohu s &#8230;</string>
-	<string name="your_email_address">Vaša e-mailová adresa &#8230;</string>
-	<string name="hint_backup_mode">Tu môžete odoslať kópiu zoznamu na Vašu e-mailovú adresu, aby ste ju mali bezpečne uloženú. Týmto predídete jej strate.</string>
-	<string name="pleaseEnterEmail">Zadajte platnú e-mailovú adresu!</string>
 	<string name="mode_search">Hľadať</string>
 	<string name="searchNoResult">Nenašla sa žiadna osoba v zozname s týmto menom!</string>
 	<string name="findPerson">Nájsť osobu</string>
@@ -120,21 +105,14 @@
     <string name="type_birthday">Narodeniny</string>
     <string name="type_anniversary">Výročie</string>
     <string name="open_contact">Otvoriť kontakt</string>
-    <string name="buyVerb">Kúpiť darček</string>
-    <string name="donate_link">http://bit.ly/MrIcHs</string>
-    <string name="buy_link">http://www.amazon.com/?_encoding=UTF8&#38;tag=lateinme-20&#38;linkCode=ur2&#38;camp=1789&#38;creative=9325</string>
+    <string name="buyVerb">Nájsť darček</string>
     <string name="doExport">Exportovať / Uložiť</string>
     <string name="doImport">Importovať / Načítať</string>
     <string name="importVerb">Importovať</string>
-	<string name="loadBackup">Načítať zálohu</string>
 	<string name="pleaseEnterImportData">Je nám ľúto, import zlyhal!</string>
-    <string name="hint_import_mode">Prosím, vyhľadajte e-mail so zálohou, bol odoslaný do Vašej e-mailovej schránky a skopírujte z neho celý text. Ak ste pripravení, kliknite nižšie na \"Načítať zálohu\".</string>
-    <string name="sendErrorReport">Hlásenie o chybe</string>
-    <string name="send">Odoslať</string>
     <string name="invalidDate">Neplatný dátum.</string>
     <string name="pleaseCorrect">Prosím, opravte ho!</string>
     <string name="tryOpeningInvalid">Toto je neplatná hodnota. Prosím, po dlhom stlačení vyberte \"Zmeniť dátum\".</string>
-    <string name="bugReportHint">Popíšte prosím problém alebo chybu, ku ktorej došlo. Buďte čo najpodrobnejší.</string>
     <string name="chineseZodiac">Čínsky</string>
 	<string name="chinese_rat">Potkan</string>
 	<string name="chinese_ox">Byvol</string>
@@ -166,17 +144,11 @@
 	<string name="do_repeatsound_on">Zvukové oznámenie sa bude opakovať, kým nezatvoríte oznámenie.</string>
 	<string name="do_repeatsound_off">Zvukové oznámenie sa prehraje iba raz.</string>
 	<string name="facebookImport">Importovať z Facebooku</string>
-	<string name="facebook_import_app">https://apps.facebook.com/birthdays_android/</string>
-	<string name="hint_facebookImport">Môžete použiť našu aplikáciu \"Narodeniny pre Android\" na Facebooku, aby ste mohli importovať narodeniny Vašich priateľov na Facebooku do tejto aplikácie. Ak budete pokračovať, dôjde k otvoreniu webovej stránky s aplikáciou na Facebooku. Prevedieme Vás piatimi jednoduchými krokmi k úspešnému importu.\nPoprípade, môžete otvoriť stránku \"bit.ly/birthdays_export\" na Vašom počítači.</string>
-	<string name="proceed">Pokračovať</string>
 	<string name="install">Inštalovať teraz</string>
-	<string name="missing_addon_title">Inštalovať doplnok</string>
-	<string name="missing_addon_explain">Táto funkcia vyžaduje oprávnenia pre prístup k internetu a k SD karte! Z tohto dôvodu, je k dispozícii len s našim bezplatným doplnkom  (v obchode Google Play). Môžete si vybrať: Používať túto aplikáciu toho aby aplikácia vyžadovala tieto oprávnenia alebo si zdarma stiahnuť doplnok pre získanie nových funkcií. Doplnok umožňuje vytvoriť a načítať zálohu z SD karty, jednoducho importovať narodeniny z Facebooku a iné. Vyskúšajte to! Je to zadarmo.</string>
-    <string name="permission_birthdays">Narodeniny</string>
-    <string name="permission_access_birthdays">Povoľte výmenu dát medzi aplikáciou Narodeniny a jej doplnkom.</string>
+	<string name="missing_addon_title">Narodeniny Plus</string>
+	<string name="missing_addon_explain">Táto funkcia vyžaduje \"Narodeniny Plus\", predĺži, ale stále bez verzia tejto aplikácie. Využíva ďalšie povolenia (prístup k internetu a SD karty), aby vám lepšie vlastnosti. Stačí navštíviť Google Play dostať rozšírenej aplikácie a vychutnajte si skvelé funkcie. Skúste to - je to zadarmo!</string>
     <string name="show_help">Zobraziť nápovedu</string>
     <string name="rate_app">Hodnotiť apl.</string>
-    <string name="addon_market">Doplnok na Google Play</string>
     <string name="export_fail">Ľutujeme, export dát sa nepodarilo spustiť!</string>
     <string name="loading_facebook">Načítanie dát z Facebooku  &#8230;</string>
     <string name="notification_close">Zatvoriť oznámenie</string>
@@ -209,8 +181,6 @@
     <string name="helpTranslating">Help translating</string>
     <string name="translationHelpHowto">Please open in your browser on your desktop computer for better readability and editing:\nhttp://birthdays.latein.me/</string>
     <string name="menu_main">Hlavné menu</string>
-	<string name="update_addon_title">Aktualizácia Add-on</string>
-	<string name="update_addon_explain">Váš add-on nie je up-to-date už! Prosím, kliknite na tlačidlo nižšie k návšteve Google Play a aktualizovať na najnovšiu verziu zadarmo. Všetky funkcie potom budú dokonale znova.</string>
 	<string name="mode_translate">Preložiť</string>
 	<string name="days_abbreviation">d</string>
 	<string name="sure_to_delete">Ste si istí, že chcete zmazať tento záznam?</string>
@@ -229,4 +199,22 @@
 	<string name="congratulationText_summary">Nastavte si preddefinovaný text blahoželania správ tu.</string>
 	<string name="widet_4x1">Narodeniny (4x1)</string>
 	<string name="widet_4x2">Narodeniny (4x2)</string>
+    <string name="fbLoad_fail">Narodeniny nemožno importovať z Facebooku!</string>
+    <string name="fbLoad_success">Narodeniny úspešne importovaný z Facebook!</string>
+    <string name="export_success">Záloha bola úspešne uložená v \"Birthdays Plus\" na SD kartu!</string>
+    <string name="import_fail">Zálohovanie nie je možné importovať z \"Birthdays Plus\" na SD kartu!</string>
+    <string name="import_success">Záloha úspešne importovaný z \"Birthdays Plus\" na SD kartu!</string>
+    <string name="sdBackup">SD zálohovanie</string>
+    <string name="open_facebook_profile">Otvorte Facebook profil</string>
+    <string name="loading_image">Nahrávanie foto &#8230;</string>
+    <string name="new_version">Nová verzia</string>
+    <string name="new_version_get">Nová verzia tejto aplikácie s vylepšenými funkciami je k dispozícii na Google Play. Ak chcete získať aktualizáciu teraz?</string>
+    <string name="do_download">Stiahnuť</string>
+    <string name="do_ignore">Ignorovať</string>
+    <string name="supportAndFeedback">Otázky &#38; Spätná väzba</string>
+    <string name="person_actions">Ďalšie možnosti</string>
+    <string name="save_note">Uložiť poznámku</string>
+    <string name="delete_image">Odstrániť obrázok</string>
+    <string name="your_note">Vaša poznámka</string>
+    <string name="typeYourNote">Zadajte svoje osobné poznámku &#8230;</string>
 </resources>

@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Verjaardagen</string>
     <string name="help">Help</string>
-    <string name="helpText">MENUOPTIES:\nIn de menuopties kan je extra mogelijkheden vinden van deze App, b.v. het aanpassen van voorkeursinstellingen of het toevoegen van nieuwe contacten aan je lijst met verjaardagen.\n\nLANG-INDRUKKEN VAN EEN CONTACT:\nWanneer je vanuit de lijst met verjaardagen een contact lang ingedrukt houdt, dan verschijnt er een pop-up menu met extra opties om je contact aan te passen of te verwijderen.\n\nTOEVOEGEN VAN EEN FOTO:\nJe kunt een foto toevoegen voor personen die je via de App toegevoegd hebt en geen bestaand systeem contactpersoon zijn. Een foto van een bestaand Android contactpersoon moet je wijzigen via de Android Contactenlijst.\n\nWIDGET:\nGa naar je hoofdscherm en kies: \"Voeg Widget Toe\" en kies de Birthday App. De widget zal elke 6 uur de lijst verversen.\n\n1970 PROBLEEM:\nAls je geen geboortedata van voor 1970 kan invoeren, dan heeft u waarschijnlijk een apparaat van Motorola. Er zijn een aantal apparaten van Motorola en enkele andere leveranciers die een fout bevatten waardoor een datum van voor 1970 niet mogelijk is. Neem contcat op met je leverancier, wij kunnen dit helaas niet voor ze oplossen.\n\nGEEN ALARMEN:\nDe nieuwere versies van Android, b.v. 4.x, bieden een speciale instelling voor alarmen. Hierbij kunnen alle meldingen in de statusbalk uitgeschakeld worden (waar 3G, Wi-Fi, GPS en Bluetooth symbolen normaal gesproken zichtbaar zijn). Ook kan je alarmen uitschakelen bij Systeem Instelling in het \"Applicaties beheren\" deel. Controleer eerst deze instellingen als alarmen niet blijken te werken.\n\nVERPLAATSEN NAAR EXTERNE OPSLAG:\nJe kunt deze App niet verplaatsen naar externe opslag (SD-kaart). Hierdoor zullen alarmen voor aankomende verjaardagen niet meer werken. Sorry!\n\nONDERSTEUNING DATUM FORMATEN:\nWij ondersteunen volledig datum formaten volgens de ISO 8601 standaard  (YYYY-MM-DD). Voor andere formaten kunnen wij niet volledig garanderen dat deze goed zullen werken.\n\nKAN IK HELPEN MET VERTALING?\nJa dat kan zeker, heel graag zelfs. Gebruik onze applicatie op Facebook waar je taalinstellingen zelf kunt aanpassen en mee kunt helpen met verbeteringen voor iedereen. Voor betere leesbaarheid en aanpasmogelijkheden open de volgende link in je browser: http://birthdays.latein.me/</string>
-    <string name="emptyList">De lijst met verjaardagen wordt geladen</string>
+    <string name="helpText">MENUOPTIES:\nIn de menuopties kan je extra mogelijkheden vinden van deze App, b.v. het aanpassen van voorkeursinstellingen of het toevoegen van nieuwe contacten aan je lijst met verjaardagen.\n\nLANG-INDRUKKEN VAN EEN CONTACT:\nWanneer je vanuit de lijst met verjaardagen een contact lang ingedrukt houdt, dan verschijnt er een pop-up menu met extra opties om je contact aan te passen of te verwijderen.\n\nTOEVOEGEN VAN EEN FOTO:\nJe kunt een foto toevoegen voor personen die je via de App toegevoegd hebt en geen bestaand systeem contactpersoon zijn. Een foto van een bestaand Android contactpersoon moet je wijzigen via de Android Contactenlijst.\n\nWIDGET:\nGa naar je hoofdscherm en kies: \"Voeg Widget Toe\" en kies de Birthday App. De widget zal elke 6 uur de lijst verversen.\n\n1970 PROBLEEM:\nAls je niet kan voorafgaand Vul de data van 1970, het is een veel voorkomend probleem voor uw apparaat (vaak met Motorola-toestellen). Ga naar de programma-instellingen en schakel de \"gemakkelijke datum keuze\". Na die wijziging, dan moet je de data in een tekstveld in te voeren - maar je kunt in ieder geval voorafgaand Vul de data van 1970.\n\nGEEN ALARMEN:\nDe nieuwere versies van Android (4.0+) bieden een speciale instelling voor alarmen. Hierbij kunnen alle meldingen in de statusbalk uitgeschakeld worden (waar 3G, Wi-Fi, GPS en Bluetooth symbolen normaal gesproken zichtbaar zijn). Ook kan je alarmen uitschakelen bij Systeem Instelling in het \"Applicaties beheren\" deel. Controleer eerst deze instellingen als alarmen niet blijken te werken.\n\nVERPLAATSEN NAAR EXTERNE OPSLAG:\nJe kunt deze App niet verplaatsen naar externe opslag (SD-kaart). Hierdoor zullen alarmen voor aankomende verjaardagen niet meer werken. Sorry!\n\nONDERSTEUNING DATUM FORMATEN:\nWij ondersteunen volledig datum formaten volgens de ISO 8601 standaard  (YYYY-MM-DD). Voor andere formaten kunnen wij niet volledig garanderen dat deze goed zullen werken.\n\nKAN IK HELPEN MET VERTALING?\nJa dat kan zeker, heel graag zelfs. Gebruik onze applicatie op Facebook waar je taalinstellingen zelf kunt aanpassen en mee kunt helpen met verbeteringen voor iedereen. Voor betere leesbaarheid en aanpasmogelijkheden open de volgende link in je browser:\nhttp://birthdays.latein.me/</string>
     <string name="goHome">Begin</string>
-    <string name="telephone">Telefoon</string>
     <string name="settingsGeneral">Instellingen</string>
     <string name="showPhotos">Contact foto\'s</string>
     <string name="showPhotos_on">Contact foto\'s worden getoond</string>
@@ -15,8 +12,6 @@
     <string name="tipDontEnterYear"><b>Tip:</b> Als je geen jaartal wilt invoeren, vul dan \"1900\" in en het jaartal zal niet getoond worden.</string>
     <string name="contactPhoto">Contact foto</string>
     <string name="daysLeftUnit">dagen</string>
-    <string name="birthdaysFoundSg">verjaardag gevonden in je contactenlijst!</string>
-    <string name="birthdaysFoundPl">verjaardagen gevonden in je contactenlijst!</string>
     <string name="noBirthdaysFound">Ik kan geen verjaardagen vinden in je contactenlijst!</string>
     <string name="turnVerb">wordt</string>
     <string name="onTime">aan</string>
@@ -38,13 +33,10 @@
     <string name="rateNow">Nu beoordelen</string>
     <string name="remindLater">Herinner mij</string>
     <string name="noThanks">Nee, bedankt</string>
-    <string name="onlyFirstFew">Deze lijst geeft alleen de eerste 25 contacten weer!</string>
     <string name="callVerb">Bel</string>
     <string name="mode_add">Voeg toe</string>
     <string name="mode_edit">Wijzig</string>
-    <string name="mode_rate">Beoordeel</string>
     <string name="mode_backup">Back-up</string>
-    <string name="mode_feedback">Feedback</string>
     <string name="mode_help">Help</string>
     <string name="mode_buy">Koop</string>
     <string name="birthdayEdited">De geselecteerde geboortedatum is aangepast naar de nieuw opgegeven datum.</string>
@@ -55,7 +47,6 @@
     <string name="comingSoon">Binnenkort beschikbaar!</string>
     <string name="nameOfPerson">Persoonsnaam</string>
     <string name="dateOfBirth">Kies datum</string>
-    <string name="birthdayAdded">De nieuwe verjaardag is toegevoegd en zal zichtbaar zijn nadat je deze App opnieuw opstart.</string>
     <string name="delete">Verwijder</string>
     <string name="edit">Wijzig datum</string>
     <string name="birthdayDeleted">De geselcteerde datum is verwijderd.</string>
@@ -75,12 +66,6 @@
     <string name="hint_adding_mode">Wanneer mogelijk, zou je altijd bij het aanmaken van een contact een verjaardag moeten opgeven. Je kunt hierdoor direct extra functionaliteit gebruiken.</string>
 	<string name="adding_mode_contacts">Kies uit de contactenlijst</string>
 	<string name="adding_mode_newentry">Zonder contactpersoon</string>
-	<string name="createBackup">Maak back-up</string>
-	<string name="email_backup">E-mail back-up</string>
-	<string name="send_backup">Verzend back-up via &#8230;</string>
-	<string name="your_email_address">Je eigen e-mailadres &#8230;</string>
-	<string name="hint_backup_mode">Hier kan je een kopie van je verjaardagenlijst naar een e-mailadres versturen, zodat je een veilige back-up achter de hand hebt. Hiermee kan je op een later tijdstip je gegevens herstellen.</string>
-	<string name="pleaseEnterEmail">Vul a.u.b. een geldig e-mailadres in.</string>
 	<string name="mode_search">Zoek</string>
 	<string name="searchNoResult">Ik kon niemand, met de door jou opgegeven naam vinden!</string>
 	<string name="findPerson">Zoek een persoon</string>
@@ -120,21 +105,14 @@
     <string name="type_birthday">Verjaardag</string>
     <string name="type_anniversary">Speciale dag</string>
     <string name="open_contact">Open contact</string>
-    <string name="buyVerb">Koop een kado</string>
-    <string name="donate_link">http://bit.ly/MrIcHs</string>
-	<string name="buy_link">http://www.amazon.com/?_encoding=UTF8&#38;tag=lateinme-20&#38;linkCode=ur2&#38;camp=1789&#38;creative=9325</string>
+    <string name="buyVerb">Vinden van een cadeau</string>
     <string name="doExport">Exporteer / Opslaan</string>
     <string name="doImport">Importeer / Laden</string>
     <string name="importVerb">Importeer</string>
-	<string name="loadBackup">Inlezen back-up</string>
 	<string name="pleaseEnterImportData">Mijn excuses, het importen kon niet succesvol afgerond worden. Probeer later opnieuw!</string>
-    <string name="hint_import_mode">Zoek a.u.b. de back-up die je eerder via e-mail verzonden hebt. Kopieer en plak de gehele tekst vanuit de e-mail en wanneer je klaar bent klik dan hieronder op \"Inlezen back-up\".</string>
-    <string name="sendErrorReport">Rapporteer een fout</string>
-    <string name="send">Verstuur</string>
     <string name="invalidDate">Foutieve datum.</string>
     <string name="pleaseCorrect">Pas dit a.u.b. aan!</string>
     <string name="tryOpeningInvalid">Dit is een verkeerde invoer. Houd deze a.u.b. lang ingedrukt en kies voor \"Wijzig datum\".</string>
-    <string name="bugReportHint">Beschrijf het probleem en de situatie waaronder de fout optreedt. Geef bij voorkeur zo veel mogelijk details, zodat wij kunnen proberen dit te reproduceren.</string>
     <string name="chineseZodiac">Chinese</string>
 	<string name="chinese_rat">Rat</string>
 	<string name="chinese_ox">Os</string>
@@ -166,17 +144,11 @@
 	<string name="do_repeatsound_on">Het alarm zal worden herhaald, totdat je het alarm handmatig uitschakelt.</string>
 	<string name="do_repeatsound_off">Het alarmgeluid zal eenmalig afgespeeld worden.</string>
 	<string name="facebookImport">Importeer vanuit Facebook</string>
-	<string name="facebook_import_app">https://apps.facebook.com/birthdays_android/</string>
-	<string name="hint_facebookImport">Je kan onze applicatie \"Birthdays for Android\" op Facebook gebruiken om de verjaardagen van al je Facebook vrienden te importeren in deze App. Als je verder gaat open je de applicatie op de Facebook website. Deze zal je begeleiden via vijf eenvoudige stappen.\nJe kan ook via de browser de volgende website openen : \"bit.ly/birthdays_export\".</string>
-	<string name="proceed">Ga door</string>
 	<string name="install">Nu installeren</string>
-	<string name="missing_addon_title">Installeer uitbreiding</string>
-	<string name="missing_addon_explain">Deze extra uitbreiding vereist rechten naar het internet en naar uw lokale SD-kaart! Omdat wij de basisfunctionaliteit zo veilig mogelijk willen leveren, dien je de gratis uitbreiding achteraf te installeren (via Google Play). Je kan zelf kiezen om deze App zonder de extra benodigde rechten te gebruiken of de gratis uitbreiding erbij te installeren waardoor er meer mogelijkheden ontstaan, zoals het maken en inladen van back-ups van en naar de SD-kaart, het importeren van Facebook vrienden en meer. Probeer de uitbreiding gratis uit.</string>
-    <string name="permission_birthdays">Verjaardagen</string>
-    <string name="permission_access_birthdays">Deze rechten staat data uitwisseling toe, tussen de Verjaardag App en de bijbehorende uitbreidingsmodule.</string>
+	<string name="missing_addon_title">Verjaardagen Plus</string>
+	<string name="missing_addon_explain">Voor deze functie is \"Verjaardagen Plus\", een langere, maar nog steeds gratis versie van deze app. Het maakt gebruik van aanvullende machtigingen (toegang tot internet en SD-kaart) aan te bieden u een betere functies. Ga je naar Google Play om de uitgebreide app te krijgen en geweldige functies te genieten. Probeer het - het is gratis!</string>
     <string name="show_help">Geef help weer</string>
     <string name="rate_app">Beoordeel app</string>
-    <string name="addon_market">Uitbreidingsmodule op Google Play</string>
     <string name="export_fail">Mijn excuses, het exporteren van de data kon helaas niet gestart worden!</string>
     <string name="loading_facebook">Inlezen data vanuit Facebook &#8230;</string>
     <string name="notification_close">Sluit alarm</string>
@@ -209,8 +181,6 @@
     <string name="helpTranslating">Help met vertalen</string>
     <string name="translationHelpHowto">Open a.u.b. in je browser op een desktop (voor eenvoudig lezen en aanpassen) de URL:\nhttp://birthdays.latein.me/</string>
     <string name="menu_main">Hoofdmenu</string>
-	<string name="update_addon_title">Update uitbreiding</string>
-	<string name="update_addon_explain">je uitbreidingsmodule is verouderd! Klik hieronder op de knop om handmatig bij Google Play deze te vernieuwen, naar de laatst beschikbare gratis versie. Hierna zal alles weer naar behoren werken.</string>
 	<string name="mode_translate">Vertaal</string>
 	<string name="days_abbreviation">d</string>
 	<string name="sure_to_delete">Weet je zeker dat je dat je deze gegevens wilt verwijderen?</string>
@@ -229,4 +199,22 @@
 	<string name="congratulationText_summary">Stel hier uw vooraf gedefinieerde tekst voor felicitatie berichten.</string>
 	<string name="widet_4x1">Verjaardagen (4x1)</string>
 	<string name="widet_4x2">Verjaardagen (4x2)</string>
+    <string name="fbLoad_fail">Verjaardagen kon niet worden geïmporteerd van Facebook!</string>
+    <string name="fbLoad_success">Verjaardagen succes geïmporteerd uit Facebook!</string>
+    <string name="export_success">Back-up succesvol opgeslagen in \"Birthdays Plus\" op SD-kaart!</string>
+    <string name="import_fail">Back-up kan niet worden geïmporteerd uit \"Birthdays Plus\" op SD-kaart!</string>
+    <string name="import_success">Back-up met succes geïmporteerd uit \"Birthdays Plus\" op SD-kaart!</string>
+    <string name="sdBackup">SD backup</string>
+    <string name="open_facebook_profile">Opent Facebook-profiel</string>
+    <string name="loading_image">Laden foto &#8230;</string>
+    <string name="new_version">Nieuwe versie</string>
+    <string name="new_version_get">Een nieuwe versie van deze app met verbeterde functies is beschikbaar op Google Play. Wilt u de update nu?</string>
+    <string name="do_download">Download</string>
+    <string name="do_ignore">Negeren</string>
+    <string name="supportAndFeedback">Vragen &#38; Terugkoppeling</string>
+    <string name="person_actions">Meer opties</string>
+    <string name="save_note">Sla er rekening mee</string>
+    <string name="delete_image">Afbeelding verwijderen</string>
+    <string name="your_note">Uw opmerking</string>
+    <string name="typeYourNote">Typ uw persoonlijke noot &#8230;</string>
 </resources>

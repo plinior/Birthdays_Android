@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Zile de naștere</string>
     <string name="help">Ajutor</string>
-    <string name="helpText">OPTIONS MENU:\nIn the options menu you can find several additional features of this app, e.g. changing the preferences or adding new contacts to your list of birthdays.\n\nLONG-PRESSING A CONTACT:\nWhen you long-press a contact in your list of birthdays, a menu with options will pop up where you can choose to edit or delete an existing entry in your list of birthdays.\n\nADDING A PHOTO:\nYou can only add photos for people who are not in your contacts but manually added to this application. For people from your contacts list, please edit the entry in your Android contacts.\n\nWIDGET:\nGo to your homescreen and hit \"Add\", then \"Widget\" to add the upcoming birthdays to your homescreen. Your widget will be refreshed every 6 hours!\n\n1970 PROBLEM:\nIf you cannot enter dates prior to 1970, you probably have a Motorola device. There are several devices by Motorola and other manufacturers which prevent you from typing a date before 1970 due to a bug. We cannot change this, sorry!\n\nNO NOTIFICATIONS:\nThe latest versions of Android, i.e. 4.0 and 4.1, offer special settings for notifications. For example, you can switch off all notifications in the status bar (where 3G, Wi-Fi, GPS and Bluetooth are located) or disable notifications in \"Manage apps\" among your settings. Please check these settings if your notifications don\'t work.\n\nMOVING TO EXTERNAL STORAGE:\nYou cannot move this app to the external storage (SD card) as notifications for upcoming birthdays wouldn\'t work in that case. Sorry!\n\nSUPPORTED DATE FORMATS:\nWe fully support date formats according to ISO 8601, that is YYYY-MM-DD. For other formats, we cannot guarantee that they are read correctly.\n\nCAN I HELP TRANSLATING THE APP?\nYes, you can. Just use our application on Facebook, where you can easily edit all translations and improve them for all users. Please open the following link on a desktop computer for better reading and editing: http://birthdays.latein.me/</string>
-    <string name="emptyList">Loading your contacts\' birthdays!</string>
+    <string name="helpText">OPTIONS MENU:\nIn the options menu you can find several additional features of this app, e.g. changing the preferences or adding new contacts to your list of birthdays.\n\nLONG-PRESSING A CONTACT:\nWhen you long-press a contact in your list of birthdays, a menu with options will pop up where you can choose to edit or delete an existing entry in your list of birthdays.\n\nADDING A PHOTO:\nYou can only add photos for people who are not in your contacts but manually added to this application. For people from your contacts list, please edit the entry in your Android contacts.\n\nWIDGET:\nGo to your homescreen and hit \"Add\", then \"Widget\" to add the upcoming birthdays to your homescreen. Your widget will be refreshed every 6 hours!\n\n1970 PROBLEM:\nIf you cannot enter dates prior to 1970, it\'s a common problem for your device (often with Motorola devices). Please go to the app\'s settings and disable the \"Easy date selection\". After that change, you\'ll have to enter dates in a text field - but you can at least enter dates prior to 1970.\n\nNO NOTIFICATIONS:\nThe latest versions of Android (4.0+) offer special settings for notifications. For example, you can switch off all notifications in the status bar (where 3G, Wi-Fi, GPS and Bluetooth are located) or disable notifications in \"Manage apps\" among your settings. Please check these settings if your notifications don\'t work.\n\nMOVING TO EXTERNAL STORAGE:\nYou cannot move this app to the external storage (SD card) as notifications for upcoming birthdays wouldn\'t work in that case. Sorry!\n\nSUPPORTED DATE FORMATS:\nWe fully support date formats according to ISO 8601, that is YYYY-MM-DD. For other formats, we cannot guarantee that they are read correctly.\n\nCAN I HELP TRANSLATING THE APP?\nYes, you can. Just use our application on Facebook, where you can easily edit all translations and improve them for all users. Please open the following link on a desktop computer for better reading and editing:\nhttp://birthdays.latein.me/</string>
     <string name="goHome">Acasa</string>
-    <string name="telephone">Telefon</string>
     <string name="settingsGeneral">Setari generale</string>
     <string name="showPhotos">Pozele persoanelor</string>
     <string name="showPhotos_on">Pozele persoanelor vor fi afisate.</string>
@@ -15,8 +12,6 @@
     <string name="tipDontEnterYear"><b>Sugestie:</b> Nu doriti sa introduceti nici un an? Doar tastati \"1900\" si anul nu va fi indicat.</string>
     <string name="contactPhoto">Poza persoana</string>
     <string name="daysLeftUnit">zile</string>
-    <string name="birthdaysFoundSg">Zi de nastere gasita în lista persoanelor!</string>
-    <string name="birthdaysFoundPl">Zile de nastere gasite în lista persoanelor!</string>
     <string name="noBirthdaysFound">Nu au fost gasite zile de nastere în lista persoanelor!</string>
     <string name="turnVerb">va fi</string>
     <string name="onTime">în</string>
@@ -38,13 +33,10 @@
     <string name="rateNow">Rate Now</string>
     <string name="remindLater">Remind later</string>
     <string name="noThanks">No, thanks</string>
-    <string name="onlyFirstFew">This list features only the first 25 contacts!</string>
     <string name="callVerb">Sunati</string>
     <string name="mode_add">Adaugati</string>
     <string name="mode_edit">Schimbati</string>
-    <string name="mode_rate">Rate</string>
     <string name="mode_backup">Backup</string>
-    <string name="mode_feedback">Feedback</string>
     <string name="mode_help">Ajutor</string>
     <string name="mode_buy">Cadouri</string>
     <string name="birthdayEdited">The selected birthday has been updated to the new date.</string>
@@ -55,7 +47,6 @@
     <string name="comingSoon">Coming soon!</string>
     <string name="nameOfPerson">Person\'s name</string>
     <string name="dateOfBirth">Choose date</string>
-    <string name="birthdayAdded">The new birthday has been added and will be visible the next time you open this app.</string>
     <string name="delete">Delete</string>
     <string name="edit">Change date</string>
     <string name="birthdayDeleted">The selected birthday has been deleted.</string>
@@ -75,12 +66,6 @@
     <string name="hint_adding_mode">If possible, you should always add birthdays to your contacts. You can use more features then.</string>
 	<string name="adding_mode_contacts">choose from contacts</string>
 	<string name="adding_mode_newentry">without phone contact</string>
-	<string name="createBackup">Create backup</string>
-	<string name="email_backup">Email backup</string>
-	<string name="send_backup">Send backup with &#8230;</string>
-	<string name="your_email_address">Your email address &#8230;</string>
-	<string name="hint_backup_mode">Here you can send a copy of your list to your email address so that you have a secure backup. This will prevent your data from being lost.</string>
-	<string name="pleaseEnterEmail">Please enter a valid email address!</string>
 	<string name="mode_search">Search</string>
 	<string name="searchNoResult">Couldn\'t find any person in your list matching this name!</string>
 	<string name="findPerson">Find a person</string>
@@ -120,21 +105,14 @@
     <string name="type_birthday">Birthday</string>
     <string name="type_anniversary">Anniversary</string>
     <string name="open_contact">Open contact</string>
-    <string name="buyVerb">Buy a gift</string>
-    <string name="donate_link">http://bit.ly/MrIcHs</string>
-    <string name="buy_link">http://www.amazon.com/?_encoding=UTF8&#38;tag=lateinme-20&#38;linkCode=ur2&#38;camp=1789&#38;creative=9325</string>
+    <string name="buyVerb">Găsi un cadou</string>
     <string name="doExport">Export / Save</string>
     <string name="doImport">Import / Load</string>
     <string name="importVerb">Import</string>
-	<string name="loadBackup">Load backup</string>
 	<string name="pleaseEnterImportData">Sorry, the import could not be finished!</string>
-    <string name="hint_import_mode">Please look for the backup mail that you have exported here in your email inbox and copy the full text of this email. When you are ready, please click \"Load backup\" below.</string>
-    <string name="sendErrorReport">Bug report</string>
-    <string name="send">Send</string>
     <string name="invalidDate">Invalid date.</string>
     <string name="pleaseCorrect">Please correct this!</string>
     <string name="tryOpeningInvalid">This is an invalid entry. Please long-press it and choose \"Change date\".</string>
-    <string name="bugReportHint">Please describe the problem or the error that occurs. Be as specific as possible.</string>
     <string name="chineseZodiac">Chinese</string>
 	<string name="chinese_rat">Rat</string>
 	<string name="chinese_ox">Ox</string>
@@ -166,17 +144,11 @@
 	<string name="do_repeatsound_on">The notification sound will be repeated until you close the notification.</string>
 	<string name="do_repeatsound_off">The notification sound will only be played once.</string>
 	<string name="facebookImport">Import from Facebook</string>
-	<string name="facebook_import_app">https://apps.facebook.com/birthdays_android/</string>
-	<string name="hint_facebookImport">You can use our application \"Birthdays for Android\" on Facebook in order to export all your Facebook friends\' birthdays to this app. If you proceed, we will open the application on the Facebook website for you. It will guide you through 5 easy steps - just try it.\nAlternatively, you can open \"bit.ly/birthdays_export\" in your desktop browser.</string>
-	<string name="proceed">Continue</string>
 	<string name="install">Install now</string>
-	<string name="missing_addon_title">Install Add-on</string>
-	<string name="missing_addon_explain">This feature requires permissions for Internet and SD card access! For that reason, it is only available with our free add-on (via Google Play). You can choose: Use this app without those extended permissions or download the free add-on to enjoy additional features. The add-on enables you to create and load backups from SD card, import birthdays from Facebook easily and so on. Just try it! It\'s free.</string>
-    <string name="permission_birthdays">Birthdays</string>
-    <string name="permission_access_birthdays">Permits data exchange between the Birthdays app and its add-on.</string>
+	<string name="missing_addon_title">Zile de naștere Plus</string>
+	<string name="missing_addon_explain">This feature requires \"Birthdays Plus\", an extended but still free version of this app. It uses additional permissions (access to internet and SD card) to offer you better features. Just visit Google Play to get the extended app and enjoy great features. Try it - it\'s free!</string>
     <string name="show_help">Show help</string>
     <string name="rate_app">Rate app</string>
-    <string name="addon_market">Add-on on Google Play</string>
     <string name="export_fail">Sorry, the export of your data could not be started!</string>
     <string name="loading_facebook">Loading data from Facebook &#8230;</string>
     <string name="notification_close">Close notification</string>
@@ -209,8 +181,6 @@
     <string name="helpTranslating">Help translating</string>
     <string name="translationHelpHowto">Please open in your browser on your desktop computer (for better readability and editing):\nhttp://birthdays.latein.me/</string>
     <string name="menu_main">Main menu</string>
-	<string name="update_addon_title">Update Add-on</string>
-	<string name="update_addon_explain">Your add-on is not up-to-date anymore! Please tap the button below to visit Google Play and update it to the latest version for free. All features will then work perfectly again.</string>
 	<string name="mode_translate">Traduceti</string>
 	<string name="days_abbreviation">d</string>
 	<string name="sure_to_delete">Are you sure you want to delete this entry?</string>
@@ -229,4 +199,22 @@
 	<string name="congratulationText_summary">Setați textul predefinit pentru mesaje de felicitare aici.</string>
 	<string name="widet_4x1">Zile de naștere (4x1)</string>
 	<string name="widet_4x2">Zile de naștere (4x2)</string>
+    <string name="fbLoad_fail">Zile de nastere nu a putut fi importate de pe Facebook!</string>
+    <string name="fbLoad_success">Zile de nastere importat cu succes de la Facebook!</string>
+    <string name="export_success">Backup salvat cu succes în \"Birthdays Plus\" pe cardul SD!</string>
+    <string name="import_fail">Backup nu a putut fi importate din \"Birthdays Plus\" pe cardul SD!</string>
+    <string name="import_success">Backup importate cu succes din \"Birthdays Plus\" pe cardul SD!</string>
+    <string name="sdBackup">SD backup</string>
+    <string name="open_facebook_profile">Deschide profilul de Facebook</string>
+    <string name="loading_image">Incărcarea fotografie &#8230;</string>
+    <string name="new_version">Noua versiune</string>
+    <string name="new_version_get">O versiune nouă a acestei aplicații cu funcții îmbunătățite este disponibil pe Google Play. Nu doriți să obțineți actualizarea acum?</string>
+    <string name="do_download">Descarca</string>
+    <string name="do_ignore">Ignora</string>
+    <string name="supportAndFeedback">Intrebări &#38; Feedback</string>
+    <string name="person_actions">Mai multe opțiuni</string>
+    <string name="save_note">Memora o notă</string>
+    <string name="delete_image">Ștergeți imaginea</string>
+    <string name="your_note">Comentariul d-voastra</string>
+    <string name="typeYourNote">Tastați nota dumneavoastră personale &#8230;</string>
 </resources>

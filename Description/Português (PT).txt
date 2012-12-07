@@ -1,37 +1,35 @@
-Grátis, fácil, rápido... E sem anúncios!
+<b>O melhor gerenciador de aniversários para se manter informado sobre os próximos aniversários dos seus amigos e familiares!</b>
 
-O melhor gerenciador de aniversários para se manter informado sobre os próximos aniversários dos seus amigos e familiares!
+Grátis, fácil, rápido ... E sem anúncios!
 
-Basta abrir esta leve app (com apenas 656 kB de tamanho) para ver a quem você deverá congratular brevemente e quantos anos faz o aniversariante.
+Basta abrir esta leve app (com apenas 685 kB de tamanho) para ver a quem você deverá congratular brevemente e quantos anos faz o aniversariante.
 
 Informação adicional será dispensável... Basta apenas registar a data de nascimento a partir dos contactos da sua lista e nunca mais deixará passar os seus aniversários, pois o contador incorporado nesta app fará sempre com que se recorde dos mesmos. Ademais, pode adicionar aniversários a pessoas que não estejam na sua lista, bastando introduzir os seus nomes e as datas respectivas (se pretender, também pode incluir uma fotografia).
 
 Evidentemente, esta app inclui um módulo de notificações/lembretes que o avisa quando deve felicitar os seus amigos. A sério! Nunca mais se esquecerá de um aniversário!
 
-PERMISSÕES
+<b>Permissões</b>
 • Ler dados dos contactos: Esta app precisa desta permissão a fim de apresentar os aniversários a partir da sua lista de contactos. Mas os seus dados estarão seguros, por este não ser um evento que requira conexão à Internet.
 • Escrever dados dos contactos: Você pode adicionar, editar e deletar aniversários da sua lista de contactos, contidos nesta app. É a razão do pedido desta permissão.
 • Iniciar automaticamente, juntamente com o início do seu dispositivo (boot): É um pedido de permissão para lançar as notificações/lembretes logo após o seu telefone ser novamente ligado.
 
-SERÁ QUE TAMBÉM EXISTE ALGUM WIDGET?
+<b>Será que também existe algum widget?</b>
 Sim, claro ;) Você pode colocar o contador da app mesmo no ecrã inicial do seu dispositivo!
 
-sERÁ QUE POSSO IMPORTAR ANIVERSÁRIOS A PARTIR DO MEU FACEBOOK?
-Sim, pode, com a condição seguinte: Nós reforçamos que o nosso intuito foi apresentar-lhe esta app como sendo independente de uma conexão à Internet (contrastando com outras aplicações do género), para lhe assegurarmos a proteção dos seus dados. Assim sendo, para permitir que esta app vá buscar aniversários ao seu Facebook, você deverá instalar o nosso add-on gratuito, adicionalmente. Poderá encontrar uma hiperligação para o mesmo quando pressionar "Backup" no menu desta nossa app.
+<b>Será que posso importar aniversários a partir do meu Facebook?</b>
+Sim, é só pegar "Aniversários Plus", que está disponível gratuitamente, bem como (requer permissão Internet):
+https://play.google.com/store/apps/details?id=com.lateinme.birthdays
 
-SERÁ QUE POSSO CONTRIBUIR PARA A TRADUÇÃO DESTA APP?
+<b>Será que posso contribuir para a tradução desta app?</b>
 Sim, ficaremos gratos por nos dispôr a sua ajuda! Acedendo à hiperligação seguinte, você há-de encontrar informações relativas à tradução e assim melhorar a experiência de todos os utilizadores:
 http://birthdays.latein.me/
 
-QUESTÕES ADICIONAIS:
+<b>Questões adicionais:</b>
 Você pode encontrar uma secção adicional de apoio à utilização logo após a instalação desta app. Quando selecionar a dita, a partir do menu principal, encontrará respostas a questões importantes sobre esta app de modo a aprender como resolver problemas específicos que lhe possam advir.
 
-IDIOMAS SUPORTADOS:
-English, Deutsch, Français, Nederlandse, Português, Român, русский, Slovenčina, Español, Türk
-
-AGRADECIMENTOS A:
+<b>Agradecimentos a:</b>
 • Bruno Machado (PT), Marta Loureiro (PT), Volkan Karabulut (TR), Melvin E. (NL), Martin Jurík (SK) e Andrew Sachkov (RU) por traduzir este aplicativo de aniversários
 • http://www.latein.me/static/gp_attr_birthdays.txt
 
-PALAVRAS-CHAVE (TAGS):
+<b>Palavras-chave:</b>
 aniversário lembrete notificações amigos contactos lembretes familiares calendário família aniversários contador

@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Cumpleaños</string>
     <string name="help">Ayuda</string>
-    <string name="helpText">MENÚ DE OPCIONES:\nEn el menú de opciones se pueden encontrar varias características adicionales de esta aplicación. Por ejemplo, se pueden cambiar las preferencias o agregar nuevos contactos a la lista de cumpleaños.\n\nPULSAR PROLONGADAMENTE UN CONTACTO:\nCuando se presiona un contacto en la lista de los cumpleaños durante un tiempo, aparecerá un menú con opciones donde se puede elegir entre editar o borrar una entrada existente en la lista de los cumpleaños.\n\nAÑADIR UNA FOTO:\nSólo se pueden añadir fotos a las personas que no están en los contactos, aunque sí es posible agregarlas manualmente. Para las personas de tu lista de contactos, edita la entrada en los contactos con Android.\n\nWIDGET:\nIr a la pantalla de inicio y pulsar \"Añadir\" \"Widget\" para añadir los cumpleaños de tu pantalla de inicio. El widget se actualizará cada 6 horas!\n\n1970 PROBLEMA:\nSi no puedes introducir fechas anteriores a 1970, es probable que tenga un dispositivo Motorola. Existen varios dispositivos Motorola y otros fabricantes que impiden escribir una fecha antes de 1970 debido a un error. No podemos hacer nada para solucionarlo, ¡lo sentimos!\n\nNINGUNA NOTIFICACIÓN:\nLas últimas versiones de Android, es decir, 4.0 y 4.1, ofrecen ajustes especiales para las notificaciones. Por ejemplo, es posible desactivar todas las notificaciones en la barra de estado (en 3G, Wi-Fi, GPS y Bluetooth) o desactivar las notificaciones en \"Administrar aplicaciones\" entre los ajustes. Por favor, comprueba estos ajustes si las notificaciones no funcionan.\n\nCAMBIO DE ALMACENAMIENTO EXTERNO:\nNo se puede mover esta aplicación a la tarjeta SD, las notificaciones para los siguientes cumpleaños no funcionarían. ¡Lo sentimos!\n\nFORMATOS DE FECHA:\nApoyamos totalmente los formatos de fecha de acuerdo a la norma ISO 8601, que es AAAA-MM-DD. Para otros formatos no podemos garantizar que sean leídos correctamente.\n\nPUEDO AYUDAR A LA TRADUCCIÓN APP?\nSí, se puede. Sólo tienes que usar nuestra aplicación en Facebook, donde se pueden editar todas las traducciones y mejorarlas para todos los usuarios. Por favor, abre el siguiente enlace en un ordenador de sobremesa (PC) para una mejor lectura y redacción: http://birthdays.latein.me/</string>
-    <string name="emptyList">Cargando los cumpleaños de tus contactos!</string>
+    <string name="helpText">MENÚ DE OPCIONES:\nEn el menú de opciones se pueden encontrar varias características adicionales de esta aplicación. Por ejemplo, se pueden cambiar las preferencias o agregar nuevos contactos a la lista de cumpleaños.\n\nPULSAR PROLONGADAMENTE UN CONTACTO:\nCuando se presiona un contacto en la lista de los cumpleaños durante un tiempo, aparecerá un menú con opciones donde se puede elegir entre editar o borrar una entrada existente en la lista de los cumpleaños.\n\nAÑADIR UNA FOTO:\nSólo se pueden añadir fotos a las personas que no están en los contactos, aunque sí es posible agregarlas manualmente. Para las personas de tu lista de contactos, edita la entrada en los contactos con Android.\n\nWIDGET:\nIr a la pantalla de inicio y pulsar \"Añadir\" \"Widget\" para añadir los cumpleaños de tu pantalla de inicio. El widget se actualizará cada 6 horas!\n\n1970 PROBLEMA:\nSi usted no puede entrar en fechas anteriores a 1970, que es un problema común para su dispositivo (a menudo con los dispositivos de Motorola). Por favor, vaya a la configuración de la aplicación y desactivar la opción \"Selección de fecha fácil\". Después de ese cambio, tendrás que introducir fechas en un campo de texto - pero al menos puedes entrar en fechas anteriores a 1970.\n\nNINGUNA NOTIFICACIÓN:\nLas últimas versiones de Android (4.0+) ofrecen ajustes especiales para las notificaciones. Por ejemplo, es posible desactivar todas las notificaciones en la barra de estado (en 3G, Wi-Fi, GPS y Bluetooth) o desactivar las notificaciones en \"Administrar aplicaciones\" entre los ajustes. Por favor, comprueba estos ajustes si las notificaciones no funcionan.\n\nCAMBIO DE ALMACENAMIENTO EXTERNO:\nNo se puede mover esta aplicación a la tarjeta SD, las notificaciones para los siguientes cumpleaños no funcionarían. ¡Lo sentimos!\n\nFORMATOS DE FECHA:\nApoyamos totalmente los formatos de fecha de acuerdo a la norma ISO 8601, que es AAAA-MM-DD. Para otros formatos no podemos garantizar que sean leídos correctamente.\n\nPUEDO AYUDAR A LA TRADUCCIÓN APP?\nSí, se puede. Sólo tienes que usar nuestra aplicación en Facebook, donde se pueden editar todas las traducciones y mejorarlas para todos los usuarios. Por favor, abre el siguiente enlace en un ordenador de sobremesa (PC) para una mejor lectura y redacción:\nhttp://birthdays.latein.me/</string>
     <string name="goHome">Volver</string>
-    <string name="telephone">Teléfono</string>
     <string name="settingsGeneral">Configuración general</string>
     <string name="showPhotos">Fotos de los contactos</string>
     <string name="showPhotos_on">Se mostrarán las fotos de los contactos.</string>
@@ -15,8 +12,6 @@
     <string name="tipDontEnterYear"><b>Sugerencia:</b> Si no deseas introducir el año, sólo tienes que escribir el año \"1900\" y el año no será visible.</string>
     <string name="contactPhoto">Foto de contacto</string>
     <string name="daysLeftUnit">días</string>
-    <string name="birthdaysFoundSg">¡Se encontró un cumpleaños en tu lista de contactos!</string>
-    <string name="birthdaysFoundPl">¡Se encontraron cumpleaños en tu lista de contactos!</string>
     <string name="noBirthdaysFound">¡No se pudo encontrar ningún cumpleaños en tu lista de contactos!</string>
     <string name="turnVerb">cumplirá</string>
     <string name="onTime">el</string>
@@ -38,13 +33,10 @@
     <string name="rateNow">Votar ahora</string>
     <string name="remindLater">Más tarde</string>
     <string name="noThanks">No, gracias</string>
-    <string name="onlyFirstFew">Esta lista incluye sólo los primeros 25 contactos.</string>
     <string name="callVerb">Llamar</string>
     <string name="mode_add">Añadir</string>
     <string name="mode_edit">Editar</string>
-    <string name="mode_rate">Valorar</string>
     <string name="mode_backup">Copia de seguridad</string>
-    <string name="mode_feedback">Comentario</string>
     <string name="mode_help">Ayuda</string>
     <string name="mode_buy">Regalos</string>
     <string name="birthdayEdited">El cumpleaños seleccionado se ha actualizado a la nueva fecha.</string>
@@ -55,7 +47,6 @@
     <string name="comingSoon">¡Próximamente!</string>
     <string name="nameOfPerson">Nombre de la persona</string>
     <string name="dateOfBirth">Elegir la fecha</string>
-    <string name="birthdayAdded">El nuevo cumpleaños se ha agregado y será visible la próxima vez que abras esta aplicación.</string>
     <string name="delete">Borrar</string>
     <string name="edit">Cambiar la fecha</string>
     <string name="birthdayDeleted">El cumpleaños seleccionado se ha eliminado.</string>
@@ -75,12 +66,6 @@
     <string name="hint_adding_mode">Si es posible, siempre hay que añadir los cumpleaños de tus contactos. Puedes utilizar más características a continuación.</string>
 	<string name="adding_mode_contacts">seleccionar los contactos</string>
 	<string name="adding_mode_newentry">sin contacto de teléfono</string>
-	<string name="createBackup">Crear copia</string>
-	<string name="email_backup">Copia por correo electrónico</string>
-	<string name="send_backup">Enviar copia con &#8230;</string>
-	<string name="your_email_address">Su dirección de correo &#8230;</string>
-	<string name="hint_backup_mode">Aquí puedes enviar una copia de tu lista a tu dirección de correo electrónico para tener una copia de seguridad. Esto evitará que los datos se pierdan.</string>
-	<string name="pleaseEnterEmail">Por favor, introduce una dirección válida de correo electrónico.</string>
 	<string name="mode_search">Buscar</string>
 	<string name="searchNoResult">No se pudo encontrar ninguna persona con este nombre en tu lista de coincidencias.</string>
 	<string name="findPerson">Encontrar a una persona</string>
@@ -120,21 +105,14 @@
     <string name="type_birthday">Cumpleaños</string>
     <string name="type_anniversary">Aniversario</string>
     <string name="open_contact">Abrir el contacto</string>
-    <string name="buyVerb">Comprar un regalo</string>
-    <string name="donate_link">http://bit.ly/PtCJAi</string>
-    <string name="buy_link">http://www.amazon.es/?_encoding=UTF8&#38;tag=cumplean-21&#38;linkCode=ur2&#38;camp=3626&#38;creative=24790</string>
+    <string name="buyVerb">Encontrar un regalo</string>
     <string name="doExport">Exportar / Guardar</string>
     <string name="doImport">Importar / Cargar</string>
     <string name="importVerb">Importar</string>
-	<string name="loadBackup">Cargar copias</string>
 	<string name="pleaseEnterImportData">Lamentablemente, la importación no pudo terminar!</string>
-    <string name="hint_import_mode">Por favor, busca la copia de seguridad de correo electrónico que has exportado también aquí en tu buzón de correo electrónico y copia el texto completo de dicho correo electrónico. Cuando esté listo, haz clic en \"Cargar copias\".</string>
-    <string name="sendErrorReport">Informe de error</string>
-    <string name="send">Enviar</string>
     <string name="invalidDate">Fecha no válida.</string>
     <string name="pleaseCorrect">Por favor, ¡corrige esto!</string>
     <string name="tryOpeningInvalid">Entrada inválida. Presionar durante un tiempo y elege la opción \"Editar la fecha\".</string>
-    <string name="bugReportHint">Por favor, describe el problema o el error que se produce. Sé tan específico como sea posible.</string>
     <string name="chineseZodiac">Chino</string>
 	<string name="chinese_rat">Rata</string>
 	<string name="chinese_ox">Búfalo</string>
@@ -166,17 +144,11 @@
 	<string name="do_repeatsound_on">El sonido de notificación se repetirá hasta que se cierre la notificación.</string>
 	<string name="do_repeatsound_off">El sonido de notificación sólo se reproduce una vez.</string>
 	<string name="facebookImport">Importar de Facebook</string>
-	<string name="facebook_import_app">https://apps.facebook.com/birthdays_android/</string>
-	<string name="hint_facebookImport">Puedes utilizar nuestra aplicación \"Birthdays for Android\" en Facebook para exportar todos los cumpleaños de tus amigos de Facebook a esta aplicación. Si continúa, te abriremos la aplicación en Facebook. Ésta te guiará a través de 5 sencillos pasos. Inténtalo.\nTambién puedes abrirla \"bit.ly/birthdays_export\" en el navegador de escritorio.</string>
-	<string name="proceed">Seguir</string>
 	<string name="install">Instalar ahora</string>
-	<string name="missing_addon_title">Instalar Add-on</string>
-	<string name="missing_addon_explain">Esta función requiere permisos de acceso a Internet y una tarjeta SD. Por esa razón, sólo está disponible con nuestro add-on gratuito (a través de Google Play). Se puede elegir entre utilizar esta aplicación sin los permisos extendidos o descargar el add-on gratuito para disfrutar de características adicionales. El add-on permite crear y cargar copias de seguridad desde la tarjeta SD, importar los cumpleaños desde Facebook con facilidad y más cosas. ¡Haz la prueba! Es gratis.</string>
-    <string name="permission_birthdays">Cumpleaños</string>
-    <string name="permission_access_birthdays">Permite el intercambio de datos entre la aplicación de cumpleaños y su add-on.</string>
+	<string name="missing_addon_title">Cumpleaños Plus</string>
+	<string name="missing_addon_explain">Esta función requiere que \"Cumpleaños Plus\", una versión extendida, pero libre todavía de esta aplicación. Utiliza permisos adicionales (acceso a Internet y tarjeta SD) para ofrecer mejores prestaciones. Sólo tienes que visitar Google Play para obtener la aplicación extendida y disfrutar de grandes características. Pruébelo - es gratis!</string>
     <string name="show_help">Mostrar ayuda</string>
     <string name="rate_app">Tasa de aplicación</string>
-    <string name="addon_market">Add-on en Google Play</string>
     <string name="export_fail">Lo sentimos, no fue posible exportar tus datos.</string>
     <string name="loading_facebook">Cargar datos de Facebook &#8230;</string>
     <string name="notification_close">Cerrar</string>
@@ -209,8 +181,6 @@
     <string name="helpTranslating">Ayuda a traducir</string>
     <string name="translationHelpHowto">Por favor, abre el navegador en el PC, para una mejor lectura y edición:\nhttp://birthdays.latein.me/</string>
     <string name="menu_main">Menú principal</string>
-	<string name="update_addon_title">Actualizar Add-on</string>
-	<string name="update_addon_explain">El complemento no está actualizado. Por favor, pulsa en el botón de abajo para visitar Google Play y actualizarlo a la última versión de forma gratuita. Volverá a funcionar perfectamente con todas sus características.</string>
 	<string name="mode_translate">Traducir</string>
 	<string name="days_abbreviation">d</string>
 	<string name="sure_to_delete">¿Está seguro de que desea eliminar esta entrada?</string>
@@ -229,4 +199,22 @@
 	<string name="congratulationText_summary">Ponga su texto predefinido para mensajes de felicitación aquí.</string>
 	<string name="widet_4x1">Cumpleaños (4x1)</string>
 	<string name="widet_4x2">Cumpleaños (4x2)</string>
+    <string name="fbLoad_fail">Cumpleaños no podía ser importado de Facebook!</string>
+    <string name="fbLoad_success">Cumpleaños con éxito importado de Facebook!</string>
+    <string name="export_success">Copia de seguridad guardado correctamente en \"Birthdays Plus\" en la tarjeta SD!</string>
+    <string name="import_fail">Copia de seguridad no se podían importar de \"Birthdays Plus\" en la tarjeta SD!</string>
+    <string name="import_success">Copia de seguridad con éxito importado de \"Birthdays Plus\" en la tarjeta SD!</string>
+    <string name="sdBackup">SD backup</string>
+    <string name="open_facebook_profile">Abrir perfil de Facebook</string>
+    <string name="loading_image">Cargando foto &#8230;</string>
+    <string name="new_version">Nueva versión</string>
+    <string name="new_version_get">Una nueva versión de esta aplicación con características mejoradas está disponible en Google Play. ¿Quieres obtener la actualización ahora?</string>
+    <string name="do_download">Descargar</string>
+    <string name="do_ignore">Pasar por alto</string>
+    <string name="supportAndFeedback">Preguntas &#38; Realimentación</string>
+    <string name="person_actions">Más opciones</string>
+    <string name="save_note">Guardar una nota</string>
+    <string name="delete_image">Eliminar imagen</string>
+    <string name="your_note">Su nota</string>
+    <string name="typeYourNote">Escriba su nota personal &#8230;</string>
 </resources>

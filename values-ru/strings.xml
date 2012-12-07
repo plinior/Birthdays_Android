@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Дни рождения</string>
     <string name="help">Справка</string>
-    <string name="helpText">МЕНЮ НАСТРОЕК:\nВ меню настроек Вы можете добавлять или изменять функции, например добавить новый контакт.\n\nДОЛГИЙ НАЖИМ НА КОНТАКТ:\nВыберете контакт в списке и долго на него нажмите, для появления дополнительного меню и выполните необходимые действия для этого контакта.\n\nДОБАВЛЕНИЕ ФОТО:\nВы можете добавить фото только на контакт, которого нет в контактной книге самого телефона. Иначе назначьте фото в контактной книге самого телефона.\n\nВИДЖЕТ:\nДобавьте виджет стандартными средствами андройд на рабочий стол.Виджет обновляется каждые 6 часов!\n\nПРОБЛЕМА 1970:\nВ некоторых моделях Motorola, Вы не сможете установить дату меньше 1970 года.Извините, но это проблема самого устройства!\n\nБЕЗ УВЕДОМЛЕНИЙ:\nВ последних версиях андройд, начиная с 4.0, добавлено специальное меню дополнительных настроек. Не забудьте в него зайти и сделать дополнительные настройки для правильного отображения уведомлений.\n\nПЕРЕМЕЩЕНИЕ НА ВНЕШНЕЕ ХРАНИЛИЩЕ:\nВы можете переместить приложение на внешнее хранилище (SD катру), но уведомления в этом случае работать не будут. Извините!\n\nПОДДЕРЖИВАЕМЫЙ ФОРТМАТ ДАТЫ:\nМы полностью поддерживаем формат даты согласно ISO 8601, которая является ГГГГ-ММ-ДД. Для других форматов мы не можем гарантировать правильную работу приложения.\n\nХОТИТЕ ПОМОЧЬ ПЕРЕВЕСТИ ПРИЛОЖЕНИЕ?\nДа, Вы можете. Просто используйте наше приложение на Facebook, где Вы можете отредактировать перевод и помочь всем пользователей. Откройте на домашнем компьютере ссылку http://birthdays.latein.me/</string>
-    <string name="emptyList">Загрузка дней рождения из контактов!</string>
+    <string name="helpText">МЕНЮ НАСТРОЕК:\nВ меню настроек Вы можете добавлять или изменять функции, например добавить новый контакт.\n\nДОЛГИЙ НАЖИМ НА КОНТАКТ:\nВыберете контакт в списке и долго на него нажмите, для появления дополнительного меню и выполните необходимые действия для этого контакта.\n\nДОБАВЛЕНИЕ ФОТО:\nВы можете добавить фото только на контакт, которого нет в контактной книге самого телефона. Иначе назначьте фото в контактной книге самого телефона.\n\nВИДЖЕТ:\nДобавьте виджет стандартными средствами андройд на рабочий стол.Виджет обновляется каждые 6 часов!\n\n1970 ПРОБЛЕМА:\nЕсли вы не можете ввести дату до 1970 года, это общая проблема для вашего устройства (часто с Motorola устройств). Пожалуйста, перейдите в настройки приложения и отключить \"простой выбор даты\". После этого изменения, вы должны ввести дату в текстовом поле - но вы можете по крайней мере, введите даты до 1970 года.\n\nБЕЗ УВЕДОМЛЕНИЙ:\nВ последних версиях андройд (4.0+) добавлено специальное меню дополнительных настроек. Не забудьте в него зайти и сделать дополнительные настройки для правильного отображения уведомлений.\n\nПЕРЕМЕЩЕНИЕ НА ВНЕШНЕЕ ХРАНИЛИЩЕ:\nВы можете переместить приложение на внешнее хранилище (SD катру), но уведомления в этом случае работать не будут. Извините!\n\nПОДДЕРЖИВАЕМЫЙ ФОРТМАТ ДАТЫ:\nМы полностью поддерживаем формат даты согласно ISO 8601, которая является ГГГГ-ММ-ДД. Для других форматов мы не можем гарантировать правильную работу приложения.\n\nХОТИТЕ ПОМОЧЬ ПЕРЕВЕСТИ ПРИЛОЖЕНИЕ?\nДа, Вы можете. Просто используйте наше приложение на Facebook, где Вы можете отредактировать перевод и помочь всем пользователей. Откройте на домашнем компьютере ссылку:\nhttp://birthdays.latein.me/</string>
     <string name="goHome">Домой</string>
-    <string name="telephone">Телефон</string>
     <string name="settingsGeneral">Основные настройки</string>
     <string name="showPhotos">Показать фото</string>
     <string name="showPhotos_on">Фото на контакте установлено</string>
@@ -15,8 +12,6 @@
     <string name="tipDontEnterYear"><b>Подсказка:</b> Не хотите вводить год? Введите \"1900\" и год не будет показан.</string>
     <string name="contactPhoto">Фото контакта</string>
     <string name="daysLeftUnit">Дней</string>
-    <string name="birthdaysFoundSg">День рождения найден в контактах!</string>
-    <string name="birthdaysFoundPl">Дни рождения найдены в контактах!</string>
     <string name="noBirthdaysFound">Дни рождения не найдены в контактах!</string>
     <string name="turnVerb">возраст</string>
     <string name="onTime">в</string>
@@ -38,13 +33,10 @@
     <string name="rateNow">Оценить сейчас</string>
     <string name="remindLater">Напомнить позже</string>
     <string name="noThanks">Нет, спасибо</string>
-    <string name="onlyFirstFew">Этот список показывает только первые 25 контактов!</string>
     <string name="callVerb">Позвонить</string>
     <string name="mode_add">Добавить</string>
     <string name="mode_edit">Изменить</string>
-    <string name="mode_rate">Оценить</string>
     <string name="mode_backup">Копия</string>
-    <string name="mode_feedback">Обратная связь</string>
     <string name="mode_help">Справка</string>
     <string name="mode_buy">Подарки</string>
     <string name="birthdayEdited">Дата дня рождения обновлена.</string>
@@ -55,7 +47,6 @@
     <string name="comingSoon">Скоро ожидается!</string>
     <string name="nameOfPerson">Имя контакта</string>
     <string name="dateOfBirth">Выберите дату</string>
-    <string name="birthdayAdded">День рождения добавлен, перезапустите приложение.</string>
     <string name="delete">Удалить</string>
     <string name="edit">Изменить дату</string>
     <string name="birthdayDeleted">День рождения удален.</string>
@@ -75,12 +66,6 @@
     <string name="hint_adding_mode">Если возможно, Вы должны всегда добавлять дни рождения к своим контактам, тогда вы можете использовать больше функций.</string>
 	<string name="adding_mode_contacts">выберите из контактов</string>
 	<string name="adding_mode_newentry">создать контакт</string>
-	<string name="createBackup">Создать копию</string>
-	<string name="email_backup">Копию на эл. почту</string>
-	<string name="send_backup">Отправить копию с &#8230;</string>
-	<string name="your_email_address">Адрес эл. почты &#8230;</string>
-	<string name="hint_backup_mode">Вы можете отправить копию своего списка на адрес электронной почты, чтобы у Вас была резервная копия.</string>
-	<string name="pleaseEnterEmail">Введите правильный адрес эл. почты!</string>
 	<string name="mode_search">Поиск</string>
 	<string name="searchNoResult">Не возможно найти контакт с этим именем!</string>
 	<string name="findPerson">Найти контакт</string>
@@ -120,21 +105,14 @@
     <string name="type_birthday">День рождения</string>
     <string name="type_anniversary">Годовщина</string>
     <string name="open_contact">Открыть контакт</string>
-    <string name="buyVerb">Купить подарок</string>
-    <string name="donate_link">http://bit.ly/MrIcHs</string>
-    <string name="buy_link">http://www.amazon.com/?_encoding=UTF8&#38;tag=lateinme-20&#38;linkCode=ur2&#38;camp=1789&#38;creative=9325</string>
+    <string name="buyVerb">найти настоящего</string>
     <string name="doExport">Экспорт</string>
     <string name="doImport">Импорт</string>
     <string name="importVerb">Импорт</string>
-	<string name="loadBackup">Загрузить копию</string>
 	<string name="pleaseEnterImportData">Извините, импорт не закончен!</string>
-    <string name="hint_import_mode">Копируйте сюда текст из ранее сохраненной копии на эл. почте и потом нажмите \"Загрузить копию\" ниже.</string>
-    <string name="sendErrorReport">Отчет об ошибках</string>
-    <string name="send">Отправить</string>
     <string name="invalidDate">Дата не верна.</string>
     <string name="pleaseCorrect">Пожалуйста исправьте!</string>
     <string name="tryOpeningInvalid">Не правильный ввод.Нажмите долго и выберете \"Изменить дату\".</string>
-    <string name="bugReportHint">Пожалуйста, опишите проблему или ошибку, которая происходит.</string>
     <string name="chineseZodiac">Китайский</string>
 	<string name="chinese_rat">Крыса</string>
 	<string name="chinese_ox">Бык</string>
@@ -166,17 +144,11 @@
 	<string name="do_repeatsound_on">Сигнал уведомления будет повторяться до закрытия уведомления.</string>
 	<string name="do_repeatsound_off">Сигнал уведомления прозвучит один раз.</string>
 	<string name="facebookImport">Импорт из Facebook</string>
-	<string name="facebook_import_app">https://apps.facebook.com/birthdays_android/</string>
-	<string name="hint_facebookImport">Вы можете использовать наше приложение \"Дни рождения для Андроид\" на Facebook, чтобы экспортировать дни рождения всех Ваших друзей из Facebook в это приложение. Если Вы захотите, то мы откроем эту возможность на веб-сайте Facebook. Это будет 5 легких шагов для Вас - просто попробуйте, откройте \"bit.ly/birthdays_export \" на Вашем настольном компьютере в браузере.</string>
-	<string name="proceed">Продолжить</string>
 	<string name="install">Установить</string>
-	<string name="missing_addon_title">Установить дополнение</string>
-	<string name="missing_addon_explain">Это требует разрешений для доступа к SD-карте и в Интернет! Это возможно через дополнение доступное на Google Play. Вы можете выбрать: использовать это приложение как есть, или загрузить дополнительный пакет, с дополнительными функциями. Это позволит Вам создавать и загружать резервные копии с SD-карты, импортировать дни рождения из Facebook и другое. Попробуйте это бесплатно!</string>
-    <string name="permission_birthdays">Дни рождения</string>
-    <string name="permission_access_birthdays">Разрешить обмен данными между приложением и его дополнением.</string>
+	<string name="missing_addon_title">Дни рождения плюс</string>
+	<string name="missing_addon_explain">Эта функция требует \"Дни рождения плюс\", расширенное, но все еще бесплатная версия этого приложения. Он использует дополнительные разрешения (доступ к интернет-карту и SD), чтобы предложить вам лучшие возможности. Просто зайдите на Google Play, чтобы получить расширенные приложения и наслаждаться интересными возможностями. Попробуйте - это бесплатно!!</string>
     <string name="show_help">Показать справку</string>
     <string name="rate_app">Оценить приложение</string>
-    <string name="addon_market">Дополнение на Google Play</string>
     <string name="export_fail">Извините, экспорт данных не стартовал!</string>
     <string name="loading_facebook">Загрузка данных из Facebook &#8230;</string>
     <string name="notification_close">Закрыть уведомление</string>
@@ -209,8 +181,6 @@
     <string name="helpTranslating">Помощь в переводе</string>
     <string name="translationHelpHowto">Откройте в браузере на домашнем компьютере:\nhttp://birthdays.latein.me/</string>
     <string name="menu_main">Главное меню</string>
-	<string name="update_addon_title">Обновить дополнение</string>
-	<string name="update_addon_explain">Ваше дополнение больше не работает! Кликните на кнопку ниже и закачайте бесплатно новое обновление с Google Play.</string>
 	<string name="mode_translate">Перевести</string>
 	<string name="days_abbreviation">д.</string>
 	<string name="sure_to_delete">Вы уверены, что хотите удалить эту запись?</string>
@@ -229,4 +199,22 @@
 	<string name="congratulationText_summary">Установить предопределенный текст поздравления сообщений здесь.</string>
 	<string name="widet_4x1">Дни рождения (4x1)</string>
 	<string name="widet_4x2">Дни рождения (4x2)</string>
+    <string name="fbLoad_fail">Дни рождения не могут быть импортированы из Facebook!</string>
+    <string name="fbLoad_success">Именинники успешно импортированы из Facebook!</string>
+    <string name="export_success">Резервируем успешно сохранены \"Birthdays Plus\" на SD карту!</string>
+    <string name="import_fail">Резервное копирование не могут быть импортированы из \"Birthdays Plus\" на SD карту!</string>
+    <string name="import_success">Резервируем успешно импортированы из \"Birthdays Plus\" на SD карту!</string>
+    <string name="sdBackup">SD резервного копирования</string>
+    <string name="open_facebook_profile">Открыть профиль Facebook</string>
+    <string name="loading_image">загрузка фото &#8230;</string>
+    <string name="new_version">новая версия</string>
+    <string name="new_version_get">Новая версия этого приложения с улучшенными характеристиками можно ознакомиться на Google Play. Вы хотите, чтобы получить обновление?</string>
+    <string name="do_download">скачать</string>
+    <string name="do_ignore">игнорировать</string>
+    <string name="supportAndFeedback">Вопросы &#38; обратная связь</string>
+    <string name="person_actions">Дополнительные опции</string>
+    <string name="save_note">Сохранить заметку</string>
+    <string name="delete_image">Удалить изображение</string>
+    <string name="your_note">Ваше примечание</string>
+    <string name="typeYourNote">Введите ваши личные записки &#8230;</string>
 </resources>

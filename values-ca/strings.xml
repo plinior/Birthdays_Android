@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="help">Ajuda</string>
+    <string name="helpText">MENÚ D’OPCIONS:\nEn el menú d’opcions es poden trobar diverses característiques addicionals d’aquesta aplicació. Per exemple, es poden canviar les preferències o afegir nous contactes a la llista d’aniversaris.\n\nPRÈMER SOBRE UN CONTACTE:\nQuan es prem un contacte a la llista dels aniversaris durant un temps, apareixerà un menú amb opcions on es pot escollir entre editar o esborrar una entrada existent a la llista dels aniversaris.\n\nAFEGIR UNA FOTO:\nNomés es poden afegir fotos a les persones que no estan en els contactes, tot i que sí que és possible afegir-les manualment. Per a les persones de la teva llista de contactes, edita l’entrada en els contactes amb Android.\n\nWIDGET:\nAnar a la pantalla d’inici i prémer \"Afegir\" \"Widget\" per afegir els aniversaris a la teva pantalla d’inici. El widget s’actualitzarà cada 6 hores!\n\n1970 PROBLEMA:\nSi no pots entrar en dates anteriors a 1970, que \'sa comuna problema per al dispositiu (sovint amb els dispositius de Motorola). Si us plau, aneu a la configuració de \'aplicació \'s i desactivar \'opció \"Fàcil selecció de data\". Després \'aquest canvi, que \'ll ha d\'introduir dates en un camp de text - però almenys pots entrar en dates anteriors a 1970.\n\nCAP NOTIFICACIÓ:\nLes últimes versions d’Android, és a dir, 4.0 y 4.1, ofereixen ajustaments especials per a les notificacions. Per exemple, és possible desactivar totes les notificacions a la barra d’estat (en 3G, Wi-Fi, GPS i Bluetooth) o desactivar les notificacions a \"Administrar aplicacions\" entre els ajustaments. Si us plau, comprova aquests ajustaments si les notificacions no funcionen.\n\nCANVI A EMMAGATZAMENT EXTERN:\nNo es pot moure aquesta aplicació a la tarja SD, les notificacions per als aniversaris següents no funcionarien. Ho sentim!\n\nFORMATS DE DATA:\nRecolzem totalment els formats de data d’acord a la norma ISO 8601, que és AAAA-MM-DD. Per altres formats no podem garantir que siguin llegits correctament.\n\nPUC AJUDAR A LA TRADUCCIÓ APP?\nSí, pots. Només has d’usar la nostra aplicació a Facebook, on es poden editar fàcilment totes les traduccions i millorar-les per a tots els usuaris. Si us plau, obre el següent enllaç en un ordinador de sobretaula (PC) per una millor lectura i edició:\nhttp://birthdays.latein.me/</string>
+    <string name="goHome">Tornar</string>
+    <string name="settingsGeneral">Configuració general</string>
+    <string name="showPhotos">Fotos dels contactes</string>
+    <string name="showPhotos_on">Es mostraran les fotos dels contactes.</string>
+    <string name="showPhotos_off">No es mostraran les fotos dels contactes.</string>
+    <string name="nextBirthdayOnWeekDay">El proper natalici és el</string>
+    <string name="nextAnniversaryOnWeekDay">El proper aniversari és el</string>
+    <string name="tipDontEnterYear"><b>Suggeriment:</b> Si no vols introduir l’any, només has d’escriure l’any \"1900\" i l’any no serà visible.</string>
+    <string name="contactPhoto">Foto del contacte</string>
+    <string name="daysLeftUnit">dies</string>
+    <string name="noBirthdaysFound">No s’ha pogut trobar cap aniversari a la teva llista de contactes!</string>
+    <string name="turnVerb">complirà</string>
+    <string name="onTime">el</string>
+    <string name="pleaseWait">Si us plau, espera</string>
+    <string name="refreshingList">Actualitzant la llista &#8230;</string>
+    <string name="bornOn">Data de naixement:</string>
+    <string name="anniversaryOn">Aniversari:</string>
+    <string name="age">Edat:</string>
+    <string name="yearsMarried">Des de fa:</string>
+    <string name="years">anys</string>
+    <string name="ok">OK</string>
+    <string name="today">avui</string>
+    <string name="in">en</string>
+    <string name="birthday">Natalici</string>
+    <string name="yearsOld">anys</string>
+    <string name="loading">carregant</string>
+    <string name="fullTextConvinced">T’agrada l’aplicació? T’estaríem molt agraïts si valoressis la nostra aplicació a Google Play. Gràcies pel teu suport!</string>
+    <string name="rateApp">Valora aquesta aplicació</string>
+    <string name="rateNow">Valorar ara</string>
+    <string name="remindLater">Més tard</string>
+    <string name="noThanks">No, gràcies</string>
+    <string name="callVerb">Trucar</string>
+    <string name="mode_add">Afegir</string>
+    <string name="mode_edit">Editar</string>
+    <string name="mode_backup">Còpia de seguretat</string>
+    <string name="mode_help">Ajuda</string>
+    <string name="mode_buy">Regals</string>
+    <string name="birthdayEdited">L’aniversari seleccionat s’ha actualitzat a la nova data.</string>
+    <string name="cancel">Cancel·lar</string>
+    <string name="save">Desar</string>
+    <string name="smsVerb">SMS</string>
+    <string name="congratulationSMS">Feliç aniversari!</string>
+    <string name="comingSoon">Properament!</string>
+    <string name="nameOfPerson">Nom de la persona</string>
+    <string name="dateOfBirth">Escollir la data</string>
+    <string name="delete">Esborrar</string>
+    <string name="edit">Canviar la data</string>
+    <string name="birthdayDeleted">L’aniversari seleccionat ha estat esborrat.</string>
+    <string name="mode_preferences">Preferències</string>
+    <string name="notification_on">Es mostraran les notificacions.</string>
+    <string name="notification_off">Cap notificació.</string>
+    <string name="notification_0">en l’aniversari</string>
+    <string name="notification_1">1 dia abans</string>
+    <string name="notification_2">2 dies abans</string>
+    <string name="notification_7">1 setmana abans</string>
+    <string name="notification_time">Temps per a les notificacions</string>
+    <string name="notification_sound">So per a les notificacions</string>
+    <string name="notification_sound_desc">Si us plau, escull un to de trucada o \"Silenci\"</string>
+    <string name="setTime">Si us plau escull una hora &#8230;</string>
+    <string name="notificationsForBirthdays">Notificacions per aniversaris</string>
+    <string name="caption_adding_mode">Afegir una nova entrada</string>
+    <string name="hint_adding_mode">Si és possible, sempre hauries d’afegir els aniversaris dels teus contactes. Pots utilitzar més característiques a continuació.</string>
+	<string name="adding_mode_contacts">seleccionar els contactes</string>
+	<string name="adding_mode_newentry">sense contacte de telèfon</string>
+	<string name="mode_search">Buscar</string>
+	<string name="searchNoResult">No s’ha pogut trobar cap persona amb aquest nom a la teva llista.</string>
+	<string name="findPerson">Trobar una persona</string>
+	<string name="searchPerson">Buscar persones &#8230;</string>
+	<string name="hint_search_mode">Per buscar una persona a la llista d’aniversaris, normalment n’hi ha prou d’escriure una part del nom.</string>
+	<string name="zodiac">Zodíac</string>
+	<string name="zodiac_aries">Àries</string>
+	<string name="zodiac_taurus">Taure</string>
+	<string name="zodiac_gemini">Gèminis</string>
+	<string name="zodiac_cancer">Cranc</string>
+	<string name="zodiac_leo">Lleó</string>
+	<string name="zodiac_virgo">Verge</string>
+	<string name="zodiac_libra">Balança</string>
+	<string name="zodiac_scorpio">Escorpí</string>
+	<string name="zodiac_sagittarius">Sagitari</string>
+	<string name="zodiac_capricornus">Capricorn</string>
+	<string name="zodiac_aquarius">Aquari</string>
+	<string name="zodiac_pisces">Peixos</string>
+	<string name="changePicture">Canviar la foto</string>
+	<string name="change_name">Canviar el nom</string>
+	<string name="sortBy">Ordenar per</string>
+	<string name="sortBy_change">Tria la manera en què s’ordenen els elements de la llista</string>
+	<string-array name="sortBy_values_human">
+        <item>Dies que falten</item>
+        <item>Nom</item>
+        <item>Edat</item>
+    </string-array>
+	<string-array name="sortBy_values_machine">
+        <item>days_left</item>
+        <item>name</item>
+        <item>age</item>
+    </string-array>
+    <string name="show_phoneButtons">Botons del telèfon</string>
+    <string name="show_phoneButtons_on">Es mostraran els botons per a trucades i SMS.</string>
+    <string name="show_phoneButtons_off">No es mostraran els botons per a trucades i SMS.</string>
+    <string name="choose_type">Escollir el tipus</string>
+    <string name="type_birthday">Natalici</string>
+    <string name="type_anniversary">Aniversari</string>
+    <string name="open_contact">Obrir el contacte</string>
+    <string name="buyVerb">Trobar un regal</string>
+    <string name="doExport">Exportar / Desar</string>
+    <string name="doImport">Importar / Carregar</string>
+    <string name="importVerb">Importar</string>
+	<string name="pleaseEnterImportData">Malauradament, la importació no s’ha pogut acabar!</string>
+    <string name="invalidDate">Data no vàlida.</string>
+    <string name="pleaseCorrect">Si us plau, esmena això!</string>
+    <string name="tryOpeningInvalid">Entrada no vàlida. Prem durant un temps i escull l’opció \"Editar la data\".</string>
+    <string name="chineseZodiac">Zodíac xinès</string>
+	<string name="chinese_rat">Rata</string>
+	<string name="chinese_ox">Búfal</string>
+	<string name="chinese_tiger">Tigre</string>
+	<string name="chinese_rabbit">Conill</string>
+	<string name="chinese_dragon">Drac</string>
+	<string name="chinese_snake">Serp</string>
+	<string name="chinese_horse">Cavall</string>
+	<string name="chinese_goat">Cabra</string>
+	<string name="chinese_monkey">Mono</string>
+	<string name="chinese_rooster">Gall</string>
+	<string name="chinese_dog">Gos</string>
+	<string name="chinese_pig">Porc</string>
+	<string name="show_zodiac">Signes del zodíac</string>
+	<string name="show_zodiac_description">Vols que es mostrin els signes del zodiac?</string>
+	<string-array name="show_zodiac_values_human">
+        <item>Occidental</item>
+        <item>Xinès</item>
+        <item>Occidental + Xinès</item>
+        <item>Cap</item>
+    </string-array>
+	<string-array name="show_zodiac_values_machine">
+        <item>western</item>
+        <item>chinese</item>
+        <item>both</item>
+        <item>none</item>
+    </string-array>
+	<string name="do_repeatsound">Repeteix el so</string>
+	<string name="do_repeatsound_on">El so de notificació es repetirà fins que es tanqui la notificació.</string>
+	<string name="do_repeatsound_off">El so de notificació només es reproduirà una vegada.</string>
+	<string name="facebookImport">Importar de Facebook</string>
+	<string name="install">Instal·lar ara</string>
+	<string name="missing_addon_title">Aniversaris Plus</string>
+	<string name="missing_addon_explain">Aquesta funció requereix \"Aniversaris Plus\", una versió estesa, però lliure encara d\'aquesta aplicació. Utilitza permisos addicionals (accés a Internet i targeta SD) per oferir millors prestacions. Només has de visitar Google Play per obtenir l\'aplicació estesa i gaudir de grans característiques. Proveu - és gratis!</string>
+    <string name="show_help">Mostrar ajuda</string>
+    <string name="rate_app">Valora l’aplicació</string>
+    <string name="export_fail">Ho sentim, no ha estat possible exportar les teves dades.</string>
+    <string name="loading_facebook">Carregar dades des de Facebook &#8230;</string>
+    <string name="notification_close">Tancar</string>
+    <string name="notification_remind1">Tornar a recordar en 15min</string>
+    <string name="notification_remind2">Tornar a recordar en 1h</string>
+    <string name="notification_remind3">Tornar a recordar en 6h</string>
+    <string name="importing_entries">Importar entrades seleccionades &#8230;</string>
+    <string name="open_app">Obrir l’aplicació</string>
+    <string-array name="default_images">
+        <item>Natalici (1)</item>
+        <item>Natalici (2)</item>
+        <item>Aniversari</item>
+        <item>Amor</item>
+        <item>Boda</item>
+        <item>Mort (1)</item>
+        <item>Mort (2)</item>
+    </string-array>
+    <string-array name="default_images_copyright">
+        <item>Africa Studio</item>
+        <item>bluedesign</item>
+        <item>shoot4u</item>
+        <item>Konstiantyn</item>
+        <item>artikularis</item>
+        <item>Pixel Embargo</item>
+        <item>Benjamin Haas</item>
+    </string-array>
+    <string name="pick_from_gallery">Seleccionar des de la galeria</string>
+    <string name="pick_predefined_image">Seleccionar imatges predefinides</string>
+    <string name="image_provided_by">Aquesta imatge ha estat proporcionada per</string>
+    <string name="helpTranslating">Ajuda a traduir</string>
+    <string name="translationHelpHowto">Si us plau, obre el navegador en el PC, (per a una millor lectura i edició):\nhttp://birthdays.latein.me/</string>
+    <string name="menu_main">Menú principal</string>
+	<string name="mode_translate">Traduir</string>
+	<string name="days_abbreviation">d</string>
+	<string name="sure_to_delete">Està segur de que vol eliminar aquesta entrada?</string>
+	<string name="yes">Si</string>
+	<string name="no">No</string>
+	<string name="merge_with_contact">Combinar contacte</string>
+	<string name="merge_explanation">Vols combinar aquesta entrada amb un contacte existent?</string>
+	<string name="entry_merged">L’entrada s’ha combinat amb èxit amb el contacte seleccionat.</string>
+	<string name="contacts_app_not_found">No s’ha trobat l’aplicació de contactes en el teu dispositiu.</string>
+	<string name="defaultDateFormat">AAAA-MM-DD</string>
+	<string name="show_datepicker">Selecció de dates fàcil</string>
+	<string name="show_datepicker_on">Una manera fàcil de seleccionar les dates, que li permet escollir el dia, mes i any d’una llista.</string>
+	<string name="show_datepicker_off">Es mostra un camp de text simple. Pot escriure la data manualment. Això és útil si el dispositiu no accepta introduir anys anteriors a 1970.</string>
+	<string name="settings_other">Altres ajustaments</string>
+	<string name="congratulationText_title">Text de felicitació</string>
+	<string name="congratulationText_summary">Posi el seu text predefinit per missatges de felicitació aquí.</string>
+	<string name="widet_4x1">Aniversaris (4x1)</string>
+	<string name="widet_4x2">Aniversaris (4x2)</string>
+    <string name="fbLoad_fail">Els aniversari no es podien importar de Facebook!</string>
+    <string name="fbLoad_success">Els aniversari amb èxit importat de Facebook!</string>
+    <string name="export_success">Backup guardat correctament en \"Birthdays Plus\" a la targeta SD!</string>
+    <string name="import_fail">Còpia de seguretat no es podien importar des \"Birthdays Plus\" a la targeta SD!</string>
+    <string name="import_success">Còpia de seguretat importat amb èxit des \"Birthdays Plus\" a la targeta SD!</string>
+    <string name="sdBackup">SD backup</string>
+    <string name="open_facebook_profile">Obrir perfil de Facebook</string>
+    <string name="loading_image">Carregant foto &#8230;</string>
+    <string name="new_version">Nova versió</string>
+    <string name="new_version_get">Una nova versió \'aquesta aplicació amb característiques millorades està disponible a Google Play. Vols obtenir \'actualització ara?</string>
+    <string name="do_download">Descarregar</string>
+    <string name="do_ignore">Passar per alt</string>
+    <string name="supportAndFeedback">Preguntes &#38; Realimentació</string>
+    <string name="person_actions">Més opcions</string>
+    <string name="save_note">Desar una nota</string>
+    <string name="delete_image">Eliminar imatge</string>
+    <string name="your_note">La seva nota</string>
+    <string name="typeYourNote">Introduïu el nota personal &#8230;</string>
+</resources>

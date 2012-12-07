@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Anniversaires</string>
     <string name="help">Aide</string>
-    <string name="helpText"><b>Menu d\'options</b>\nDans le menu d\'options vous pouvez trouver plusieurs fonctionnalités supplémentaires de cette application, par exemple, vous pouvez modifier les préférences ou ajouter de nouveaux contacts à votre liste d\'anniversaires.\n\n<b>Appuyant longuement sur un contact:</b>\nLorsque vous appuyez sur un contact dans votre liste d\'anniversaires pendant une longue période, un menu avec des options apparaîtra où vous pouvez choisir de modifier ou supprimer une entrée existante dans votre liste d\'anniversaires.\n\nAJOUTER DES PHOTOS:\nVous ne pouvez ajouter des photos pour les personnes qui ne sont pas dans vos contacts, mais ajoutés manuellement à cette demande. Pour les personnes de votre liste de contacts, s\'il vous plaît modifier l\'entrée dans vos contacts Android.\n\nWIDGET:\nAccédez à votre écran d\'accueil et cliquez sur \"Ajouter\", puis \"Widget\" pour ajouter les anniversaires à venir à votre écran d\'accueil. Votre widget sera rafraîchi toutes les 6 heures!\n\n1970 PROBLÈME:\nSi vous ne pouvez pas saisir les dates antérieures à 1970, vous avez probablement un appareil Motorola. Il existe plusieurs dispositifs de Motorola et d\'autres fabricants qui vous empêchent de saisir une date antérieure à 1970, en raison d\'un bogue. Nous ne pouvons pas changer cela, désolé!\n\nAUCUNE NOTIFICATION:\nLes dernières versions d\'Android, c\'est à dire 4.0 et 4.1, offrent des réglages spéciaux pour les notifications. Par exemple, vous pouvez désactiver toutes les notifications dans la barre d\'état (où 3G, Wi-Fi, GPS et Bluetooth sont situés) ou désactiver les notifications dans \"apps\" Gérer parmi vos paramètres. S\'il vous plaît vérifier ces paramètres si vos notifications ne fonctionnent pas.\n\nPASSAGE AU STOCKAGE EXTERNE:\nVous ne pouvez pas déplacer cette application pour le stockage externe (carte SD) que les notifications pour les anniversaires à venir ne fonctionne pas dans ce cas. Désolé!\n\nFORMATS DE DATE EN CHARGE:\nNous soutenons pleinement les formats de date selon la norme ISO 8601, qui est AAAA-MM-JJ. Pour les autres formats, nous ne pouvons garantir qu\'ils soient lus correctement.\n\nPUIS-JE AIDER LA TRADUCTION APP?\nOui, vous le pouvez. Il suffit d\'utiliser notre application sur Facebook, où vous pouvez facilement modifier toutes les traductions et les améliorer pour tous les utilisateurs. S\'il vous plaît ouvrir le lien suivant sur un ordinateur de bureau pour une meilleure lecture et rédaction: http://birthdays.latein.me/</string>
-    <string name="emptyList">Les anniversaires sont en charge!</string>
+    <string name="helpText"><b>Menu d\'options</b>\nDans le menu d\'options vous pouvez trouver plusieurs fonctionnalités supplémentaires de cette application, par exemple, vous pouvez modifier les préférences ou ajouter de nouveaux contacts à votre liste d\'anniversaires.\n\n<b>Appuyant longuement sur un contact:</b>\nLorsque vous appuyez sur un contact dans votre liste d\'anniversaires pendant une longue période, un menu avec des options apparaîtra où vous pouvez choisir de modifier ou supprimer une entrée existante dans votre liste d\'anniversaires.\n\nAJOUTER DES PHOTOS:\nVous ne pouvez ajouter des photos pour les personnes qui ne sont pas dans vos contacts, mais ajoutés manuellement à cette demande. Pour les personnes de votre liste de contacts, s\'il vous plaît modifier l\'entrée dans vos contacts Android.\n\nWIDGET:\nAccédez à votre écran d\'accueil et cliquez sur \"Ajouter\", puis \"Widget\" pour ajouter les anniversaires à venir à votre écran d\'accueil. Votre widget sera rafraîchi toutes les 6 heures!\n\n1970 PROBLÈME:\nSi vous ne pouvez pas saisir les dates antérieures à 1970, c\'est un problème commun pour votre périphérique (souvent avec les appareils Motorola). S\'il vous plaît aller dans les paramètres de l\'app et de désactiver le \"Sélection facile de la date\". Après ce changement, vous aurez à entrer des dates dans un champ de texte - mais vous pouvez au moins saisir les dates antérieures à 1970.\n\nAUCUNE NOTIFICATION:\nLes dernières versions d\'Android (4.0+) offrent des réglages spéciaux pour les notifications. Par exemple, vous pouvez désactiver toutes les notifications dans la barre d\'état (où 3G, Wi-Fi, GPS et Bluetooth sont situés) ou désactiver les notifications dans \"apps\" Gérer parmi vos paramètres. S\'il vous plaît vérifier ces paramètres si vos notifications ne fonctionnent pas.\n\nPASSAGE AU STOCKAGE EXTERNE:\nVous ne pouvez pas déplacer cette application pour le stockage externe (carte SD) que les notifications pour les anniversaires à venir ne fonctionne pas dans ce cas. Désolé!\n\nFORMATS DE DATE EN CHARGE:\nNous soutenons pleinement les formats de date selon la norme ISO 8601, qui est AAAA-MM-JJ. Pour les autres formats, nous ne pouvons garantir qu\'ils soient lus correctement.\n\nPUIS-JE AIDER LA TRADUCTION APP?\nOui, vous le pouvez. Il suffit d\'utiliser notre application sur Facebook, où vous pouvez facilement modifier toutes les traductions et les améliorer pour tous les utilisateurs. S\'il vous plaît ouvrir le lien suivant sur un ordinateur de bureau pour une meilleure lecture et rédaction:\nhttp://birthdays.latein.me/</string>
     <string name="goHome">En arrière</string>
-    <string name="telephone">Téléphone</string>
     <string name="settingsGeneral">Paramètres généraux</string>
     <string name="showPhotos">Photos des contacts</string>
     <string name="showPhotos_on">Les photos des contacts sera montré.</string>
@@ -15,8 +12,6 @@
     <string name="tipDontEnterYear"><b>Conseil:</b> Vous ne voulez pas saisir un an? Il suffit de taper \"1900\" et l\'année ne sera pas montré.</string>
     <string name="contactPhoto">Photo du contact</string>
     <string name="daysLeftUnit">jours</string>
-    <string name="birthdaysFoundSg">anniversaire dans ta liste des contacts!</string>
-    <string name="birthdaysFoundPl">anniversaires dans ta liste des contacts!</string>
     <string name="noBirthdaysFound">Pas d\'anniversaire dans ta liste des contacts!</string>
     <string name="turnVerb">aura</string>
     <string name="onTime">le</string>
@@ -38,13 +33,10 @@
     <string name="rateNow">Évaluer maintenant</string>
     <string name="remindLater">Plus tard</string>
     <string name="noThanks">Non, merci!</string>
-    <string name="onlyFirstFew">Seuls les 25 premiers contacts sont représentés.</string>
     <string name="callVerb">Appel</string>
     <string name="mode_add">Ajoute</string>
     <string name="mode_edit">Modifier</string>
-    <string name="mode_rate">Évaluer</string>
     <string name="mode_backup">Sauvegarde</string>
-    <string name="mode_feedback">Commentaires</string>
     <string name="mode_help">Aide</string>
     <string name="mode_buy">Cadeaux</string>
     <string name="birthdayEdited">L\'anniversaire sélectionné a été modifié á la nouvelle date.</string>
@@ -55,7 +47,6 @@
     <string name="comingSoon">Bientôt disponible!</string>
     <string name="nameOfPerson">Nom de la personne</string>
     <string name="dateOfBirth">Choisir la date</string>
-    <string name="birthdayAdded">Le nouveau anniversaire est ajouté et est affiché lorsque vous ouvrez l\'application la prochaine fois.</string>
     <string name="delete">Effacer</string>
     <string name="edit">Changer la date</string>
     <string name="birthdayDeleted">L\'anniversaire sélectionné a été effacé.</string>
@@ -75,12 +66,6 @@
     <string name="hint_adding_mode">Si possible, vous devriez toujours ajouter des anniversaires à vos contacts. Vous pouvez utiliser plus de fonctionnalités, puis.</string>
 	<string name="adding_mode_contacts">choisir à partir des contacts</string>
 	<string name="adding_mode_newentry">sans contact par téléphone</string>
-	<string name="createBackup">Créer sauvegarde</string>
-	<string name="email_backup">Sauvegarde par courriel</string>
-	<string name="send_backup">Envoyer sauvegarde avec &#8230;</string>
-	<string name="your_email_address">Votre adresse de courriel &#8230;</string>
-	<string name="hint_backup_mode">Ici, vous pouvez envoyer une copie de votre liste à votre adresse e-mail afin que vous ayez une sauvegarde sécurisée. Cela permettra d\'éviter vos données ne soient perdues.</string>
-	<string name="pleaseEnterEmail">S\'il vous plaît entrer une adresse email valide!</string>
 	<string name="mode_search">Rechercher</string>
 	<string name="searchNoResult">Impossible de trouver une personne dans votre liste correspondant à ce nom!</string>
 	<string name="findPerson">Trouver une personne</string>
@@ -120,21 +105,14 @@
     <string name="type_birthday">Anniversaire de naissance</string>
     <string name="type_anniversary">Anniversaire d\'événement</string>
     <string name="open_contact">Ouvrez de contact</string>
-    <string name="buyVerb">Acheter un cadeau</string>
-    <string name="donate_link">http://bit.ly/M7308C</string>
-    <string name="buy_link">http://www.amazon.fr/?_encoding=UTF8&#38;tag=cumplean01-21&#38;linkCode=ur2&#38;camp=1642&#38;creative=6746</string>
+    <string name="buyVerb">Trouver un cadeau</string>
     <string name="doExport">Exporter / Enregistrer</string>
     <string name="doImport">Importer / Charger</string>
     <string name="importVerb">Importer</string>
-	<string name="loadBackup">Charger</string>
 	<string name="pleaseEnterImportData">Désolé, l\'importation n\'a pas pu être terminé!</string>
-    <string name="hint_import_mode">S\'il vous plaît regardez pour l\'e-mail de sauvegarde que vous avez exporté ici, dans votre boîte e-mail et de copier le texte intégral de cet e-mail. Lorsque vous êtes prêt, s\'il vous plaît cliquer \"Charger\" ci-dessous.</string>
-    <string name="sendErrorReport">Rapport de bogue</string>
-    <string name="send">Envoyer</string>
     <string name="invalidDate">Date invalide.</string>
     <string name="pleaseCorrect">S\'il vous plaît corriger cela!</string>
     <string name="tryOpeningInvalid">Il s\'agit d\'une entrée non valide. S\'il vous plaît il à long appuyez sur et sélectionnez \"Changer la date\".</string>
-    <string name="bugReportHint">S\'il vous plaît décrire le problème ou l\'erreur qui se produit. Soyez aussi précis que possible.</string>
     <string name="chineseZodiac">Chinois</string>
 	<string name="chinese_rat">Rat</string>
 	<string name="chinese_ox">Bœuf</string>
@@ -166,17 +144,11 @@
 	<string name="do_repeatsound_on">La sonnerie de notification sera répétée jusqu\'à ce que vous fermez la notification.</string>
 	<string name="do_repeatsound_off">La sonnerie de notification ne sera joué qu\'une fois.</string>
 	<string name="facebookImport">Importer de Facebook</string>
-	<string name="facebook_import_app">https://apps.facebook.com/birthdays_android/</string>
-	<string name="hint_facebookImport">Vous pouvez utiliser notre application \"Birthdays for Android\" sur Facebook afin d\'exporter tous les anniversaires de vos amis Facebook à ce soft. Si vous continuez, nous allons ouvrir l\'application sur le site Facebook pour vous. Il vous guidera à travers 5 étapes faciles - juste essayer it.\nComme alternatif, vous pouvez ouvrir \"bit.ly/birthdays_export\" dans votre navigateur de bureau.</string>
-	<string name="proceed">Continuer</string>
 	<string name="install">Installer maintenant</string>
-	<string name="missing_addon_title">Installez l\'Add-on</string>
-	<string name="missing_addon_explain">Cette fonction requiert des autorisations pour l\'accès Internet et carte SD! Pour cette raison, il est uniquement disponible avec notre add-on gratuit (via Google Play). Vous pouvez choisir: Utilisez cette application sans ces autorisations étendues ou télécharger gratuitement le logiciel add-on pour profiter de fonctions supplémentaires. L\'add-on vous permet de créer et charger des sauvegardes sur carte SD, anniversaires d\'importation à partir de Facebook facilement et ainsi de suite. Essayez-le! C\'est gratuit.</string>
-    <string name="permission_birthdays">Anniversaires</string>
-    <string name="permission_access_birthdays">Permis d\'échange de données entre l\'application Anniversaires et son add-on.</string>
+	<string name="missing_addon_title">Anniversaires Plus</string>
+	<string name="missing_addon_explain">Cette fonction nécessite \"Anniversaires Plus\", une version étendue mais toujours exempt de cette application. Il utilise des autorisations supplémentaires (accès à la carte SD et Internet) pour vous offrir de meilleures fonctionnalités. Il suffit de visiter Google Play pour obtenir l\'application prolongée et profiter de fonctionnalités. Essayez-le - c\'est gratuit!</string>
     <string name="show_help">Afficher l\'aide</string>
     <string name="rate_app">Évaluez l\'app</string>
-    <string name="addon_market">Add-on sur Google Play</string>
     <string name="export_fail">Désolé, l\'exportation de vos données n\'ont pas pu être démarré!</string>
     <string name="loading_facebook">Chargement des données de Facebook &#8230;</string>
     <string name="notification_close">Fermer</string>
@@ -209,8 +181,6 @@
     <string name="helpTranslating">Aider à traduire</string>
     <string name="translationHelpHowto">S\'il vous plaît ouvrir dans votre navigateur sur votre ordinateur (pour une meilleure lisibilité et l\'édition):\nhttp://birthdays.latein.me/</string>
     <string name="menu_main">Menu principal</string>
-	<string name="update_addon_title">Mise à jour le Add-on</string>
-	<string name="update_addon_explain">Votre add-on n\'est pas up-to-date de plus! S\'il vous plaît appuyez sur le bouton ci-dessous pour consulter Google Play et le mettre à jour à la dernière version gratuitement. Toutes les fonctions seront ensuite travailler à nouveau parfaitement.</string>
 	<string name="mode_translate">Traduire</string>
 	<string name="days_abbreviation">d</string>
 	<string name="sure_to_delete">Êtes-vous sûr de vouloir supprimer cette entrée?</string>
@@ -229,4 +199,22 @@
 	<string name="congratulationText_summary">Réglez votre texte prédéfini pour les messages de félicitations ici.</string>
 	<string name="widet_4x1">Anniversaires (4x1)</string>
 	<string name="widet_4x2">Anniversaires (4x2)</string>
+    <string name="fbLoad_fail">Anniversaires n\'a pas pu être importé de Facebook!</string>
+    <string name="fbLoad_success">Anniversaires importé avec succès de Facebook!</string>
+    <string name="export_success">Sauvegarde avec succès enregistré dans \"Birthdays Plus\" sur la carte SD!</string>
+    <string name="import_fail">Sauvegarde n\'a pas pu être importés à partir de \"Birthdays Plus\" sur la carte SD!</string>
+    <string name="import_success">Sauvegarde importé avec succès à partir de \"Birthdays Plus\" sur la carte SD!</string>
+    <string name="sdBackup">SD backup</string>
+    <string name="open_facebook_profile">Ouvrir profil de Facebook</string>
+    <string name="loading_image">Chargement photo &#8230;</string>
+    <string name="new_version">Nouvelle version</string>
+    <string name="new_version_get">Une nouvelle version de cette application avec des fonctionnalités améliorées est disponible sur Google Play. Voulez-vous pour obtenir la mise à jour maintenant?</string>
+    <string name="do_download">Télécharger</string>
+    <string name="do_ignore">Ignorer</string>
+    <string name="supportAndFeedback">Questions &#38; Réaction</string>
+    <string name="person_actions">Plus d\'options</string>
+    <string name="save_note">Enregistrer une note</string>
+    <string name="delete_image">Effacer l\'image</string>
+    <string name="your_note">Votre note</string>
+    <string name="typeYourNote">Tapez votre note personnelle &#8230;</string>
 </resources>

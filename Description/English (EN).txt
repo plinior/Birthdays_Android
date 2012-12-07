@@ -1,37 +1,38 @@
+<b>The best birthday calendar to stay informed about upcoming birthdays of friends and family!</b>
+
 Free, easy, fast - and without ads!
 
-The best birthday calendar to stay informed about upcoming birthdays of friends and family!
-
-Just open this lightweight app (only 656 KB) and see whom you have to congratulate next and how old this person turns then.
+Just open this lightweight app (only 685 KB) and see whom you have to congratulate next and how old this person turns then.
 
 You don't have to fill in extra information, just type in the day of birth in your contact list and never forget your friends' birthdays again - the built-in countdown always reminds you. You can also add birthdays without a phone contact, just type in the name and date - and if you want, you can add a picture, too.
 
 Of course, the included birthday reminder lets you know when you need to congratulate your friends. Really, you can never forget any birthday again!
 
-PERMISSIONS:
+<b>Permissions:</b>
 • Read contact data: The birthday calendar needs this permission in order to be able to display the birthday events from your contacts. But your data is safe - there's no Internet permission.
 • Write contact data: You can add, modify and delete birthdays within this calendar. For that reason this permission is needed.
 • Automatically start at boot: Necessary for setting up the birthday reminder again when the phone has been restarted.
 
-IS THERE A WIDGET AS WELL?
-Yes, of course ;) You can place the birthday countdown right on your home screen!
+<b>Is there a widget included?</b>
+Yes! You can place the birthday countdown right on your home screen! It is available in sizes 4x1 and 4x2.
 
-CAN I IMPORT BIRTHDAYS FROM FACEBOOK?
-Yes, you can. But we wanted to offer an app without Internet permission, in contrast to other birthday reminders, so that you can be sure your private data is protected. Therefore, you'll need our free add-on, additionally. You'll find it when you choose "Backup" in the birthday calendar's main menu.
+<b>Can I import birthdays from Facebook?</b>
+Yes, just get "Birthdays Plus", which is available for free as well (requires Internet permission):
+https://play.google.com/store/apps/details?id=com.lateinme.birthdays
 
-CAN I HELP TRANSLATING THE APP?
+<b>Can I help translating the app?</b>
 Yes, we'd be glad to have you helping! On the following page, you'll find all information on how to translate this birthday app and thus improve it for all users:
 http://birthdays.latein.me/
 
-FURTHER QUESTIONS:
-An extended help section can be found after downloading the app. When selecting the main menu of the birthday countdown, you will see answers to the most important questions about this app and you can learn how to solve special problems with this application.
+<b>Further questions:</b>
+An extended help section can be found within the app itself. When selecting the main menu of the birthday countdown, you will see answers to the most important questions about this app and you can learn how to solve special problems with this application.
 
-SUPPORTED LANGUAGES:
-English, Deutsch, Français, Nederlandse, Português, Român, русский, Slovenčina, Español, Türk
+<b>Supported languages:</b>
+English, Catalan, Dutch, French, German, Romanian, Russian, Slovak, Spanish, Turkish
 
-THANKS TO:
+<b>Thanks to:</b>
 • Bruno Machado (PT), Marta Loureiro (PT), Volkan Karabulut (TR), Melvin E. (NL), Martin Jurík (SK) and Andrew Sachkov (RU) for translating this birthdays app
 • http://www.latein.me/static/gp_attr_birthdays.txt
 
-TAGS:
+<b>Tags:</b>
 birthday reminder friends contacts calendar family birthdays countdown

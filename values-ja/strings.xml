@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="help">助ける</string>
+    <string name="helpText">オプションメニュー:\nオプションメニューでは、例えば、このアプリのいくつかの追加機能を見つけることができます設定を変更したり、誕生日のあなたのリストに、新しい連絡先を追加する。\n\n接触を長押し：\nあなたが誕生日のリストに既存のエントリを編集または削除するかを選択できる場所は、誕生日のリスト内の連絡先を長押しすると、オプションのメニューがポップアップ表示されます。\n\nウィジェット:\nあなたのホーム画面に移動して、あなたのホーム画面に誕生日を追加するには、 "追加"を押した後に "ウィジェット"を押してください。あなたのウィジェットが6時間ごとに更新されます！\n\n1970年問題:\nあなたは1970年より前の日付を入力することはできません場合、それはあなたのデバイスのための共通の問題（多くの場合、モトローラのデバイスとの）だ。アプリの設定に移動し、"イージー日付選択"を無効にしてください。その変更した後は、テキストフィールドに日付を入力する必要があります - しかし、あなたは、少なくとも1970年より前の日付を入力することができます。\n\nいいえ通知ません:\nAndroidの最新バージョン（4.0+）は、通知のために特別な設定を提供します。たとえば、ステータスバーにすべての通知をオフに切り替えることができます（ここで、3GやWi-Fi、GPSとBluetoothが配置されている）、または設定のうち、 "管理アプリ"で通知を​​無効にします。あなたの通知が動作しない場合は、これらの設定を確認してください。\n\n外部ストレージへの移動:\nあなたは、その場合には動作しないでしょう誕生日のための通知などの外部ストレージ（SDカード）には、このアプリを移動することはできません。すみません！\n\nサポートされている日付形式：\n我々は完全にYYYY-MM-DDです、ISO 8601に従って、日付形式をサポートしています。他のフォーマットのために、私たちは、それらが正しく読み取られていることを保証することはできません。\n\n私はアプリの翻訳を手伝ってくれる？\nはい、できます。あなたは簡単にすべてのユーザのすべての翻訳を編集し、それらを改善することができる場所だけで、Facebook上で私たちのアプリケーションを使用します。よりよい読書および編集するためのデスクトップコンピュータ上の以下のリンクを開いてください。\nhttp://birthdays.latein.me/</string>
+    <string name="goHome">家に帰る</string>
+    <string name="settingsGeneral">全般設定</string>
+    <string name="showPhotos">連絡先の写真</string>
+    <string name="showPhotos_on">連絡先の写真が表示されます。</string>
+    <string name="showPhotos_off">連絡先の写真が表示されません。</string>
+    <string name="nextBirthdayOnWeekDay">次の誕生日はオンになっています</string>
+    <string name="nextAnniversaryOnWeekDay">次の記念日はオンになっています</string>
+    <string name="tipDontEnterYear"><b>ヒント：</b> 任意の年を入力したくないですか？ただタイプ1900と年が表示されません。</string>
+    <string name="contactPhoto">連絡先の写真</string>
+    <string name="daysLeftUnit">日</string>
+    <string name="noBirthdaysFound">あなたの連絡先リスト内の任意の誕生日を見つけることができませんでした！</string>
+    <string name="turnVerb">ターン</string>
+    <string name="onTime">上の</string>
+    <string name="pleaseWait">しばらくお待ちください</string>
+    <string name="refreshingList">さわやかリスト &#8230;</string>
+    <string name="bornOn">誕生日:</string>
+    <string name="anniversaryOn">上の周年記念:</string>
+    <string name="age">年齢:</string>
+    <string name="yearsMarried">から:</string>
+    <string name="years">年</string>
+    <string name="ok">オーケー</string>
+    <string name="today">今日</string>
+    <string name="in">で</string>
+    <string name="birthday">誕生日</string>
+    <string name="yearsOld">歳</string>
+    <string name="loading">積載</string>
+    <string name="fullTextConvinced">このアプリはあなたを納得させていますか？我々は、あなたがGoogle Playでの私たちのアプリケーションを評価することができれば非常に幸せになる。ご支援いただきありがとうございます！</string>
+    <string name="rateApp">率は、このアプリ</string>
+    <string name="rateNow">評価をして</string>
+    <string name="remindLater">後で通知</string>
+    <string name="noThanks">いや、いいよ</string>
+    <string name="callVerb">呼び出す</string>
+    <string name="mode_add">加える</string>
+    <string name="mode_edit">変更</string>
+    <string name="mode_backup">バックアップ</string>
+    <string name="mode_help">助ける</string>
+    <string name="mode_buy">ギフト</string>
+    <string name="birthdayEdited">選択された誕生日は新しい日付に更新されました。</string>
+    <string name="cancel">キャンセル</string>
+    <string name="save">保存</string>
+    <string name="smsVerb">SMS</string>
+    <string name="congratulationSMS">誕生日おめでとう！</string>
+    <string name="comingSoon">もうすぐ！</string>
+    <string name="nameOfPerson">人名</string>
+    <string name="dateOfBirth">日付を選択してください</string>
+    <string name="delete">削除</string>
+    <string name="edit">日付を変更</string>
+    <string name="birthdayDeleted">選択された誕生日は削除されました。</string>
+    <string name="mode_preferences">プ</string>
+    <string name="notification_on">通知が表示されます。</string>
+    <string name="notification_off">通知しない。</string>
+    <string name="notification_0">誕生日に</string>
+    <string name="notification_1">1日前</string>
+    <string name="notification_2">2日前</string>
+    <string name="notification_7">1週間前</string>
+    <string name="notification_time">通知のための時間</string>
+    <string name="notification_sound">通知のためのサウンド</string>
+    <string name="notification_sound_desc">着信音や"サイレント"を選択してください</string>
+    <string name="setTime">あなたの有利な時間を設定してください &#8230;</string>
+    <string name="notificationsForBirthdays">誕生日の通知</string>
+    <string name="caption_adding_mode">新しいエントリを追加する</string>
+    <string name="hint_adding_mode">可能であれば、あなたは常にあなたの連絡先に誕生日を追加する必要があります。その後、より多くの機能を使用することができます。</string>
+	<string name="adding_mode_contacts">連絡先から選択</string>
+	<string name="adding_mode_newentry">電話連絡なし</string>
+	<string name="mode_search">検索</string>
+	<string name="searchNoResult">この名前に一致するリスト内のすべての人を見つけることができませんでした！</string>
+	<string name="findPerson">人を探す</string>
+	<string name="searchPerson">検索人 &#8230;</string>
+	<string name="hint_search_mode">名前の一部を入力して、誕生日のリストに人を検索するときには、通常は十分です。</string>
+	<string name="zodiac">ゾディアック</string>
+	<string name="zodiac_aries">牡羊座</string>
+	<string name="zodiac_taurus">牡牛座</string>
+	<string name="zodiac_gemini">双子座</string>
+	<string name="zodiac_cancer">癌</string>
+	<string name="zodiac_leo">レオ</string>
+	<string name="zodiac_virgo">乙女座</string>
+	<string name="zodiac_libra">天秤座</string>
+	<string name="zodiac_scorpio">蠍座</string>
+	<string name="zodiac_sagittarius">射手座</string>
+	<string name="zodiac_capricornus">山羊座</string>
+	<string name="zodiac_aquarius">水瓶座</string>
+	<string name="zodiac_pisces">魚座</string>
+	<string name="changePicture">画像を変更</string>
+	<string name="change_name">名前を変更する</string>
+	<string name="sortBy">エントリの順序</string>
+	<string name="sortBy_change">あなたのリストがでソートされているものを選ぶ</string>
+	<string-array name="sortBy_values_human">
+        <item>余日</item>
+        <item>名前</item>
+        <item>年齢</item>
+    </string-array>
+	<string-array name="sortBy_values_machine">
+        <item>days_left</item>
+        <item>name</item>
+        <item>age</item>
+    </string-array>
+    <string name="show_phoneButtons">電話機のボタン</string>
+    <string name="show_phoneButtons_on">通話とSMS用のボタンが表示されます。</string>
+    <string name="show_phoneButtons_off">通話とSMS用のボタンが表示されません。</string>
+    <string name="choose_type">タイプを選択</string>
+    <string name="type_birthday">誕生日</string>
+    <string name="type_anniversary">記念日</string>
+    <string name="open_contact">連絡先を開きます</string>
+    <string name="buyVerb">ギフトを探す</string>
+    <string name="doExport">保存/エクスポート</string>
+    <string name="doImport">インポート/ロード</string>
+    <string name="importVerb">インポート</string>
+	<string name="pleaseEnterImportData">申し訳ありませんが、インポートが終了することができませんでした！</string>
+    <string name="invalidDate">日付が無効です。</string>
+    <string name="pleaseCorrect">これを修正してください！</string>
+    <string name="tryOpeningInvalid">これは無効なエントリです。それを長押しして"変更日付"を選択してください。</string>
+    <string name="chineseZodiac">中国人</string>
+	<string name="chinese_rat">ラット</string>
+	<string name="chinese_ox">雄牛</string>
+	<string name="chinese_tiger">タイガー</string>
+	<string name="chinese_rabbit">ウサギ</string>
+	<string name="chinese_dragon">ドラゴン</string>
+	<string name="chinese_snake">ヘビ</string>
+	<string name="chinese_horse">馬</string>
+	<string name="chinese_goat">ヤギ</string>
+	<string name="chinese_monkey">猿</string>
+	<string name="chinese_rooster">おんどり</string>
+	<string name="chinese_dog">犬</string>
+	<string name="chinese_pig">豚</string>
+	<string name="show_zodiac">黄道十二宮</string>
+	<string name="show_zodiac_description">あなたは干支が表示されるようにしたいですか？</string>
+	<string-array name="show_zodiac_values_human">
+        <item>西部の</item>
+        <item>中国人</item>
+        <item>西部の + 中国人</item>
+        <item>なし</item>
+    </string-array>
+	<string-array name="show_zodiac_values_machine">
+        <item>western</item>
+        <item>chinese</item>
+        <item>both</item>
+        <item>none</item>
+    </string-array>
+	<string name="do_repeatsound">音を繰り返し</string>
+	<string name="do_repeatsound_on">通知を閉じるまで、通知音が繰り返されます。</string>
+	<string name="do_repeatsound_off">通知音は一度だけ再生されます。</string>
+	<string name="facebookImport">Facebookからインポート</string>
+	<string name="install">今すぐインストール</string>
+	<string name="missing_addon_title">誕生日プラス</string>
+	<string name="missing_addon_explain">この機能は必要 \"誕生日プラス\", このアプリの拡張されたが、それでも無料版。それはあなたの優れた機能を提供するために追加のアクセス許可（インターネットやSDカードへのアクセス）を使用しています。ただ、拡張アプリを取得し、優れた機能を楽しむためにGoogleのプレイをご覧ください。それを試してみてください - それは無料です！</string>
+    <string name="show_help">ヘルプを表示</string>
+    <string name="rate_app">率アプリ</string>
+    <string name="export_fail">申し訳ありませんが、データのエクスポートを開始できませんでした！</string>
+    <string name="loading_facebook">Facebookからのデータのロード &#8230;</string>
+    <string name="notification_close">閉じる通知</string>
+    <string name="notification_remind1">15分後にもう一度思い出させる</string>
+    <string name="notification_remind2">1時間で再び思い出させる</string>
+    <string name="notification_remind3">6時間後にもう一度思い出させる</string>
+    <string name="importing_entries">選択されたエントリのインポート &#8230;</string>
+    <string name="open_app">オープンアプリ</string>
+    <string-array name="default_images">
+        <item>誕生日 (1)</item>
+        <item>誕生日 (2)</item>
+        <item>ジュビリー</item>
+        <item>愛</item>
+        <item>ウエディング</item>
+        <item>死 (1)</item>
+        <item>死 (2)</item>
+    </string-array>
+    <string-array name="default_images_copyright">
+        <item>Africa Studio</item>
+        <item>bluedesign</item>
+        <item>shoot4u</item>
+        <item>Konstiantyn</item>
+        <item>artikularis</item>
+        <item>Pixel Embargo</item>
+        <item>Benjamin Haas</item>
+    </string-array>
+    <string name="pick_from_gallery">ギャラリーから選ぶ</string>
+    <string name="pick_predefined_image">ストック画像を選択</string>
+    <string name="image_provided_by">この画像は、によって提供されています</string>
+    <string name="helpTranslating">翻訳ヘルプ</string>
+    <string name="translationHelpHowto">デスクトップコンピュータ上のブラウザ（読みやすくすると編集用）で開いてください。\nhttp://birthdays.latein.me/</string>
+    <string name="menu_main">メインメニュー</string>
+	<string name="mode_translate">翻訳する</string>
+	<string name="days_abbreviation">d</string>
+	<string name="sure_to_delete">あなたはこのエントリを削除してもよろしいですか？</string>
+	<string name="yes">はい</string>
+	<string name="no">ノー</string>
+	<string name="merge_with_contact">連絡先とのマージ</string>
+	<string name="merge_explanation">既存の電話連絡で、このエントリをマージしてもよろしいですか？</string>
+	<string name="entry_merged">エントリが正常に選択された連絡先にマージされました。</string>
+	<string name="contacts_app_not_found">連絡先アプリは、あなたのデバイス上で見つけることができませんでした！</string>
+	<string name="defaultDateFormat">YYYY-MM-DD</string>
+	<string name="show_datepicker">簡単に日付を選択する</string>
+	<string name="show_datepicker_on">あなたはリストから年、月、日を選択できる日付選択のための便利な方法。</string>
+	<string name="show_datepicker_off">単純なテキストフィールドが表示されます。手動で日付を入力することができます。お使いのデバイスがそうでなければ前に1970年を受け入れない場合に便利です。</string>
+	<string name="settings_other">その他の設定</string>
+	<string name="congratulationText_title">おめでとうテキスト</string>
+	<string name="congratulationText_summary">ここにお祝いのメッセージ用の定義済みのテキストを設定します。</string>
+	<string name="widet_4x1">誕生日 (4x1)</string>
+	<string name="widet_4x2">誕生日 (4x2)</string>
+    <string name="fbLoad_fail">誕生日は、Facebookからインポートすることができませんでした！</string>
+    <string name="fbLoad_success">誕生日は正常にFacebookからインポート！</string>
+    <string name="export_success">正常に保存されたバックアップ \"Birthdays Plus\" on SD card!</string>
+    <string name="import_fail">バックアップからインポートすることができませんでした \"Birthdays Plus\" on SD card!</string>
+    <string name="import_success">から正常にインポートされたバックアップ \"Birthdays Plus\" on SD card!</string>
+    <string name="sdBackup">SDのバックアップ</string>
+    <string name="open_facebook_profile">Facebookのプロフィールを開きます</string>
+    <string name="loading_image">写真を読み込んでいます &#8230;</string>
+    <string name="new_version">新バージョン</string>
+    <string name="new_version_get">改良された機能は、このアプリの新しいバージョンは、Google Playで利用可能です。あなたは現在、アップデートを取得したいですか？</string>
+    <string name="do_download">ダウンロード</string>
+    <string name="do_ignore">無視する</string>
+    <string name="supportAndFeedback">質問 &#38; フィードバック</string>
+    <string name="person_actions">その他のオプション</string>
+    <string name="save_note">保存しないe</string>
+    <string name="delete_image">画像を削除</string>
+    <string name="your_note">あなたのメモ</string>
+    <string name="typeYourNote">あなたの個人的なメモを入力 &#8230;</string>
+</resources>

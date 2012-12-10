@@ -146,7 +146,7 @@
 	<string name="facebookImport">Importar do Facebook</string>
 	<string name="install">Instalar agora</string>
 	<string name="missing_addon_title">Aniversários Plus</string>
-	<string name="missing_addon_explain">Este recurso exige \"Aniversários Plus\", uma versão extendida, ainda gratuita, desta app. Essa versão requer permissões adicionais (acesso à internet e ao cartão SD) a fim de lhe oferecer mais características. Basta visitar a Google Play para obter a versão extendida da app e desfrutar de recursos aprimorados. Experimente, é grátis!</string>
+	<string name="missing_addon_explain">Este recurso exige \"Aniversários Plus\", uma versão estendida, ainda gratuita, desta app. Essa versão requer permissões adicionais (acesso à internet e ao cartão SD) a fim de lhe oferecer mais características. Basta visitar a Google Play para obter a versão estendida da app e desfrutar de recursos aprimorados. Experimente, é grátis!</string>
 	<string name="show_help">Mostrar ajuda</string>
 	<string name="rate_app">Avaliar a aplicação</string>
 	<string name="export_fail">Lamentamos, a exportação dos seus dados não pôde ser iniciada!</string>

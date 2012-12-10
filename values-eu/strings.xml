@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="help">Laguntza</string>
+    <string name="helpText">AUKEREN MENUA:\nAukeren menuan aplikazio honen ezaugarri gehigarri batzuk aurki daitezke; adibidez, hobespenak aldatzeko edo urtebetetzeen zerrendan kontaktu batzuk gehitzeko. \n\nKONTAKTU BAT LUZE SAKATU:\nKontaktu bat luze sakatzen denean urtebetetzeen zerrendan, aukeren menu bat agertuko da non aukera dezakezun urtebetetzeen zerrendako sarrera bat aldatzea edo ezabatzea.\n\nARGAZKI BAT GEHITU:\nArgazkiak gehi dakizkieke kontaktuetan ez dauden eta eskuz gehitu diren pertsonei bakarrik. Kontaktu-zerrendako pertsonen kasuan, aldatu behar da sarrera Androiden kontaktuetan.\n\nWIDGETa:\nJoan hasierako pantailara eta sakatu \"Gehitu\" \"Widget\" urtebetetzeak gehitzeko zure hasierako pantailan. Widgeta 6 orduro eguneratuko da!\n\n1970 PROBLEM:\nIf you cannot enter dates prior to 1970, it\'s a common problem for your device (often with Motorola devices). Please go to the app\'s settings and disable the \"Easy date selection\". After that change, you\'ll have to enter dates in a text field - but you can at least enter dates prior to 1970.\n\nJAKINARAZPENIK GABE:\nAndroiden azken bertsioak, 4.0 eta 4.1, hain zuzen, jakinarazpenetarako doikuntza bereziak eskaintzen dituzte. Adibidez, jakinarazpen guztiak desaktiba daitezke egoera-barran (3Gn, Wi-Fin, GPSn eta Bluetoothen) edo \"Aplikazioak administratu\" doikuntzetan. Mesedez,  begiratu doikuntzei jakinarazpenak ibiltzen ez badira.\n\nKANPOKO MEMORIARA MUGITZEA:\nAplikazio hau ezin da mugitu SD txartelara, hurrengo urtebetzeen jakinarazpenak ibiliko ez direlako. Sentitzen dugu!\n\nDATEN FORMATUA:\nISO 8601 arauak ezartzen duen formatuaren aldeko sutsuak gara, hots, UUUU-HH-EE formatuaren aldekoak. Ezin dugu bermatu beste formatuak behar bezala irakurriko direla.\n\nAPLIKAZIO HAU ITZULTZEN LAGUN AL DEZAKET?\nBai, lagun dezakezu. Gure aplizakioa Facebooken erabiltzea besterik ez duzu. Hor erabiltzaile guztiek aldatu eta hobetu ditzakete itzulpenak. Mesedez, ireki ondoko esteka ordenagailu batean hobeto irakurri eta idazteko:\nhttp://birthdays.latein.me/</string>
+    <string name="goHome">Hasiera</string>
+    <string name="settingsGeneral">Konfigurazio orokorra</string>
+    <string name="showPhotos">Kontaktuen argazkiak</string>
+    <string name="showPhotos_on">Kontaktuen argazkiak erakutsiko dira.</string>
+    <string name="showPhotos_off">Kontaktuen argazkiak ez dira erakutsiko.</string>
+    <string name="nextBirthdayOnWeekDay">Hurrengo urtebetetzea ondokoan izango da</string>
+    <string name="nextAnniversaryOnWeekDay">Hurrengo urteurrena ondokoan izango da</string>
+    <string name="tipDontEnterYear"><b>Iradokizuna:</b> Urtea sartu nahi ez baduzu, \"1900\" idaztea besterik ez duzu eta ez da urtea ikusiko.</string>
+    <string name="contactPhoto">Kontaktuaren argazkia</string>
+    <string name="daysLeftUnit">egun</string>
+    <string name="noBirthdaysFound">Ez da urtebetetzerik aurkitu zure kontaktuen zerrendan!</string>
+    <string name="turnVerb">beteko</string>
+    <string name="onTime">-(e)an</string>
+    <string name="pleaseWait">Itxaron, mesedez</string>
+    <string name="refreshingList">Zerrenda eguneratzen &#8230;</string>
+    <string name="bornOn">Jaiotze-data:</string>
+    <string name="anniversaryOn">Urteurrena:</string>
+    <string name="age">Adina:</string>
+    <string name="yearsMarried">Zenbat urte ezkonduta:</string>
+    <string name="years">urte</string>
+    <string name="ok">Ados</string>
+    <string name="today">gaur</string>
+    <string name="in">-(e)an</string>
+    <string name="birthday">urtebetetzea</string>
+    <string name="yearsOld">urte</string>
+    <string name="loading">kargatzen</string>
+    <string name="fullTextConvinced">Aplikazio hau gogokoa al duzu? Asko eskertuko dizugu gure aplikazioa bozkatzea Google Play-n. Eskerrik asko zure laguntzagatik!</string>
+    <string name="rateApp">Balioztatu aplikazio hau</string>
+    <string name="rateNow">Bozkatu orain</string>
+    <string name="remindLater">Geroago</string>
+    <string name="noThanks">Ez, eskerrik asko</string>
+    <string name="callVerb">Deitu</string>
+    <string name="mode_add">Gehitu</string>
+    <string name="mode_edit">Editatu</string>
+    <string name="mode_backup">Segurtasun-kopia</string>
+    <string name="mode_help">Laguntza</string>
+    <string name="mode_buy">Opariak</string>
+    <string name="birthdayEdited">Aukeratutako urtebetetzea data berrira eguneratu da.</string>
+    <string name="cancel">Ezeztatu</string>
+    <string name="save">Gorde</string>
+    <string name="smsVerb">SMSa</string>
+    <string name="congratulationSMS">Zorionak!</string>
+    <string name="comingSoon">Laster!</string>
+    <string name="nameOfPerson">Pertsonaren izena</string>
+    <string name="dateOfBirth">Aukeratu data</string>
+    <string name="delete">Ezabatu</string>
+    <string name="edit">Data aldatu</string>
+    <string name="birthdayDeleted">Aukeratutako urtebetetzea ezabatu da.</string>
+    <string name="mode_preferences">Hobespenak</string>
+    <string name="notification_on">Jakinarazpenak erakutsiko dira.</string>
+    <string name="notification_off">Jakinarazpenik gabe.</string>
+    <string name="notification_0">urtebetzean bertan</string>
+    <string name="notification_1">egun 1 lehenago</string>
+    <string name="notification_2">2 egun lehenago</string>
+    <string name="notification_7">aste 1 lehenago</string>
+    <string name="notification_time">Jakinarazpenetarako ordua</string>
+    <string name="notification_sound">Jakinarazpenetarako soinua</string>
+    <string name="notification_sound_desc">Mesedez, aukeratu dei-tonu bat edo \"Isiltasuna\"</string>
+    <string name="setTime">Mesedez, aukeratu ordua &#8230;</string>
+    <string name="notificationsForBirthdays">Urtebetetzeen jakinarazpenak</string>
+    <string name="caption_adding_mode">Sarrera bat gehitu</string>
+    <string name="hint_adding_mode">Ahal bada, zure kontaktuen urtebetzeak beti gehitu behar dira. Ezaugarri gehiago erabil ditzakezu jarraian.</string>
+	<string name="adding_mode_contacts">kontaktuak aukeratu</string>
+	<string name="adding_mode_newentry">telefonoko kontakturik gabe</string>
+	<string name="mode_search">Bilatu</string>
+	<string name="searchNoResult">Ezin da izan aurkitu izen hau duen pertsonik zure kointzidentzien zerrendan!</string>
+	<string name="findPerson">Pertsona bat aurkitu</string>
+	<string name="searchPerson">Pertsonak bilatu &#8230;</string>
+	<string name="hint_search_mode">Urtebetetzeen zerrendan persona bat bilatzeko, nahikoa da izenaren zati bat idaztea.</string>
+	<string name="zodiac">Zodiakoa</string>
+	<string name="zodiac_aries">Aries</string>
+	<string name="zodiac_taurus">Taurus</string>
+	<string name="zodiac_gemini">Gemini</string>
+	<string name="zodiac_cancer">Cancer</string>
+	<string name="zodiac_leo">Leo</string>
+	<string name="zodiac_virgo">Virgo</string>
+	<string name="zodiac_libra">Libra</string>
+	<string name="zodiac_scorpio">Scorpio</string>
+	<string name="zodiac_sagittarius">Sagittarius</string>
+	<string name="zodiac_capricornus">Capricorn</string>
+	<string name="zodiac_aquarius">Aquarius</string>
+	<string name="zodiac_pisces">Pisces</string>
+	<string name="changePicture">Argazkia aldatu</string>
+	<string name="change_name">Izena aldatu</string>
+	<string name="sortBy">Sarreren ordena</string>
+	<string name="sortBy_change">Aldatu zerrenda ordenatzeko era</string>
+	<string-array name="sortBy_values_human">
+        <item>Geratzen diren egunak</item>
+        <item>Izena</item>
+        <item>Adina</item>
+    </string-array>
+	<string-array name="sortBy_values_machine">
+        <item>days_left</item>
+        <item>name</item>
+        <item>age</item>
+    </string-array>
+    <string name="show_phoneButtons">Telefonoaren botoiak</string>
+    <string name="show_phoneButtons_on">Dei eta SMS-tarako botoiak erakutsiko dira.</string>
+    <string name="show_phoneButtons_off">Dei eta SMS-tarako botoiak ez dira erakutsiko.</string>
+    <string name="choose_type">Aukeratu mota</string>
+    <string name="type_birthday">Urtebetetzea</string>
+    <string name="type_anniversary">Urteurrena</string>
+    <string name="open_contact">Ireki kontaktua</string>
+    <string name="buyVerb">Opari bat erosi</string>
+    <string name="doExport">Esportatu / Gorde</string>
+    <string name="doImport">Inportatu / Kargatu</string>
+    <string name="importVerb">Inportatu</string>
+	<string name="pleaseEnterImportData">Tamalez, inportazioa ezin izan da amaitu!</string>
+    <string name="invalidDate">Data baliogabea.</string>
+    <string name="pleaseCorrect">Mesedez, zuzendu hau!</string>
+    <string name="tryOpeningInvalid">Sarrera baliogabea. Luze sakatu eta hautatu \"Editatu data\" aukera.</string>
+    <string name="chineseZodiac">Txinatarra</string>
+	<string name="chinese_rat">Arratoia</string>
+	<string name="chinese_ox">Idia</string>
+	<string name="chinese_tiger">Tigrea</string>
+	<string name="chinese_rabbit">Untxia</string>
+	<string name="chinese_dragon">Herensugea</string>
+	<string name="chinese_snake">Sugea</string>
+	<string name="chinese_horse">Zaldia</string>
+	<string name="chinese_goat">Ahuntza</string>
+	<string name="chinese_monkey">Tximinoa</string>
+	<string name="chinese_rooster">Oilarra</string>
+	<string name="chinese_dog">Txakurra</string>
+	<string name="chinese_pig">Txerria</string>
+	<string name="show_zodiac">Zodiakoko zeinuak</string>
+	<string name="show_zodiac_description">Nahi al duzu zodiakoko zeinuak erakustea?</string>
+	<string-array name="show_zodiac_values_human">
+        <item>Mendebaldekoa</item>
+        <item>Txinatarra</item>
+        <item>Mendebaldekoa + Txinatarra</item>
+        <item>Bat ere ez</item>
+    </string-array>
+	<string-array name="show_zodiac_values_machine">
+        <item>western</item>
+        <item>chinese</item>
+        <item>both</item>
+        <item>none</item>
+    </string-array>
+	<string name="do_repeatsound">Errepikatu soinua</string>
+	<string name="do_repeatsound_on">Jakinarazpenaren soinua jakinarazpena itxi arte errepikatuko da.</string>
+	<string name="do_repeatsound_off">Jakinarazpenaren soinua behin bakarrik erreproduzituko da.</string>
+	<string name="facebookImport">Facebook-tik inportatzea</string>
+	<string name="install">Instalatu orain</string>
+	<string name="missing_addon_title">Birthdays Plus</string>
+	<string name="missing_addon_explain">This feature requires \"Birthdays Plus\", an extended but still free version of this app. It uses additional permissions (access to internet and SD card) to offer you better features. Just visit Google Play to get the extended app and enjoy great features. Try it - it\'s free!</string>
+    <string name="show_help">Laguntza erakutsi</string>
+    <string name="rate_app">Aplikazio-tasa</string>
+    <string name="export_fail">Sentitzen dugu, ezin izan da zure datuak esportatu.</string>
+    <string name="loading_facebook">Datuak kargatu Facebook-tik &#8230;</string>
+    <string name="notification_close">Itxi</string>
+    <string name="notification_remind1">Gogoratu berriro 15min barru</string>
+    <string name="notification_remind2">Gogoratu berriro 1b barru</string>
+    <string name="notification_remind3">Gogoratu berriro 6b barru</string>
+    <string name="importing_entries">Importatu aukeratutako sarrerak &#8230;</string>
+    <string name="open_app">Ireki aplikazioa</string>
+    <string-array name="default_images">
+        <item>Urtebetetzea (1)</item>
+        <item>Urtebetetzea (2)</item>
+        <item>Urteurrena</item>
+        <item>Maitasuna</item>
+        <item>Ezkontza</item>
+        <item>Heriotza (1)</item>
+        <item>Heriotza (2)</item>
+    </string-array>
+    <string-array name="default_images_copyright">
+        <item>Africa Studio</item>
+        <item>bluedesign</item>
+        <item>shoot4u</item>
+        <item>Konstiantyn</item>
+        <item>artikularis</item>
+        <item>Pixel Embargo</item>
+        <item>Benjamin Haas</item>
+    </string-array>
+    <string name="pick_from_gallery">Aukeratu galeriatik</string>
+    <string name="pick_predefined_image">Aurretik zehaztutako irudiak aukeratu</string>
+    <string name="image_provided_by">Irudi hau honako honek eman digu</string>
+    <string name="helpTranslating">Lagundu itzultzen</string>
+    <string name="translationHelpHowto">Mesedez, ireki nabigatzailea ordenagailuan, hobeto irakurri eta editatzeko:\nhttp://birthdays.latein.me/</string>
+    <string name="menu_main">Menu nagusia</string>
+	<string name="mode_translate">Itzuli</string>
+	<string name="days_abbreviation">e</string>
+	<string name="sure_to_delete">Seguru al zaude sarrera hau ezabatu nahi duzula?</string>
+	<string name="yes">Bai</string>
+	<string name="no">Ez</string>
+	<string name="merge_with_contact">Kontaktuarekin bat egin</string>
+	<string name="merge_explanation">Nahi al duzu sarrera hau dagoen kontaktu batekin bat egin?</string>
+	<string name="entry_merged">Sarrera arrakastaz bat egin da aukeratutako kontaktuarekin.</string>
+	<string name="contacts_app_not_found">Ezinezkoa da kontaktuen aplikazioa aurkitzea!</string>
+	<string name="defaultDateFormat">UUUU-HH-EE</string>
+	<string name="show_datepicker">Data aukeratzeko era erraza</string>
+	<string name="show_datepicker_on">Data aukeratzeko era erraza, zeinak eguna, hilabetea eta urtea zerrenda batetik aukeratzea ahalbidetzen zaituen.</string>
+	<string name="show_datepicker_off">Testu-eremu erraz bat erakusten da. Data eskuz idatz daiteke. Hori oso erabilgarria da gailuak ez badu onartzen 1970. urtearen aurrekoa sartzea.</string>
+	<string name="settings_other">Bestelako doikuntzak</string>
+	<string name="congratulationText_title">Zoriontzeko testua</string>
+	<string name="congratulationText_summary">arri hemen zure aurrezehaztutako testua zoriontzeko.</string>
+	<string name="widet_4x1">Urtebetetzeak (4x1)</string>
+	<string name="widet_4x2">Urtebetetzeak (4x2)</string>
+    <string name="fbLoad_fail">Birthdays could not be imported from Facebook!</string>
+    <string name="fbLoad_success">Birthdays successfully imported from Facebook!</string>
+    <string name="export_success">Backup successfully saved in \"Birthdays Plus\" on SD card!</string>
+    <string name="import_fail">Backup could not be imported from \"Birthdays Plus\" on SD card!</string>
+    <string name="import_success">Backup successfully imported from \"Birthdays Plus\" on SD card!</string>
+    <string name="sdBackup">SD backup</string>
+    <string name="open_facebook_profile">Facebook profile</string>
+    <string name="loading_image">Loading photo &#8230;</string>
+    <string name="new_version">New version</string>
+    <string name="new_version_get">A new version of this app with improved features is available on Google Play. Do you want to get the update now?</string>
+    <string name="do_download">Download</string>
+    <string name="do_ignore">Ignore</string>
+    <string name="supportAndFeedback">Questions &#38; Feedback</string>
+    <string name="person_actions">Actions</string>
+    <string name="save_note">Save a note</string>
+    <string name="delete_image">Delete image</string>
+    <string name="your_note">Your note</string>
+    <string name="typeYourNote">Type your personal note &#8230;</string>
+</resources>

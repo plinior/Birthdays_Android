@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="daysLeft">
-        <item quantity="zero">today</item>
-        <item quantity="one">tomorrow</item>
-        <item quantity="other">%d days left</item>
+        <item quantity="zero">oggi</item>
+        <item quantity="one">domani</item>
+        <item quantity="other">mancano %d giorni</item>
     </plurals>
 </resources>
